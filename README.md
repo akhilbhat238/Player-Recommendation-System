@@ -5,7 +5,7 @@ A football based AI solution to recommend the right signings to the right footba
 Build a player recommendation system for clubs to invest their transfer budget on. 
 
 1. The system will classify what level a club is at, and identify the next level for a club to reach.
-	a. This is based on current position and average position over the kast 5 years
+	a. This is based on current position and average position over the last 5 years
 	b. Winning a champions league, national league, national cups will be considered.
 	c. Each competition(leagues) will have a weightage.
 		i. How many CL winners/finalists are in the competition --25 years. Each 5 year set has it's own weightage.
