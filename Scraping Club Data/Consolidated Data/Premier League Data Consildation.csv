@@ -1,0 +1,501 @@
+,Club,Position,Player_Name,DOB,Nation,Contract_Expiry,Value,League
+0,Manchester City,Goalkeeper,Ederson,"Aug 17, 1993 (26)",Brazil,30.06.2025,£63.00m,English Premier League
+1,Manchester City,Goalkeeper,Claudio Bravo,"Apr 13, 1983 (36)",Chile,30.06.2020,£2.25m,English Premier League
+2,Manchester City,Goalkeeper,Scott Carson,"Sep 3, 1985 (34)",England,31.05.2020,£1.80m,English Premier League
+3,Manchester City,Defender,Aymeric Laporte,"May 27, 1994 (25)",France,30.06.2025,£67.50m,English Premier League
+4,Manchester City,Defender,John Stones,"May 28, 1994 (25)",England,30.06.2022,£54.00m,English Premier League
+5,Manchester City,Defender,Nicolás Otamendi,"Feb 12, 1988 (31)",Argentina,30.06.2022,£22.50m,English Premier League
+6,Manchester City,Defender,Benjamin Mendy,"Jul 17, 1994 (25)",France,30.06.2023,£31.50m,English Premier League
+7,Manchester City,Defender,Oleksandr Zinchenko,"Dec 15, 1996 (22)",Ukraine,30.06.2024,£27.00m,English Premier League
+8,Manchester City,Defender,Angeliño,"Jan 4, 1997 (22)",Spain,30.06.2023,£14.40m,English Premier League
+9,Manchester City,Defender,João Cancelo,"May 27, 1994 (25)",Portugal,30.06.2025,£49.50m,English Premier League
+10,Manchester City,Defender,Kyle Walker,"May 28, 1990 (29)",England,30.06.2024,£45.00m,English Premier League
+11,Manchester City,Midfielder,Rodri,"Jun 22, 1996 (23)",Spain,30.06.2024,£72.00m,English Premier League
+12,Manchester City,Midfielder,Fernandinho,"May 4, 1985 (34)",Brazil,30.06.2020,£10.80m,English Premier League
+13,Manchester City,Midfielder,Ilkay Gündogan,"Oct 24, 1990 (28)",Germany,30.06.2023,£45.00m,English Premier League
+14,Manchester City,Midfielder,Phil Foden,"May 28, 2000 (19)",England,30.06.2024,£27.00m,English Premier League
+15,Manchester City,Midfielder,Kevin De Bruyne,"Jun 28, 1991 (28)",Belgium,30.06.2023,£117.00m,English Premier League
+16,Manchester City,Midfielder,David Silva,"Jan 8, 1986 (33)",Spain,30.06.2020,£18.00m,English Premier League
+17,Manchester City,Forward,Raheem Sterling,"Dec 8, 1994 (24)",England,30.06.2023,£126.00m,English Premier League
+18,Manchester City,Forward,Leroy Sané,"Jan 11, 1996 (23)",Germany,30.06.2021,£90.00m,English Premier League
+19,Manchester City,Forward,Bernardo Silva,"Aug 10, 1994 (25)",Portugal,30.06.2025,£90.00m,English Premier League
+20,Manchester City,Forward,Riyad Mahrez,"Feb 21, 1991 (28)",Algeria,30.06.2023,£54.00m,English Premier League
+21,Manchester City,Forward,Gabriel Jesus,"Apr 3, 1997 (22)",Brazil,30.06.2023,£63.00m,English Premier League
+22,Manchester City,Forward,Sergio Agüero,"Jun 2, 1988 (31)",Argentina,30.06.2021,£58.50m,English Premier League
+23,Liverpool FC,Goalkeeper,Alisson,"Oct 2, 1992 (26)",Brazil,30.06.2024,£72.00m,English Premier League
+24,Liverpool FC,Goalkeeper,Adrián,"Jan 3, 1987 (32)",Spain,30.06.2021,£4.50m,English Premier League
+25,Liverpool FC,Goalkeeper,Andy Lonergan,"Oct 19, 1983 (35)",England,-,£225k,English Premier League
+26,Liverpool FC,Defender,Virgil van Dijk,"Jul 8, 1991 (28)",Netherlands,30.06.2023,£90.00m,English Premier League
+27,Liverpool FC,Defender,Joe Gomez,"May 23, 1997 (22)",England,30.06.2024,£31.50m,English Premier League
+28,Liverpool FC,Defender,Joel Matip,"Aug 8, 1991 (28)",Cameroon,30.06.2020,£31.50m,English Premier League
+29,Liverpool FC,Defender,Dejan Lovren,"Jul 5, 1989 (30)",Croatia,30.06.2021,£18.00m,English Premier League
+30,Liverpool FC,Defender,Andrew Robertson,"Mar 11, 1994 (25)",Scotland,30.06.2024,£54.00m,English Premier League
+31,Liverpool FC,Defender,Trent Alexander-Arnold,"Oct 7, 1998 (20)",England,30.06.2024,£72.00m,English Premier League
+32,Liverpool FC,Defender,Nathaniel Clyne,"Apr 5, 1991 (28)",England,30.06.2020,£10.80m,English Premier League
+33,Liverpool FC,Midfielder,Fabinho,"Oct 23, 1993 (25)",Brazil,30.06.2023,£45.00m,English Premier League
+34,Liverpool FC,Midfielder,Georginio Wijnaldum,"Nov 11, 1990 (28)",Netherlands,30.06.2021,£45.00m,English Premier League
+35,Liverpool FC,Midfielder,Naby Keïta,"Feb 10, 1995 (24)",Guinea,30.06.2023,£45.00m,English Premier League
+36,Liverpool FC,Midfielder,Jordan Henderson,"Jun 17, 1990 (29)",England,30.06.2023,£31.50m,English Premier League
+37,Liverpool FC,Midfielder,Alex Oxlade-Chamberlain,"Aug 15, 1993 (26)",England,30.06.2023,£31.50m,English Premier League
+38,Liverpool FC,Midfielder,James Milner,"Jan 4, 1986 (33)",England,30.06.2020,£13.50m,English Premier League
+39,Liverpool FC,Midfielder,Adam Lallana,"May 10, 1988 (31)",England,30.06.2020,£13.50m,English Premier League
+40,Liverpool FC,Forward,Sadio Mané,"Apr 10, 1992 (27)",Senegal,30.06.2023,£108.00m,English Premier League
+41,Liverpool FC,Forward,Mohamed Salah,"Jun 15, 1992 (27)",Egypt,30.06.2023,£135.00m,English Premier League
+42,Liverpool FC,Forward,Xherdan Shaqiri,"Oct 10, 1991 (27)",Switzerland,30.06.2023,£22.50m,English Premier League
+43,Liverpool FC,Forward,Roberto Firmino,"Oct 2, 1991 (27)",Brazil,30.06.2023,£72.00m,English Premier League
+44,Liverpool FC,Forward,Divock Origi,"Apr 18, 1995 (24)",Belgium,-,£18.00m,English Premier League
+45,Tottenham Hotspur,Goalkeeper,Hugo Lloris,"Dec 26, 1986 (32)",France,30.06.2022,£22.50m,English Premier League
+46,Tottenham Hotspur,Goalkeeper,Paulo Gazzaniga,"Jan 2, 1992 (27)",Argentina,30.06.2022,£1.80m,English Premier League
+47,Tottenham Hotspur,Defender,Davinson Sánchez,"Jun 12, 1996 (23)",Colombia,30.06.2024,£49.50m,English Premier League
+48,Tottenham Hotspur,Defender,Toby Alderweireld,"Mar 2, 1989 (30)",Belgium,30.06.2020,£36.00m,English Premier League
+49,Tottenham Hotspur,Defender,Jan Vertonghen,"Apr 24, 1987 (32)",Belgium,30.06.2020,£19.80m,English Premier League
+50,Tottenham Hotspur,Defender,Juan Foyth,"Jan 12, 1998 (21)",Argentina,30.06.2022,£13.50m,English Premier League
+51,Tottenham Hotspur,Defender,Danny Rose,"Jul 2, 1990 (29)",England,30.06.2021,£22.50m,English Premier League
+52,Tottenham Hotspur,Defender,Ben Davies,"Apr 24, 1993 (26)",Wales,30.06.2024,£22.50m,English Premier League
+53,Tottenham Hotspur,Defender,Serge Aurier,"Dec 24, 1992 (26)",Cote d'Ivoire,30.06.2022,£13.50m,English Premier League
+54,Tottenham Hotspur,Defender,Kyle Walker-Peters,"Apr 13, 1997 (22)",England,30.06.2023,£9.00m,English Premier League
+55,Tottenham Hotspur,Midfielder,Eric Dier,"Jan 15, 1994 (25)",England,30.06.2021,£27.00m,English Premier League
+56,Tottenham Hotspur,Midfielder,Victor Wanyama,"Jun 25, 1991 (28)",Kenya,30.06.2021,£13.50m,English Premier League
+57,Tottenham Hotspur,Midfielder,Oliver Skipp,"Sep 16, 2000 (18)",England,30.06.2021,£7.20m,English Premier League
+58,Tottenham Hotspur,Midfielder,Tanguy Ndombélé,"Dec 28, 1996 (22)",France,30.06.2025,£58.50m,English Premier League
+59,Tottenham Hotspur,Midfielder,Giovani Lo Celso,"Apr 9, 1996 (23)",Argentina,30.06.2020,£45.00m,English Premier League
+60,Tottenham Hotspur,Midfielder,Harry Winks,"Feb 2, 1996 (23)",England,30.06.2024,£36.00m,English Premier League
+61,Tottenham Hotspur,Midfielder,Moussa Sissoko,"Aug 16, 1989 (30)",France,30.06.2021,£22.50m,English Premier League
+62,Tottenham Hotspur,Midfielder,Ryan Sessegnon,"May 18, 2000 (19)",England,30.06.2025,£31.50m,English Premier League
+63,Tottenham Hotspur,Midfielder,Christian Eriksen,"Feb 14, 1992 (27)",Denmark,30.06.2020,£90.00m,English Premier League
+64,Tottenham Hotspur,Midfielder,Dele Alli,"Apr 11, 1996 (23)",England,30.06.2024,£81.00m,English Premier League
+65,Tottenham Hotspur,Forward,Heung-min Son,"Jul 8, 1992 (27)","Korea, South",30.06.2023,£72.00m,English Premier League
+66,Tottenham Hotspur,Forward,Lucas Moura,"Aug 13, 1992 (27)",Brazil,30.06.2024,£36.00m,English Premier League
+67,Tottenham Hotspur,Forward,Erik Lamela,"Mar 4, 1992 (27)",Argentina,30.06.2022,£19.80m,English Premier League
+68,Tottenham Hotspur,Forward,Harry Kane,"Jul 28, 1993 (26)",England,30.06.2024,£135.00m,English Premier League
+69,Chelsea FC,Goalkeeper,Kepa,"Oct 3, 1994 (24)",Spain,30.06.2025,£54.00m,English Premier League
+70,Chelsea FC,Goalkeeper,Willy Caballero,"Sep 28, 1981 (37)",Argentina,30.06.2020,£900k,English Premier League
+71,Chelsea FC,Defender,Antonio Rüdiger,"Mar 3, 1993 (26)",Germany,30.06.2022,£45.00m,English Premier League
+72,Chelsea FC,Defender,Andreas Christensen,"Apr 10, 1996 (23)",Denmark,30.06.2022,£31.50m,English Premier League
+73,Chelsea FC,Defender,Kurt Zouma,"Oct 27, 1994 (24)",France,30.06.2023,£22.50m,English Premier League
+74,Chelsea FC,Defender,Fikayo Tomori,"Dec 19, 1997 (21)",England,30.06.2021,£9.00m,English Premier League
+75,Chelsea FC,Defender,Michael Hector,"Jul 19, 1992 (27)",Jamaica,30.06.2020,£2.70m,English Premier League
+76,Chelsea FC,Defender,Marcos Alonso,"Dec 28, 1990 (28)",Spain,30.06.2023,£28.80m,English Premier League
+77,Chelsea FC,Defender,Emerson,"Aug 3, 1994 (25)",Italy,30.06.2022,£22.50m,English Premier League
+78,Chelsea FC,Defender,César Azpilicueta,"Aug 28, 1989 (30)",Spain,30.06.2022,£31.50m,English Premier League
+79,Chelsea FC,Defender,Reece James,"Dec 8, 1999 (19)",England,30.06.2022,£6.30m,English Premier League
+80,Chelsea FC,Midfielder,Jorginho,"Dec 20, 1991 (27)",Italy,30.06.2023,£58.50m,English Premier League
+81,Chelsea FC,Midfielder,N'Golo Kanté,"Mar 29, 1991 (28)",France,30.06.2023,£90.00m,English Premier League
+82,Chelsea FC,Midfielder,Mateo Kovacic,"May 6, 1994 (25)",Croatia,30.06.2024,£31.50m,English Premier League
+83,Chelsea FC,Midfielder,Ross Barkley,"Dec 5, 1993 (25)",England,30.06.2023,£27.00m,English Premier League
+84,Chelsea FC,Midfielder,Ruben Loftus-Cheek,"Jan 23, 1996 (23)",England,30.06.2024,£27.00m,English Premier League
+85,Chelsea FC,Midfielder,Marco van Ginkel,"Dec 1, 1992 (26)",Netherlands,30.06.2020,£9.00m,English Premier League
+86,Chelsea FC,Midfielder,Mason Mount,"Jan 10, 1999 (20)",England,30.06.2024,£31.50m,English Premier League
+87,Chelsea FC,Forward,Callum Hudson-Odoi,"Nov 7, 2000 (18)",England,30.06.2020,£31.50m,English Premier League
+88,Chelsea FC,Forward,Christian Pulisic,"Sep 18, 1998 (20)",United States,30.06.2024,£54.00m,English Premier League
+89,Chelsea FC,Forward,Willian,"Aug 9, 1988 (31)",Brazil,30.06.2020,£31.50m,English Premier League
+90,Chelsea FC,Forward,Pedro,"Jul 28, 1987 (32)",Spain,30.06.2020,£18.00m,English Premier League
+91,Chelsea FC,Forward,Tammy Abraham,"Oct 2, 1997 (21)",England,30.06.2022,£28.80m,English Premier League
+92,Chelsea FC,Forward,Michy Batshuayi,"Oct 2, 1993 (25)",Belgium,30.06.2021,£22.50m,English Premier League
+93,Chelsea FC,Forward,Olivier Giroud,"Sep 30, 1986 (32)",France,30.06.2020,£10.80m,English Premier League
+94,Manchester United,Goalkeeper,David de Gea,"Nov 7, 1990 (28)",Spain,30.06.2020,£58.50m,English Premier League
+95,Manchester United,Goalkeeper,Sergio Romero,"Feb 22, 1987 (32)",Argentina,30.06.2021,£3.15m,English Premier League
+96,Manchester United,Goalkeeper,Lee Grant,"Jan 27, 1983 (36)",England,30.06.2020,£675k,English Premier League
+97,Manchester United,Defender,Harry Maguire,"Mar 5, 1993 (26)",England,30.06.2025,£63.00m,English Premier League
+98,Manchester United,Defender,Victor Lindelöf,"Jul 17, 1994 (25)",Sweden,30.06.2021,£31.50m,English Premier League
+99,Manchester United,Defender,Eric Bailly,"Apr 12, 1994 (25)",Cote d'Ivoire,30.06.2020,£22.50m,English Premier League
+100,Manchester United,Defender,Phil Jones,"Feb 21, 1992 (27)",England,30.06.2023,£13.50m,English Premier League
+101,Manchester United,Defender,Marcos Rojo,"Mar 20, 1990 (29)",Argentina,30.06.2021,£9.00m,English Premier League
+102,Manchester United,Defender,Axel Tuanzebe,"Nov 14, 1997 (21)",England,30.06.2022,£6.30m,English Premier League
+103,Manchester United,Defender,Luke Shaw,"Jul 12, 1995 (24)",England,30.06.2023,£27.00m,English Premier League
+104,Manchester United,Defender,Ashley Young,"Jul 9, 1985 (34)",England,30.06.2020,£4.50m,English Premier League
+105,Manchester United,Defender,Aaron Wan-Bissaka,"Nov 26, 1997 (21)",England,30.06.2024,£36.00m,English Premier League
+106,Manchester United,Defender,Diogo Dalot,"Mar 18, 1999 (20)",Portugal,30.06.2023,£18.00m,English Premier League
+107,Manchester United,Defender,Timothy Fosu-Mensah,"Jan 2, 1998 (21)",Netherlands,30.06.2020,£6.30m,English Premier League
+108,Manchester United,Midfielder,Nemanja Matic,"Aug 1, 1988 (31)",Serbia,30.06.2020,£22.50m,English Premier League
+109,Manchester United,Midfielder,Paul Pogba,"Mar 15, 1993 (26)",France,30.06.2021,£90.00m,English Premier League
+110,Manchester United,Midfielder,Fred,"Mar 5, 1993 (26)",Brazil,30.06.2023,£22.50m,English Premier League
+111,Manchester United,Midfielder,Scott McTominay,"Dec 8, 1996 (22)",Scotland,30.06.2023,£18.00m,English Premier League
+112,Manchester United,Midfielder,Juan Mata,"Apr 28, 1988 (31)",Spain,30.06.2021,£18.00m,English Premier League
+113,Manchester United,Midfielder,Andreas Pereira,"Jan 1, 1996 (23)",Brazil,30.06.2023,£13.50m,English Premier League
+114,Manchester United,Forward,Anthony Martial,"Dec 5, 1995 (23)",France,30.06.2024,£54.00m,English Premier League
+115,Manchester United,Forward,Daniel James,"Nov 10, 1997 (21)",Wales,30.06.2024,£22.50m,English Premier League
+116,Manchester United,Forward,Jesse Lingard,"Dec 15, 1992 (26)",England,30.06.2021,£36.00m,English Premier League
+117,Manchester United,Forward,Marcus Rashford,"Oct 31, 1997 (21)",England,30.06.2023,£72.00m,English Premier League
+118,Manchester United,Forward,Mason Greenwood,"Oct 1, 2001 (17)",England,-,£9.00m,English Premier League
+119,Arsenal FC,Goalkeeper,Bernd Leno,"Mar 4, 1992 (27)",Germany,30.06.2023,£27.00m,English Premier League
+120,Arsenal FC,Goalkeeper,Emiliano Martínez,"Sep 2, 1992 (27)",Argentina,30.06.2022,£3.15m,English Premier League
+121,Arsenal FC,Goalkeeper,Matt Macey,"Sep 9, 1994 (25)",England,30.06.2020,£225k,English Premier League
+122,Arsenal FC,Defender,Sokratis,"Jun 9, 1988 (31)",Greece,30.06.2021,£18.00m,English Premier League
+123,Arsenal FC,Defender,David Luiz,"Apr 22, 1987 (32)",Brazil,30.06.2021,£18.00m,English Premier League
+124,Arsenal FC,Defender,Shkodran Mustafi,"Apr 17, 1992 (27)",Germany,30.06.2021,£16.20m,English Premier League
+125,Arsenal FC,Defender,Calum Chambers,"Jan 20, 1995 (24)",England,30.06.2022,£12.60m,English Premier League
+126,Arsenal FC,Defender,Rob Holding,"Sep 20, 1995 (23)",England,30.06.2023,£10.80m,English Premier League
+127,Arsenal FC,Defender,Konstantinos Mavropanos,"Dec 11, 1997 (21)",Greece,30.06.2023,£2.70m,English Premier League
+128,Arsenal FC,Defender,Kieran Tierney,"Jun 5, 1997 (22)",Scotland,30.06.2024,£22.50m,English Premier League
+129,Arsenal FC,Defender,Sead Kolasinac,"Jun 20, 1993 (26)",Bosnia-Herzegovina,30.06.2022,£18.00m,English Premier League
+130,Arsenal FC,Defender,Héctor Bellerín,"Mar 19, 1995 (24)",Spain,30.06.2023,£36.00m,English Premier League
+131,Arsenal FC,Midfielder,Lucas Torreira,"Feb 11, 1996 (23)",Uruguay,30.06.2023,£49.50m,English Premier League
+132,Arsenal FC,Midfielder,Granit Xhaka,"Sep 27, 1992 (26)",Switzerland,30.06.2023,£36.00m,English Premier League
+133,Arsenal FC,Midfielder,Dani Ceballos,"Aug 7, 1996 (23)",Spain,30.06.2020,£40.50m,English Premier League
+134,Arsenal FC,Midfielder,Mattéo Guendouzi,"Apr 14, 1999 (20)",France,30.06.2022,£40.50m,English Premier League
+135,Arsenal FC,Midfielder,Joe Willock,"Aug 20, 1999 (20)",England,-,£9.00m,English Premier League
+136,Arsenal FC,Midfielder,Ainsley Maitland-Niles,"Aug 29, 1997 (22)",England,30.06.2023,£16.20m,English Premier League
+137,Arsenal FC,Midfielder,Mesut Özil,"Oct 15, 1988 (30)",Germany,30.06.2021,£22.50m,English Premier League
+138,Arsenal FC,Forward,Gabriel Martinelli,"Jun 18, 2001 (18)",Brazil,30.06.2024,£7.20m,English Premier League
+139,Arsenal FC,Forward,Nicolas Pépé,"May 29, 1995 (24)",Cote d'Ivoire,30.06.2024,£67.50m,English Premier League
+140,Arsenal FC,Forward,Reiss Nelson,"Dec 10, 1999 (19)",England,30.06.2023,£15.30m,English Premier League
+141,Arsenal FC,Forward,Alexandre Lacazette,"May 28, 1991 (28)",France,30.06.2022,£63.00m,English Premier League
+142,Arsenal FC,Forward,Pierre-Emerick Aubameyang,"Jun 18, 1989 (30)",Gabon,30.06.2021,£63.00m,English Premier League
+143,Everton FC,Goalkeeper,Jordan Pickford,"Mar 7, 1994 (25)",England,30.06.2024,£36.00m,English Premier League
+144,Everton FC,Goalkeeper,Jonas Lössl,"Feb 1, 1989 (30)",Denmark,30.06.2022,£4.50m,English Premier League
+145,Everton FC,Goalkeeper,Maarten Stekelenburg,"Sep 22, 1982 (36)",Netherlands,30.06.2020,£900k,English Premier League
+146,Everton FC,Defender,Michael Keane,"Jan 11, 1993 (26)",England,30.06.2022,£27.00m,English Premier League
+147,Everton FC,Defender,Yerry Mina,"Sep 23, 1994 (24)",Colombia,30.06.2023,£22.50m,English Premier League
+148,Everton FC,Defender,Mason Holgate,"Oct 22, 1996 (22)",England,30.06.2022,£6.30m,English Premier League
+149,Everton FC,Defender,Lucas Digne,"Jul 20, 1993 (26)",France,30.06.2023,£27.00m,English Premier League
+150,Everton FC,Defender,Leighton Baines,"Dec 11, 1984 (34)",England,30.06.2020,£3.15m,English Premier League
+151,Everton FC,Defender,Seamus Coleman,"Oct 11, 1988 (30)",Ireland,30.06.2022,£13.50m,English Premier League
+152,Everton FC,Defender,Djibril Sidibé,"Jul 29, 1992 (27)",France,30.06.2020,£10.80m,English Premier League
+153,Everton FC,Defender,Cuco Martina,"Sep 25, 1989 (29)",Curacao,30.06.2020,£1.35m,English Premier League
+154,Everton FC,Midfielder,Jean-Philippe Gbamin,"Sep 25, 1995 (23)",Cote d'Ivoire,30.06.2024,£25.20m,English Premier League
+155,Everton FC,Midfielder,Morgan Schneiderlin,"Nov 8, 1989 (29)",France,30.06.2021,£13.50m,English Premier League
+156,Everton FC,Midfielder,André Gomes,"Jul 30, 1993 (26)",Portugal,30.06.2024,£25.20m,English Premier League
+157,Everton FC,Midfielder,Fabian Delph,"Nov 21, 1989 (29)",England,30.06.2022,£13.50m,English Premier League
+158,Everton FC,Midfielder,Tom Davies,"Jun 30, 1998 (21)",England,30.06.2023,£13.50m,English Premier League
+159,Everton FC,Midfielder,Beni Baningime,"Sep 9, 1998 (21)",DR Congo,30.06.2022,£1.80m,English Premier League
+160,Everton FC,Midfielder,Gylfi Sigurdsson,"Sep 8, 1989 (30)",Iceland,30.06.2022,£31.50m,English Premier League
+161,Everton FC,Forward,Richarlison,"May 10, 1997 (22)",Brazil,30.06.2023,£45.00m,English Premier League
+162,Everton FC,Forward,Alex Iwobi,"May 3, 1996 (23)",Nigeria,30.06.2024,£28.80m,English Premier League
+163,Everton FC,Forward,Bernard,"Sep 8, 1992 (27)",Brazil,30.06.2022,£18.00m,English Premier League
+164,Everton FC,Forward,Theo Walcott,"Mar 16, 1989 (30)",England,30.06.2021,£13.50m,English Premier League
+165,Everton FC,Forward,Moise Kean,"Feb 28, 2000 (19)",Italy,30.06.2024,£36.00m,English Premier League
+166,Everton FC,Forward,Dominic Calvert-Lewin,"Mar 16, 1997 (22)",England,30.06.2023,£18.00m,English Premier League
+167,Everton FC,Forward,Cenk Tosun,"Jun 7, 1991 (28)",Turkey,30.06.2022,£13.50m,English Premier League
+168,Everton FC,Forward,Oumar Niasse,"Apr 18, 1990 (29)",Senegal,30.06.2020,£5.40m,English Premier League
+169,Leicester City,Goalkeeper,Kasper Schmeichel,"Nov 5, 1986 (32)",Denmark,30.06.2023,£10.80m,English Premier League
+170,Leicester City,Goalkeeper,Danny Ward,"Jun 22, 1993 (26)",Wales,30.06.2022,£7.20m,English Premier League
+171,Leicester City,Goalkeeper,Eldin Jakupovic,"Oct 2, 1984 (34)",Switzerland,30.06.2020,£675k,English Premier League
+172,Leicester City,Defender,Caglar Söyüncü,"May 23, 1996 (23)",Turkey,30.06.2023,£18.00m,English Premier League
+173,Leicester City,Defender,Jonny Evans,"Jan 3, 1988 (31)",Northern Ireland,30.06.2021,£10.80m,English Premier League
+174,Leicester City,Defender,Filip Benkovic,"Jul 13, 1997 (22)",Croatia,30.06.2023,£9.90m,English Premier League
+175,Leicester City,Defender,Wes Morgan,"Jan 21, 1984 (35)",Jamaica,30.06.2020,£1.80m,English Premier League
+176,Leicester City,Defender,Ben Chilwell,"Dec 21, 1996 (22)",England,30.06.2024,£31.50m,English Premier League
+177,Leicester City,Defender,Christian Fuchs,"Apr 7, 1986 (33)",Austria,30.06.2020,£2.70m,English Premier League
+178,Leicester City,Defender,Ricardo Pereira,"Oct 6, 1993 (25)",Portugal,30.06.2023,£27.00m,English Premier League
+179,Leicester City,Defender,James Justin,"Feb 23, 1998 (21)",England,30.06.2024,£3.60m,English Premier League
+180,Leicester City,Midfielder,Wilfred Ndidi,"Dec 16, 1996 (22)",Nigeria,30.06.2024,£31.50m,English Premier League
+181,Leicester City,Midfielder,Hamza Choudhury,"Oct 1, 1997 (21)",England,30.06.2023,£9.00m,English Premier League
+182,Leicester City,Midfielder,Nampalys Mendy,"Jun 23, 1992 (27)",France,30.06.2020,£7.20m,English Premier League
+183,Leicester City,Midfielder,Daniel Amartey,"Dec 21, 1994 (24)",Ghana,30.06.2022,£6.30m,English Premier League
+184,Leicester City,Midfielder,Youri Tielemans,"May 7, 1997 (22)",Belgium,30.06.2023,£40.50m,English Premier League
+185,Leicester City,Midfielder,Dennis Praet,"May 14, 1994 (25)",Belgium,30.06.2024,£21.60m,English Premier League
+186,Leicester City,Midfielder,Matty James,"Jul 22, 1991 (28)",England,30.06.2022,£1.35m,English Premier League
+187,Leicester City,Midfielder,Marc Albrighton,"Nov 18, 1989 (29)",England,30.06.2022,£9.00m,English Premier League
+188,Leicester City,Midfielder,James Maddison,"Nov 23, 1996 (22)",England,30.06.2023,£40.50m,English Premier League
+189,Leicester City,Midfielder,Harvey Barnes,"Dec 9, 1997 (21)",England,30.06.2024,£10.80m,English Premier League
+190,Leicester City,Midfielder,Bartosz Kapustka,"Dec 23, 1996 (22)",Poland,30.06.2021,£2.25m,English Premier League
+191,Leicester City,Forward,Demarai Gray,"Jun 28, 1996 (23)",England,30.06.2021,£18.00m,English Premier League
+192,Leicester City,Forward,George Thomas,"Mar 24, 1997 (22)",Wales,30.06.2020,£450k,English Premier League
+193,Leicester City,Forward,Ayoze Pérez,"Jul 29, 1993 (26)",Spain,30.06.2023,£18.00m,English Premier League
+194,Leicester City,Forward,Jamie Vardy,"Jan 11, 1987 (32)",England,30.06.2022,£18.00m,English Premier League
+195,Leicester City,Forward,Kelechi Iheanacho,"Oct 3, 1996 (22)",Nigeria,30.06.2022,£10.80m,English Premier League
+196,West Ham United,Goalkeeper,Lukasz Fabianski,"Apr 18, 1985 (34)",Poland,30.06.2021,£4.50m,English Premier League
+197,West Ham United,Goalkeeper,Roberto,"Feb 10, 1986 (33)",Spain,30.06.2021,£1.35m,English Premier League
+198,West Ham United,Goalkeeper,David Martin,"Jan 22, 1986 (33)",England,30.06.2021,£225k,English Premier League
+199,West Ham United,Defender,Issa Diop,"Jan 9, 1997 (22)",France,30.06.2023,£31.50m,English Premier League
+200,West Ham United,Defender,Fabián Balbuena,"Aug 23, 1991 (28)",Paraguay,30.06.2021,£10.80m,English Premier League
+201,West Ham United,Defender,Angelo Ogbonna,"May 23, 1988 (31)",Italy,30.06.2022,£7.20m,English Premier League
+202,West Ham United,Defender,Winston Reid,"Jul 3, 1988 (31)",New Zealand,30.06.2023,£4.50m,English Premier League
+203,West Ham United,Defender,Gonçalo Cardoso,"Oct 21, 2000 (18)",Portugal,30.06.2024,£2.25m,English Premier League
+204,West Ham United,Defender,Arthur Masuaku,"Nov 7, 1993 (25)",DR Congo,30.06.2024,£9.00m,English Premier League
+205,West Ham United,Defender,Aaron Cresswell,"Dec 15, 1989 (29)",England,30.06.2021,£7.20m,English Premier League
+206,West Ham United,Defender,Ryan Fredericks,"Oct 10, 1992 (26)",England,30.06.2022,£6.30m,English Premier League
+207,West Ham United,Defender,Pablo Zabaleta,"Jan 16, 1985 (34)",Argentina,30.06.2020,£1.80m,English Premier League
+208,West Ham United,Midfielder,Declan Rice,"Jan 14, 1999 (20)",England,30.06.2024,£45.00m,English Premier League
+209,West Ham United,Midfielder,Carlos Sánchez,"Feb 6, 1986 (33)",Colombia,30.06.2020,£1.35m,English Premier League
+210,West Ham United,Midfielder,Jack Wilshere,"Jan 1, 1992 (27)",England,30.06.2021,£9.00m,English Premier League
+211,West Ham United,Midfielder,Mark Noble,"May 8, 1987 (32)",England,30.06.2021,£6.30m,English Premier League
+212,West Ham United,Midfielder,Pablo Fornals,"Feb 22, 1996 (23)",Spain,30.06.2024,£22.50m,English Premier League
+213,West Ham United,Midfielder,Manuel Lanzini,"Feb 15, 1993 (26)",Argentina,30.06.2023,£18.00m,English Premier League
+214,West Ham United,Forward,Felipe Anderson,"Apr 15, 1993 (26)",Brazil,30.06.2022,£40.50m,English Premier League
+215,West Ham United,Forward,Andrii Yarmolenko,"Oct 23, 1989 (29)",Ukraine,30.06.2022,£18.00m,English Premier League
+216,West Ham United,Forward,Michail Antonio,"Mar 28, 1990 (29)",England,30.06.2021,£13.50m,English Premier League
+217,West Ham United,Forward,Robert Snodgrass,"Sep 7, 1987 (32)",Scotland,30.06.2021,£6.30m,English Premier League
+218,West Ham United,Forward,Sébastien Haller,"Jun 22, 1994 (25)",France,30.06.2024,£40.50m,English Premier League
+219,West Ham United,Forward,Albian Ajeti,"Feb 26, 1997 (22)",Switzerland,30.06.2023,£6.30m,English Premier League
+220,AFC Bournemouth,Goalkeeper,Aaron Ramsdale,"May 14, 1998 (21)",England,30.06.2021,£5.40m,English Premier League
+221,AFC Bournemouth,Goalkeeper,Artur Boruc,"Feb 20, 1980 (39)",Poland,30.06.2020,£900k,English Premier League
+222,AFC Bournemouth,Goalkeeper,Mark Travers,"May 18, 1999 (20)",Ireland,-,£225k,English Premier League
+223,AFC Bournemouth,Defender,Nathan Aké,"Feb 18, 1995 (24)",Netherlands,30.06.2022,£31.50m,English Premier League
+224,AFC Bournemouth,Defender,Chris Mepham,"Nov 5, 1997 (21)",Wales,30.06.2023,£11.70m,English Premier League
+225,AFC Bournemouth,Defender,Steve Cook,"Apr 19, 1991 (28)",England,30.06.2021,£9.00m,English Premier League
+226,AFC Bournemouth,Defender,Jack Simpson,"Jan 8, 1997 (22)",England,30.06.2020,£1.35m,English Premier League
+227,AFC Bournemouth,Defender,Lloyd Kelly,"Oct 6, 1998 (20)",England,-,£8.10m,English Premier League
+228,AFC Bournemouth,Defender,Diego Rico,"Feb 23, 1993 (26)",Spain,30.06.2022,£6.30m,English Premier League
+229,AFC Bournemouth,Defender,Charlie Daniels,"Sep 7, 1986 (33)",England,30.06.2020,£2.70m,English Premier League
+230,AFC Bournemouth,Defender,Adam Smith,"Apr 29, 1991 (28)",England,30.06.2021,£6.30m,English Premier League
+231,AFC Bournemouth,Defender,Jack Stacey,"Apr 6, 1996 (23)",England,30.06.2023,£3.60m,English Premier League
+232,AFC Bournemouth,Defender,Simon Francis,"Feb 16, 1985 (34)",England,30.06.2020,£1.80m,English Premier League
+233,AFC Bournemouth,Midfielder,Jefferson Lerma,"Oct 25, 1994 (24)",Colombia,30.06.2023,£22.50m,English Premier League
+234,AFC Bournemouth,Midfielder,Lewis Cook,"Feb 3, 1997 (22)",England,30.06.2022,£18.00m,English Premier League
+235,AFC Bournemouth,Midfielder,Philip Billing,"Jun 11, 1996 (23)",Denmark,30.06.2024,£13.50m,English Premier League
+236,AFC Bournemouth,Midfielder,Dan Gosling,"Feb 1, 1990 (29)",England,30.06.2021,£3.15m,English Premier League
+237,AFC Bournemouth,Midfielder,Andrew Surman,"Aug 20, 1986 (33)",England,30.06.2020,£2.25m,English Premier League
+238,AFC Bournemouth,Midfielder,David Brooks,"Jul 8, 1997 (22)",Wales,30.06.2022,£27.00m,English Premier League
+239,AFC Bournemouth,Forward,Ryan Fraser,"Feb 24, 1994 (25)",Scotland,30.06.2020,£27.00m,English Premier League
+240,AFC Bournemouth,Forward,Arnaut Danjuma,"Jan 31, 1997 (22)",Netherlands,30.06.2024,£10.80m,English Premier League
+241,AFC Bournemouth,Forward,Junior Stanislas,"Nov 26, 1989 (29)",England,30.06.2021,£3.15m,English Premier League
+242,AFC Bournemouth,Forward,Harry Wilson,"Mar 22, 1997 (22)",Wales,31.05.2020,£16.20m,English Premier League
+243,AFC Bournemouth,Forward,Jordon Ibe,"Dec 8, 1995 (23)",England,30.06.2020,£7.20m,English Premier League
+244,AFC Bournemouth,Forward,Joshua King,"Jan 15, 1992 (27)",Norway,30.06.2021,£18.00m,English Premier League
+245,AFC Bournemouth,Forward,Callum Wilson,"Feb 27, 1992 (27)",England,30.06.2023,£27.00m,English Premier League
+246,AFC Bournemouth,Forward,Dominic Solanke,"Sep 14, 1997 (22)",England,30.06.2022,£16.20m,English Premier League
+247,Wolverhampton Wanderers,Goalkeeper,Rui Patrício,"Feb 15, 1988 (31)",Portugal,30.06.2022,£18.00m,English Premier League
+248,Wolverhampton Wanderers,Goalkeeper,John Ruddy,"Oct 24, 1986 (32)",England,30.06.2020,£2.70m,English Premier League
+249,Wolverhampton Wanderers,Goalkeeper,Harry Burgoyne,"Dec 28, 1996 (22)",England,30.06.2020,£180k,English Premier League
+250,Wolverhampton Wanderers,Defender,Willy Boly,"Feb 3, 1991 (28)",France,30.06.2021,£13.50m,English Premier League
+251,Wolverhampton Wanderers,Defender,Conor Coady,"Feb 25, 1993 (26)",England,30.06.2023,£13.50m,English Premier League
+252,Wolverhampton Wanderers,Defender,Jesús Vallejo,"Jan 5, 1997 (22)",Spain,30.06.2020,£9.00m,English Premier League
+253,Wolverhampton Wanderers,Defender,Ryan Bennett,"Mar 6, 1990 (29)",England,30.06.2021,£6.30m,English Premier League
+254,Wolverhampton Wanderers,Defender,Max Kilman,"May 23, 1997 (22)",England,30.06.2020,-,English Premier League
+255,Wolverhampton Wanderers,Defender,Jonny Otto,"Mar 3, 1994 (25)",Spain,30.06.2023,£18.00m,English Premier League
+256,Wolverhampton Wanderers,Defender,Rúben Vinagre,"Apr 9, 1999 (20)",Portugal,30.06.2024,£9.00m,English Premier League
+257,Wolverhampton Wanderers,Defender,Matt Doherty,"Jan 16, 1992 (27)",Ireland,30.06.2023,£13.50m,English Premier League
+258,Wolverhampton Wanderers,Defender,Phil Ofosu-Ayeh,"Sep 15, 1991 (28)",Ghana,30.06.2020,£270k,English Premier League
+259,Wolverhampton Wanderers,Midfielder,Rúben Neves,"Mar 13, 1997 (22)",Portugal,30.06.2023,£45.00m,English Premier League
+260,Wolverhampton Wanderers,Midfielder,Leander Dendoncker,"Apr 15, 1995 (24)",Belgium,-,£22.50m,English Premier League
+261,Wolverhampton Wanderers,Midfielder,Romain Saïss,"Mar 26, 1990 (29)",Morocco,30.06.2021,£4.50m,English Premier League
+262,Wolverhampton Wanderers,Midfielder,João Moutinho,"Sep 8, 1986 (33)",Portugal,30.06.2020,£9.00m,English Premier League
+263,Wolverhampton Wanderers,Midfielder,Morgan Gibbs-White,"Jan 27, 2000 (19)",England,30.06.2022,£7.20m,English Premier League
+264,Wolverhampton Wanderers,Midfielder,Bruno Jordão,"Oct 12, 1998 (20)",Portugal,30.06.2024,£2.25m,English Premier League
+265,Wolverhampton Wanderers,Midfielder,Ming-Yang Yang,"Jul 11, 1995 (24)",Switzerland,-,£225k,English Premier League
+266,Wolverhampton Wanderers,Forward,Diogo Jota,"Dec 4, 1996 (22)",Portugal,30.06.2022,£31.50m,English Premier League
+267,Wolverhampton Wanderers,Forward,Jordan Graham,"Mar 5, 1995 (24)",England,30.06.2020,£450k,English Premier League
+268,Wolverhampton Wanderers,Forward,Adama Traoré,"Jan 25, 1996 (23)",Spain,30.06.2023,£13.50m,English Premier League
+269,Wolverhampton Wanderers,Forward,Pedro Neto,"Mar 9, 2000 (19)",Portugal,30.06.2024,£6.30m,English Premier League
+270,Wolverhampton Wanderers,Forward,Raúl Jiménez,"May 5, 1991 (28)",Mexico,30.06.2023,£31.50m,English Premier League
+271,Wolverhampton Wanderers,Forward,Patrick Cutrone,"Jan 3, 1998 (21)",Italy,30.06.2023,£22.50m,English Premier League
+272,Newcastle United,Goalkeeper,Martin Dubravka,"Jan 15, 1989 (30)",Slovakia,30.06.2022,£6.30m,English Premier League
+273,Newcastle United,Goalkeeper,Karl Darlow,"Oct 8, 1990 (28)",England,30.06.2020,£3.15m,English Premier League
+274,Newcastle United,Goalkeeper,Rob Elliot,"Apr 30, 1986 (33)",Ireland,30.06.2020,£900k,English Premier League
+275,Newcastle United,Defender,Jamaal Lascelles,"Nov 11, 1993 (25)",England,30.06.2024,£16.20m,English Premier League
+276,Newcastle United,Defender,Fabian Schär,"Dec 20, 1991 (27)",Switzerland,30.06.2021,£10.80m,English Premier League
+277,Newcastle United,Defender,Florian Lejeune,"May 20, 1991 (28)",France,30.06.2022,£7.20m,English Premier League
+278,Newcastle United,Defender,Federico Fernández,"Feb 21, 1989 (30)",Argentina,30.06.2020,£6.30m,English Premier League
+279,Newcastle United,Defender,Ciaran Clark,"Sep 26, 1989 (29)",Ireland,30.06.2021,£5.40m,English Premier League
+280,Newcastle United,Defender,Paul Dummett,"Sep 26, 1991 (27)",Wales,30.06.2022,£6.30m,English Premier League
+281,Newcastle United,Defender,Jetro Willems,"Mar 30, 1994 (25)",Netherlands,30.06.2020,£4.50m,English Premier League
+282,Newcastle United,Defender,DeAndre Yedlin,"Jul 9, 1993 (26)",United States,30.06.2021,£7.20m,English Premier League
+283,Newcastle United,Defender,Emil Krafth,"Aug 2, 1994 (25)",Sweden,30.06.2023,£4.50m,English Premier League
+284,Newcastle United,Defender,Javier Manquillo,"May 5, 1994 (25)",Spain,30.06.2020,£4.50m,English Premier League
+285,Newcastle United,Defender,Jamie Sterry,"Nov 21, 1995 (23)",England,30.06.2020,£68k,English Premier League
+286,Newcastle United,Midfielder,Isaac Hayden,"Mar 22, 1995 (24)",England,30.06.2021,£9.00m,English Premier League
+287,Newcastle United,Midfielder,Sung-yong Ki,"Jan 24, 1989 (30)","Korea, South",30.06.2020,£5.40m,English Premier League
+288,Newcastle United,Midfielder,Jack Colback,"Oct 24, 1989 (29)",England,30.06.2020,£2.70m,English Premier League
+289,Newcastle United,Midfielder,Sean Longstaff,"Oct 30, 1997 (21)",England,30.06.2022,£16.20m,English Premier League
+290,Newcastle United,Midfielder,Jonjo Shelvey,"Feb 27, 1992 (27)",England,30.06.2021,£13.50m,English Premier League
+291,Newcastle United,Midfielder,Matt Ritchie,"Sep 10, 1989 (30)",Scotland,30.06.2021,£10.80m,English Premier League
+292,Newcastle United,Midfielder,Miguel Almirón,"Feb 10, 1994 (25)",Paraguay,30.06.2024,£18.00m,English Premier League
+293,Newcastle United,Midfielder,Henri Saivet,"Oct 26, 1990 (28)",Senegal,30.06.2021,£900k,English Premier League
+294,Newcastle United,Forward,Christian Atsu,"Jan 10, 1992 (27)",Ghana,30.06.2021,£5.40m,English Premier League
+295,Newcastle United,Forward,Allan Saint-Maximin,"Mar 12, 1997 (22)",France,30.06.2025,£22.50m,English Premier League
+296,Newcastle United,Forward,Joelinton,"Aug 14, 1996 (23)",Brazil,30.06.2025,£31.50m,English Premier League
+297,Newcastle United,Forward,Dwight Gayle,"Oct 17, 1990 (28)",England,30.06.2021,£13.50m,English Premier League
+298,Newcastle United,Forward,Yoshinori Muto,"Jul 15, 1992 (27)",Japan,30.06.2022,£8.10m,English Premier League
+299,Newcastle United,Forward,Andy Carroll,"Jan 6, 1989 (30)",England,30.06.2020,£5.40m,English Premier League
+300,Southampton FC,Goalkeeper,Angus Gunn,"Jan 22, 1996 (23)",England,30.06.2023,£9.00m,English Premier League
+301,Southampton FC,Goalkeeper,Alex McCarthy,"Dec 3, 1989 (29)",England,30.06.2022,£4.50m,English Premier League
+302,Southampton FC,Defender,Jannik Vestergaard,"Aug 3, 1992 (27)",Denmark,30.06.2022,£18.00m,English Premier League
+303,Southampton FC,Defender,Jan Bednarek,"Apr 12, 1996 (23)",Poland,30.06.2022,£13.50m,English Premier League
+304,Southampton FC,Defender,Jack Stephens,"Jan 27, 1994 (25)",England,30.06.2022,£7.20m,English Premier League
+305,Southampton FC,Defender,Kevin Danso,"Sep 19, 1998 (20)",Austria,30.06.2020,£7.20m,English Premier League
+306,Southampton FC,Defender,Maya Yoshida,"Aug 24, 1988 (31)",Japan,30.06.2020,£6.30m,English Premier League
+307,Southampton FC,Defender,Ryan Bertrand,"Aug 5, 1989 (30)",England,30.06.2021,£13.50m,English Premier League
+308,Southampton FC,Defender,Sam McQueen,"Feb 6, 1995 (24)",England,30.06.2021,£900k,English Premier League
+309,Southampton FC,Defender,Cédric Soares,"Aug 31, 1991 (28)",Portugal,30.06.2020,£10.80m,English Premier League
+310,Southampton FC,Defender,Yan Valery,"Feb 22, 1999 (20)",France,30.06.2023,£6.30m,English Premier League
+311,Southampton FC,Midfielder,Oriol Romeu,"Sep 24, 1991 (27)",Spain,30.06.2021,£9.00m,English Premier League
+312,Southampton FC,Midfielder,James Ward-Prowse,"Nov 1, 1994 (24)",England,30.06.2022,£16.20m,English Premier League
+313,Southampton FC,Midfielder,Pierre-Emile Höjbjerg,"Aug 5, 1995 (24)",Denmark,30.06.2021,£13.50m,English Premier League
+314,Southampton FC,Midfielder,Stuart Armstrong,"Mar 30, 1992 (27)",Scotland,30.06.2022,£7.20m,English Premier League
+315,Southampton FC,Forward,Nathan Redmond,"Mar 6, 1994 (25)",England,30.06.2023,£18.00m,English Premier League
+316,Southampton FC,Forward,Moussa Djenepo,"Jun 15, 1998 (21)",Mali,30.06.2023,£10.80m,English Premier League
+317,Southampton FC,Forward,Sofiane Boufal,"Sep 17, 1993 (25)",Morocco,30.06.2021,£10.80m,English Premier League
+318,Southampton FC,Forward,Danny Ings,"Jul 23, 1992 (27)",England,30.06.2022,£13.50m,English Premier League
+319,Southampton FC,Forward,Che Adams,"Jul 13, 1996 (23)",England,30.06.2024,£10.80m,English Premier League
+320,Southampton FC,Forward,Shane Long,"Jan 22, 1987 (32)",Ireland,30.06.2020,£4.50m,English Premier League
+321,Southampton FC,Forward,Michael Obafemi,"Jul 6, 2000 (19)",Ireland,30.06.2022,£1.80m,English Premier League
+322,Crystal Palace,Goalkeeper,Wayne Hennessey,"Jan 24, 1987 (32)",Wales,30.06.2021,£4.50m,English Premier League
+323,Crystal Palace,Goalkeeper,Vicente Guaita,"Jan 10, 1987 (32)",Spain,30.06.2021,£4.50m,English Premier League
+324,Crystal Palace,Goalkeeper,Stephen Henderson,"May 2, 1988 (31)",Ireland,30.06.2020,£450k,English Premier League
+325,Crystal Palace,Goalkeeper,Dion Henry,"Sep 12, 1997 (22)",England,30.06.2019,£45k,English Premier League
+326,Crystal Palace,Defender,Mamadou Sakho,"Feb 13, 1990 (29)",France,30.06.2021,£13.50m,English Premier League
+327,Crystal Palace,Defender,James Tomkins,"Mar 29, 1989 (30)",England,30.06.2021,£5.40m,English Premier League
+328,Crystal Palace,Defender,Gary Cahill,"Dec 19, 1985 (33)",England,30.06.2021,£5.40m,English Premier League
+329,Crystal Palace,Defender,Jairo Riedewald,"Sep 9, 1996 (23)",Netherlands,30.06.2022,£4.50m,English Premier League
+330,Crystal Palace,Defender,Scott Dann,"Feb 14, 1987 (32)",England,30.06.2020,£3.60m,English Premier League
+331,Crystal Palace,Defender,Martin Kelly,"Apr 27, 1990 (29)",England,30.06.2021,£2.70m,English Premier League
+332,Crystal Palace,Defender,Patrick van Aanholt,"Aug 29, 1990 (29)",Netherlands,30.06.2021,£9.00m,English Premier League
+333,Crystal Palace,Defender,Joel Ward,"Oct 29, 1989 (29)",England,30.06.2021,£3.60m,English Premier League
+334,Crystal Palace,Midfielder,Luka Milivojevic,"Apr 7, 1991 (28)",Serbia,30.06.2023,£18.00m,English Premier League
+335,Crystal Palace,Midfielder,Cheikhou Kouyaté,"Dec 21, 1989 (29)",Senegal,30.06.2022,£9.00m,English Premier League
+336,Crystal Palace,Midfielder,Víctor Camarasa,"May 28, 1994 (25)",Spain,30.06.2020,£9.00m,English Premier League
+337,Crystal Palace,Midfielder,James McArthur,"Oct 7, 1987 (31)",Scotland,30.06.2021,£6.30m,English Premier League
+338,Crystal Palace,Midfielder,James McCarthy,"Nov 12, 1990 (28)",Ireland,30.06.2022,£4.50m,English Premier League
+339,Crystal Palace,Midfielder,Jeffrey Schlupp,"Dec 23, 1992 (26)",Ghana,30.06.2021,£9.00m,English Premier League
+340,Crystal Palace,Midfielder,Max Meyer,"Sep 18, 1995 (23)",Germany,30.06.2021,£13.50m,English Premier League
+341,Crystal Palace,Forward,Wilfried Zaha,"Nov 10, 1992 (26)",Cote d'Ivoire,30.06.2023,£49.50m,English Premier League
+342,Crystal Palace,Forward,Andros Townsend,"Jul 16, 1991 (28)",England,30.06.2021,£13.50m,English Premier League
+343,Crystal Palace,Forward,Christian Benteke,"Dec 3, 1990 (28)",Belgium,30.06.2020,£13.50m,English Premier League
+344,Crystal Palace,Forward,Jordan Ayew,"Sep 11, 1991 (28)",Ghana,30.06.2022,£7.20m,English Premier League
+345,Crystal Palace,Forward,Connor Wickham,"Mar 31, 1993 (26)",England,30.06.2021,£2.70m,English Premier League
+346,Watford FC,Goalkeeper,Ben Foster,"Apr 3, 1983 (36)",England,30.06.2020,£2.70m,English Premier League
+347,Watford FC,Goalkeeper,Heurelho Gomes,"Feb 15, 1981 (38)",Brazil,30.06.2020,£900k,English Premier League
+348,Watford FC,Goalkeeper,Pontus Dahlberg,"Jan 21, 1999 (20)",Sweden,30.06.2023,£900k,English Premier League
+349,Watford FC,Goalkeeper,Daniel Bachmann,"Jul 9, 1994 (25)",Austria,30.06.2020,£450k,English Premier League
+350,Watford FC,Defender,Christian Kabasele,"Feb 24, 1991 (28)",Belgium,30.06.2021,£7.20m,English Premier League
+351,Watford FC,Defender,Craig Dawson,"May 6, 1990 (29)",England,30.06.2023,£5.40m,English Premier League
+352,Watford FC,Defender,Craig Cathcart,"Feb 6, 1989 (30)",Northern Ireland,30.06.2023,£4.50m,English Premier League
+353,Watford FC,Defender,Adrian Mariappa,"Oct 3, 1986 (32)",Jamaica,30.06.2020,£2.70m,English Premier League
+354,Watford FC,Defender,Sebastian Prödl,"Jun 21, 1987 (32)",Austria,30.06.2021,£2.25m,English Premier League
+355,Watford FC,Defender,Adam Masina,"Jan 2, 1994 (25)",Italy,30.06.2023,£4.50m,English Premier League
+356,Watford FC,Defender,Marvin Zeegelaar,"Aug 12, 1990 (29)",Netherlands,30.06.2021,£2.25m,English Premier League
+357,Watford FC,Defender,José Holebas,"Jun 27, 1984 (35)",Greece,30.06.2020,£1.80m,English Premier League
+358,Watford FC,Defender,Daryl Janmaat,"Jul 22, 1989 (30)",Netherlands,30.06.2020,£5.40m,English Premier League
+359,Watford FC,Defender,Kiko Femenía,"Feb 2, 1991 (28)",Spain,30.06.2021,£5.40m,English Premier League
+360,Watford FC,Defender,Dimitri Foulquier,"Mar 23, 1993 (26)",Guadeloupe,30.06.2021,£3.15m,English Premier League
+361,Watford FC,Midfielder,Étienne Capoue,"Jul 11, 1988 (31)",France,30.06.2022,£7.20m,English Premier League
+362,Watford FC,Midfielder,Nathaniel Chalobah,"Dec 12, 1994 (24)",England,30.06.2022,£6.30m,English Premier League
+363,Watford FC,Midfielder,Abdoulaye Doucouré,"Jan 1, 1993 (26)",France,30.06.2023,£22.50m,English Premier League
+364,Watford FC,Midfielder,Will Hughes,"Apr 17, 1995 (24)",England,30.06.2022,£16.20m,English Premier League
+365,Watford FC,Midfielder,Tom Cleverley,"Aug 12, 1989 (30)",England,30.06.2022,£6.30m,English Premier League
+366,Watford FC,Midfielder,Domingos Quina,"Nov 18, 1999 (19)",Portugal,30.06.2022,£4.50m,English Premier League
+367,Watford FC,Midfielder,Tom Dele-Bashiru,"Sep 17, 1999 (19)",Nigeria,30.06.2025,£135k,English Premier League
+368,Watford FC,Midfielder,Roberto Pereyra,"Jan 7, 1991 (28)",Argentina,30.06.2021,£11.70m,English Premier League
+369,Watford FC,Forward,Isaac Success,"Jan 7, 1996 (23)",Nigeria,30.06.2023,£4.50m,English Premier League
+370,Watford FC,Forward,Ismaïla Sarr,"Feb 25, 1998 (21)",Senegal,30.06.2024,£27.00m,English Premier League
+371,Watford FC,Forward,Gerard Deulofeu,"Mar 13, 1994 (25)",Spain,30.06.2023,£22.50m,English Premier League
+372,Watford FC,Forward,Andre Gray,"Jun 26, 1991 (28)",England,30.06.2022,£13.50m,English Premier League
+373,Watford FC,Forward,Danny Welbeck,"Nov 26, 1990 (28)",England,30.06.2022,£10.80m,English Premier League
+374,Watford FC,Forward,Troy Deeney,"Jun 29, 1988 (31)",England,30.06.2021,£9.00m,English Premier League
+375,Brighton & Hove Albion,Goalkeeper,Mathew Ryan,"Apr 8, 1992 (27)",Australia,30.06.2022,£9.00m,English Premier League
+376,Brighton & Hove Albion,Goalkeeper,David Button,"Feb 27, 1989 (30)",England,30.06.2021,£1.35m,English Premier League
+377,Brighton & Hove Albion,Goalkeeper,Jason Steele,"Aug 18, 1990 (29)",England,30.06.2021,£675k,English Premier League
+378,Brighton & Hove Albion,Defender,Lewis Dunk,"Nov 21, 1991 (27)",England,30.06.2023,£18.00m,English Premier League
+379,Brighton & Hove Albion,Defender,Adam Webster,"Jan 4, 1995 (24)",England,30.06.2023,£13.50m,English Premier League
+380,Brighton & Hove Albion,Defender,Shane Duffy,"Jan 1, 1992 (27)",Ireland,30.06.2023,£10.80m,English Premier League
+381,Brighton & Hove Albion,Defender,Dan Burn,"May 9, 1992 (27)",England,30.06.2022,£2.70m,English Premier League
+382,Brighton & Hove Albion,Defender,Leon Balogun,"Jun 28, 1988 (31)",Nigeria,30.06.2020,£1.80m,English Premier League
+383,Brighton & Hove Albion,Defender,Bernardo,"May 14, 1995 (24)",Brazil,30.06.2022,£8.10m,English Premier League
+384,Brighton & Hove Albion,Defender,Gaëtan Bong,"Apr 25, 1988 (31)",Cameroon,30.06.2020,£1.80m,English Premier League
+385,Brighton & Hove Albion,Defender,Martín Montoya,"Apr 14, 1991 (28)",Spain,30.06.2022,£7.20m,English Premier League
+386,Brighton & Hove Albion,Defender,Ezequiel Schelotto,"May 23, 1989 (30)",Italy,30.06.2020,£1.80m,English Premier League
+387,Brighton & Hove Albion,Midfielder,Tudor Baluta,"Mar 27, 1999 (20)",Romania,30.06.2022,£4.05m,English Premier League
+388,Brighton & Hove Albion,Midfielder,Yves Bissouma,"Aug 30, 1996 (23)",Mali,30.06.2023,£13.50m,English Premier League
+389,Brighton & Hove Albion,Midfielder,Davy Pröpper,"Sep 2, 1991 (28)",Netherlands,30.06.2021,£13.50m,English Premier League
+390,Brighton & Hove Albion,Midfielder,Aaron Mooy,"Sep 15, 1990 (29)",Australia,31.05.2020,£12.60m,English Premier League
+391,Brighton & Hove Albion,Midfielder,Pascal Groß,"Jun 15, 1991 (28)",Germany,30.06.2022,£9.00m,English Premier League
+392,Brighton & Hove Albion,Midfielder,Dale Stephens,"Dec 12, 1989 (29)",England,30.06.2021,£5.40m,English Premier League
+393,Brighton & Hove Albion,Midfielder,Andrew Crofts,"May 29, 1984 (35)",Wales,30.06.2021,£315k,English Premier League
+394,Brighton & Hove Albion,Midfielder,Solly March,"Jul 20, 1994 (25)",England,30.06.2022,£7.20m,English Premier League
+395,Brighton & Hove Albion,Forward,Leandro Trossard,"Dec 4, 1994 (24)",Belgium,30.06.2023,£14.40m,English Premier League
+396,Brighton & Hove Albion,Forward,José Izquierdo,"Jul 7, 1992 (27)",Colombia,30.06.2021,£9.00m,English Premier League
+397,Brighton & Hove Albion,Forward,Alireza Jahanbakhsh,"Aug 11, 1993 (26)",Iran,30.06.2023,£10.80m,English Premier League
+398,Brighton & Hove Albion,Forward,Neal Maupay,"Aug 14, 1996 (23)",France,30.06.2023,£16.20m,English Premier League
+399,Brighton & Hove Albion,Forward,Glenn Murray,"Sep 25, 1983 (35)",England,30.06.2020,£2.70m,English Premier League
+400,Burnley FC,Goalkeeper,Nick Pope,"Apr 19, 1992 (27)",England,30.06.2023,£9.00m,English Premier League
+401,Burnley FC,Goalkeeper,Joe Hart,"Apr 19, 1987 (32)",England,30.06.2020,£3.60m,English Premier League
+402,Burnley FC,Goalkeeper,Bailey Peacock-Farrell,"Oct 29, 1996 (22)",Northern Ireland,30.06.2023,£1.35m,English Premier League
+403,Burnley FC,Goalkeeper,Adam Legzdins,"Nov 28, 1986 (32)",England,30.06.2020,£225k,English Premier League
+404,Burnley FC,Defender,James Tarkowski,"Nov 19, 1992 (26)",England,30.06.2022,£16.20m,English Premier League
+405,Burnley FC,Defender,Ben Mee,"Sep 21, 1989 (29)",England,30.06.2021,£9.00m,English Premier League
+406,Burnley FC,Defender,Ben Gibson,"Jan 15, 1993 (26)",England,30.06.2022,£9.00m,English Premier League
+407,Burnley FC,Defender,Kevin Long,"Aug 18, 1990 (29)",Ireland,30.06.2021,£2.25m,English Premier League
+408,Burnley FC,Defender,Charlie Taylor,"Sep 18, 1993 (25)",England,30.06.2021,£6.30m,English Premier League
+409,Burnley FC,Defender,Erik Pieters,"Aug 7, 1988 (31)",Netherlands,30.06.2021,£4.50m,English Premier League
+410,Burnley FC,Defender,Matthew Lowton,"Jun 9, 1989 (30)",England,30.06.2021,£4.50m,English Premier League
+411,Burnley FC,Defender,Phil Bardsley,"Jun 28, 1985 (34)",Scotland,30.06.2020,£1.35m,English Premier League
+412,Burnley FC,Midfielder,Jack Cork,"Jun 25, 1989 (30)",England,30.06.2021,£13.50m,English Premier League
+413,Burnley FC,Midfielder,Ashley Westwood,"Apr 1, 1990 (29)",England,30.06.2020,£6.30m,English Premier League
+414,Burnley FC,Midfielder,Jeff Hendrick,"Jan 31, 1992 (27)",Ireland,30.06.2020,£9.00m,English Premier League
+415,Burnley FC,Midfielder,Danny Drinkwater,"Mar 5, 1990 (29)",England,06.01.2020,£7.20m,English Premier League
+416,Burnley FC,Midfielder,Robbie Brady,"Jan 14, 1992 (27)",Ireland,30.06.2020,£7.20m,English Premier League
+417,Burnley FC,Forward,Dwight McNeil,"Nov 22, 1999 (19)",England,30.06.2023,£13.50m,English Premier League
+418,Burnley FC,Forward,Johann Berg Gudmundsson,"Oct 27, 1990 (28)",Iceland,30.06.2021,£9.00m,English Premier League
+419,Burnley FC,Forward,Aaron Lennon,"Apr 16, 1987 (32)",England,30.06.2020,£4.50m,English Premier League
+420,Burnley FC,Forward,Chris Wood,"Dec 7, 1991 (27)",New Zealand,30.06.2021,£16.20m,English Premier League
+421,Burnley FC,Forward,Ashley Barnes,"Oct 30, 1989 (29)",England,30.06.2021,£9.00m,English Premier League
+422,Burnley FC,Forward,Jay Rodríguez,"Jul 29, 1989 (30)",England,30.06.2021,£9.00m,English Premier League
+423,Burnley FC,Forward,Matej Vydra,"May 1, 1992 (27)",Czech Republic,30.06.2021,£7.20m,English Premier League
+424,Aston Villa,Goalkeeper,Tom Heaton,"Apr 15, 1986 (33)",England,-,£5.40m,English Premier League
+425,Aston Villa,Goalkeeper,Lovre Kalinic,"Apr 3, 1990 (29)",Croatia,30.06.2023,£3.60m,English Premier League
+426,Aston Villa,Goalkeeper,Jed Steer,"Sep 23, 1992 (26)",England,30.06.2023,£1.80m,English Premier League
+427,Aston Villa,Goalkeeper,Örjan Nyland,"Sep 10, 1990 (29)",Norway,30.06.2021,£1.80m,English Premier League
+428,Aston Villa,Defender,Tyrone Mings,"Mar 13, 1993 (26)",England,-,£16.20m,English Premier League
+429,Aston Villa,Defender,Björn Engels,"Sep 15, 1994 (25)",Belgium,30.06.2024,£9.00m,English Premier League
+430,Aston Villa,Defender,James Chester,"Jan 23, 1989 (30)",Wales,30.06.2020,£7.20m,English Premier League
+431,Aston Villa,Defender,Ezri Konsa,"Oct 23, 1997 (21)",England,-,£7.20m,English Premier League
+432,Aston Villa,Defender,Kortney Hause,"Jul 16, 1995 (24)",England,-,£2.70m,English Premier League
+433,Aston Villa,Defender,Matt Targett,"Sep 18, 1995 (23)",England,-,£9.00m,English Premier League
+434,Aston Villa,Defender,Neil Taylor,"Feb 7, 1989 (30)",Wales,30.06.2021,£3.60m,English Premier League
+435,Aston Villa,Defender,Frédéric Guilbert,"Dec 24, 1994 (24)",France,30.06.2023,£5.40m,English Premier League
+436,Aston Villa,Defender,Ahmed Elmohamady,"Sep 9, 1987 (32)",Egypt,30.06.2021,£2.70m,English Premier League
+437,Aston Villa,Midfielder,Marvelous Nakamba,"Jan 19, 1994 (25)",Zimbabwe,30.06.2024,£7.20m,English Premier League
+438,Aston Villa,Midfielder,Douglas Luiz,"May 9, 1998 (21)",Brazil,30.06.2023,£9.00m,English Premier League
+439,Aston Villa,Midfielder,John McGinn,"Oct 18, 1994 (24)",Scotland,30.06.2024,£5.85m,English Premier League
+440,Aston Villa,Midfielder,Conor Hourihane,"Feb 2, 1991 (28)",Ireland,-,£5.85m,English Premier League
+441,Aston Villa,Midfielder,Henri Lansbury,"Oct 12, 1990 (28)",England,30.06.2021,£1.35m,English Premier League
+442,Aston Villa,Midfielder,Jack Grealish,"Sep 10, 1995 (24)",England,30.06.2023,£22.50m,English Premier League
+443,Aston Villa,Forward,Trezeguet,"Oct 1, 1994 (24)",Egypt,-,£7.20m,English Premier League
+444,Aston Villa,Forward,Anwar El Ghazi,"May 3, 1995 (24)",Netherlands,30.06.2023,£6.75m,English Premier League
+445,Aston Villa,Forward,Jota,"Jun 16, 1991 (28)",Spain,30.06.2021,£4.50m,English Premier League
+446,Aston Villa,Forward,Wesley,"Nov 26, 1996 (22)",Brazil,-,£18.00m,English Premier League
+447,Aston Villa,Forward,Jonathan Kodjia,"Oct 22, 1989 (29)",Cote d'Ivoire,30.06.2020,£6.30m,English Premier League
+448,Aston Villa,Forward,Keinan Davis,"Feb 13, 1998 (21)",England,30.06.2020,£1.80m,English Premier League
+449,Norwich City,Goalkeeper,Tim Krul,"Apr 3, 1988 (31)",Netherlands,30.06.2022,£3.60m,English Premier League
+450,Norwich City,Goalkeeper,Ralf Fährmann,"Sep 27, 1988 (30)",Germany,30.06.2020,£3.60m,English Premier League
+451,Norwich City,Goalkeeper,Michael McGovern,"Jul 12, 1984 (35)",Northern Ireland,30.06.2021,£315k,English Premier League
+452,Norwich City,Defender,Ben Godfrey,"Jan 15, 1998 (21)",England,30.06.2023,£8.10m,English Premier League
+453,Norwich City,Defender,Christoph Zimmermann,"Jan 12, 1993 (26)",Germany,30.06.2023,£3.15m,English Premier League
+454,Norwich City,Defender,Grant Hanley,"Nov 20, 1991 (27)",Scotland,30.06.2023,£2.70m,English Premier League
+455,Norwich City,Defender,Timm Klose,"May 9, 1988 (31)",Switzerland,30.06.2022,£2.70m,English Premier League
+456,Norwich City,Defender,Jamal Lewis,"Jan 25, 1998 (21)",Northern Ireland,30.06.2023,£8.10m,English Premier League
+457,Norwich City,Defender,Philip Heise,"Jun 20, 1991 (28)",Germany,30.06.2022,£900k,English Premier League
+458,Norwich City,Defender,Max Aarons,"Jan 4, 2000 (19)",England,30.06.2024,£7.20m,English Premier League
+459,Norwich City,Defender,Sam Byram,"Sep 16, 1993 (25)",England,30.06.2023,£3.15m,English Premier League
+460,Norwich City,Midfielder,Ibrahim Amadou,"Apr 6, 1993 (26)",France,30.06.2020,£6.30m,English Premier League
+461,Norwich City,Midfielder,Tom Trybull,"Mar 9, 1993 (26)",Germany,30.06.2022,£3.60m,English Premier League
+462,Norwich City,Midfielder,Alexander Tettey,"Apr 4, 1986 (33)",Norway,30.06.2020,£1.80m,English Premier League
+463,Norwich City,Midfielder,Mario Vrancic,"May 23, 1989 (30)",Bosnia-Herzegovina,30.06.2021,£3.15m,English Premier League
+464,Norwich City,Midfielder,Moritz Leitner,"Dec 8, 1992 (26)",Germany,30.06.2022,£2.70m,English Premier League
+465,Norwich City,Midfielder,Kenny McLean,"Jan 8, 1992 (27)",Scotland,30.06.2021,£2.25m,English Premier League
+466,Norwich City,Midfielder,Todd Cantwell,"Feb 27, 1998 (21)",England,30.06.2022,£6.30m,English Premier League
+467,Norwich City,Midfielder,Marco Stiepermann,"Feb 9, 1991 (28)",Germany,30.06.2022,£3.60m,English Premier League
+468,Norwich City,Forward,Onel Hernández,"Feb 1, 1993 (26)",Cuba,30.06.2023,£3.60m,English Premier League
+469,Norwich City,Forward,Emiliano Buendía,"Dec 25, 1996 (22)",Argentina,30.06.2024,£16.20m,English Premier League
+470,Norwich City,Forward,Patrick Roberts,"Feb 5, 1997 (22)",England,30.06.2022,£4.50m,English Premier League
+471,Norwich City,Forward,Teemu Pukki,"Mar 29, 1990 (29)",Finland,30.06.2022,£8.10m,English Premier League
+472,Norwich City,Forward,Josip Drmic,"Aug 8, 1992 (27)",Switzerland,30.06.2022,£2.70m,English Premier League
+473,Norwich City,Forward,Dennis Srbeny,"May 5, 1994 (25)",Germany,30.06.2021,£1.13m,English Premier League
+474,Sheffield United,Goalkeeper,Dean Henderson,"Mar 12, 1997 (22)",England,31.05.2020,£6.30m,English Premier League
+475,Sheffield United,Goalkeeper,Michael Verrips,"Dec 3, 1996 (22)",Netherlands,30.06.2023,£1.35m,English Premier League
+476,Sheffield United,Goalkeeper,Simon Moore,"May 19, 1990 (29)",England,30.06.2021,£315k,English Premier League
+477,Sheffield United,Defender,John Egan,"Oct 20, 1992 (26)",Ireland,30.06.2022,£6.30m,English Premier League
+478,Sheffield United,Defender,Jack O'Connell,"Mar 29, 1994 (25)",England,30.06.2023,£5.85m,English Premier League
+479,Sheffield United,Defender,Chris Basham,"Jul 20, 1988 (31)",England,30.06.2021,£2.25m,English Premier League
+480,Sheffield United,Defender,Phil Jagielka,"Aug 17, 1982 (37)",England,30.06.2020,£900k,English Premier League
+481,Sheffield United,Defender,Richard Stearman,"Aug 19, 1987 (32)",England,30.06.2020,£900k,English Premier League
+482,Sheffield United,Defender,Kean Bryan,"Nov 1, 1996 (22)",England,30.06.2021,£225k,English Premier League
+483,Sheffield United,Defender,Enda Stevens,"Jul 9, 1990 (29)",Ireland,30.06.2022,£3.15m,English Premier League
+484,Sheffield United,Defender,George Baldock,"Jan 26, 1993 (26)",England,30.06.2022,£2.70m,English Premier League
+485,Sheffield United,Defender,Kieron Freeman,"Mar 21, 1992 (27)",Wales,30.06.2020,£1.35m,English Premier League
+486,Sheffield United,Midfielder,Muhamed Besic,"Sep 10, 1992 (27)",Bosnia-Herzegovina,31.05.2020,£4.50m,English Premier League
+487,Sheffield United,Midfielder,John Fleck,"Aug 24, 1991 (28)",Scotland,30.06.2021,£4.50m,English Premier League
+488,Sheffield United,Midfielder,Oliver Norwood,"Apr 12, 1991 (28)",Northern Ireland,30.06.2021,£4.50m,English Premier League
+489,Sheffield United,Midfielder,John Lundstram,"Feb 18, 1994 (25)",England,30.06.2020,£1.80m,English Premier League
+490,Sheffield United,Midfielder,Ben Osborn,"Aug 5, 1994 (25)",England,30.06.2022,£2.70m,English Premier League
+491,Sheffield United,Midfielder,Luke Freeman,"Mar 22, 1992 (27)",England,30.06.2022,£4.50m,English Premier League
+492,Sheffield United,Midfielder,Ravel Morrison,"Feb 2, 1993 (26)",Jamaica,30.06.2020,£900k,English Premier League
+493,Sheffield United,Forward,Callum Robinson,"Feb 2, 1995 (24)",Ireland,30.06.2023,£6.30m,English Premier League
+494,Sheffield United,Forward,Ricky Holmes,"Jun 20, 1987 (32)",England,30.06.2020,£315k,English Premier League
+495,Sheffield United,Forward,Oliver McBurnie,"Jun 4, 1996 (23)",Scotland,30.06.2023,£10.80m,English Premier League
+496,Sheffield United,Forward,Lys Mousset,"Feb 8, 1996 (23)",France,30.06.2022,£5.40m,English Premier League
+497,Sheffield United,Forward,Billy Sharp,"Feb 5, 1986 (33)",England,30.06.2021,£2.25m,English Premier League
+498,Sheffield United,Forward,David McGoldrick,"Nov 29, 1987 (31)",Ireland,30.06.2021,£1.80m,English Premier League
+499,Sheffield United,Forward,Leon Clarke,"Feb 10, 1985 (34)",England,30.06.2020,£450k,English Premier League

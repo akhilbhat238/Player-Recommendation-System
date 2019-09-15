@@ -1,0 +1,491 @@
+,Club,Position,Player_Name,DOB,Nation,Contract_Expiry,Value,League
+0,Real Madrid,Goalkeeper,Thibaut Courtois,"May 11, 1992 (27)",Belgium,30.06.2024,£49.50m,La Liga
+1,Real Madrid,Goalkeeper,Alphonse Areola,"Feb 27, 1993 (26)",France,30.06.2020,£15.75m,La Liga
+2,Real Madrid,Defender,Raphaël Varane,"Apr 25, 1993 (26)",France,30.06.2022,£63.00m,La Liga
+3,Real Madrid,Defender,Éder Militão,"Jan 18, 1998 (21)",Brazil,30.06.2025,£45.00m,La Liga
+4,Real Madrid,Defender,Sergio Ramos,"Mar 30, 1986 (33)",Spain,30.06.2021,£22.50m,La Liga
+5,Real Madrid,Defender,Nacho,"Jan 18, 1990 (29)",Spain,30.06.2020,£18.00m,La Liga
+6,Real Madrid,Defender,Ferland Mendy,"Jun 8, 1995 (24)",France,30.06.2025,£36.00m,La Liga
+7,Real Madrid,Defender,Marcelo,"May 12, 1988 (31)",Brazil,30.06.2022,£22.50m,La Liga
+8,Real Madrid,Defender,Daniel Carvajal,"Jan 11, 1992 (27)",Spain,30.06.2022,£45.00m,La Liga
+9,Real Madrid,Defender,Álvaro Odriozola,"Dec 14, 1995 (23)",Spain,30.06.2024,£22.50m,La Liga
+10,Real Madrid,Midfielder,Casemiro,"Feb 23, 1992 (27)",Brazil,30.06.2021,£54.00m,La Liga
+11,Real Madrid,Midfielder,Toni Kroos,"Jan 4, 1990 (29)",Germany,30.06.2023,£54.00m,La Liga
+12,Real Madrid,Midfielder,Luka Modric,"Sep 9, 1985 (34)",Croatia,30.06.2020,£18.00m,La Liga
+13,Real Madrid,Midfielder,Federico Valverde,"Jul 22, 1998 (21)",Uruguay,30.06.2021,£18.00m,La Liga
+14,Real Madrid,Midfielder,Isco,"Apr 21, 1992 (27)",Spain,30.06.2022,£54.00m,La Liga
+15,Real Madrid,Midfielder,James Rodríguez,"Jul 12, 1991 (28)",Colombia,30.06.2021,£45.00m,La Liga
+16,Real Madrid,Midfielder,Brahim Díaz,"Aug 3, 1999 (20)",Spain,30.06.2025,£15.30m,La Liga
+17,Real Madrid,Forward,Eden Hazard,"Jan 7, 1991 (28)",Belgium,30.06.2024,£135.00m,La Liga
+18,Real Madrid,Forward,Vinícius Júnior,"Jul 12, 2000 (19)",Brazil,30.06.2025,£63.00m,La Liga
+19,Real Madrid,Forward,Marco Asensio,"Jan 21, 1996 (23)",Spain,30.06.2023,£54.00m,La Liga
+20,Real Madrid,Forward,Rodrygo,"Jan 9, 2001 (18)",Brazil,30.06.2025,£36.00m,La Liga
+21,Real Madrid,Forward,Gareth Bale,"Jul 16, 1989 (30)",Wales,30.06.2022,£54.00m,La Liga
+22,Real Madrid,Forward,Lucas Vázquez,"Jul 1, 1991 (28)",Spain,30.06.2021,£22.50m,La Liga
+23,Real Madrid,Forward,Luka Jovic,"Dec 23, 1997 (21)",Serbia,30.06.2025,£54.00m,La Liga
+24,Real Madrid,Forward,Karim Benzema,"Dec 19, 1987 (31)",France,30.06.2021,£36.00m,La Liga
+25,Real Madrid,Forward,Mariano Díaz,"Aug 1, 1993 (26)",Dominican Republic,30.06.2023,£18.00m,La Liga
+26,FC Barcelona,Goalkeeper,Marc-André ter Stegen,"Apr 30, 1992 (27)",Germany,30.06.2022,£81.00m,La Liga
+27,FC Barcelona,Goalkeeper,Neto,"Jul 19, 1989 (30)",Brazil,30.06.2023,£16.20m,La Liga
+28,FC Barcelona,Goalkeeper,Iñaki Peña,"Mar 2, 1999 (20)",Spain,30.06.2021,£2.25m,La Liga
+29,FC Barcelona,Defender,Clément Lenglet,"Jun 17, 1995 (24)",France,30.06.2023,£54.00m,La Liga
+30,FC Barcelona,Defender,Samuel Umtiti,"Nov 14, 1993 (25)",France,30.06.2023,£40.50m,La Liga
+31,FC Barcelona,Defender,Gerard Piqué,"Feb 2, 1987 (32)",Spain,30.06.2022,£31.50m,La Liga
+32,FC Barcelona,Defender,Jean-Clair Todibo,"Dec 30, 1999 (19)",France,30.06.2023,£7.20m,La Liga
+33,FC Barcelona,Defender,Jordi Alba,"Mar 21, 1989 (30)",Spain,30.06.2024,£45.00m,La Liga
+34,FC Barcelona,Defender,Júnior Firpo,"Aug 22, 1996 (23)",Spain,30.06.2024,£22.50m,La Liga
+35,FC Barcelona,Defender,Nélson Semedo,"Nov 16, 1993 (25)",Portugal,30.06.2022,£36.00m,La Liga
+36,FC Barcelona,Defender,Moussa Wagué,"Oct 4, 1998 (20)",Senegal,30.06.2023,£4.50m,La Liga
+37,FC Barcelona,Midfielder,Sergio Busquets,"Jul 16, 1988 (31)",Spain,30.06.2023,£45.00m,La Liga
+38,FC Barcelona,Midfielder,Frenkie de Jong,"May 12, 1997 (22)",Netherlands,30.06.2024,£76.50m,La Liga
+39,FC Barcelona,Midfielder,Arthur,"Aug 12, 1996 (23)",Brazil,30.06.2024,£63.00m,La Liga
+40,FC Barcelona,Midfielder,Sergi Roberto,"Feb 7, 1992 (27)",Spain,30.06.2022,£45.00m,La Liga
+41,FC Barcelona,Midfielder,Ivan Rakitic,"Mar 10, 1988 (31)",Croatia,30.06.2021,£31.50m,La Liga
+42,FC Barcelona,Midfielder,Carles Aleñà,"Jan 5, 1998 (21)",Spain,30.06.2022,£27.00m,La Liga
+43,FC Barcelona,Midfielder,Arturo Vidal,"May 22, 1987 (32)",Chile,30.06.2021,£13.50m,La Liga
+44,FC Barcelona,Forward,Ousmane Dembélé,"May 15, 1997 (22)",France,30.06.2022,£90.00m,La Liga
+45,FC Barcelona,Forward,Ansu Fati,"Oct 31, 2002 (16)",Guinea-Bissau,30.06.2022,£22.50m,La Liga
+46,FC Barcelona,Forward,Lionel Messi,"Jun 24, 1987 (32)",Argentina,30.06.2021,£135.00m,La Liga
+47,FC Barcelona,Forward,Carles Pérez,"Feb 16, 1998 (21)",Spain,30.06.2020,£9.00m,La Liga
+48,FC Barcelona,Forward,Antoine Griezmann,"Mar 21, 1991 (28)",France,30.06.2024,£117.00m,La Liga
+49,FC Barcelona,Forward,Luis Suárez,"Jan 24, 1987 (32)",Uruguay,30.06.2021,£45.00m,La Liga
+50,Atlético Madrid,Goalkeeper,Jan Oblak,"Jan 7, 1993 (26)",Slovenia,30.06.2023,£90.00m,La Liga
+51,Atlético Madrid,Goalkeeper,Antonio Adán,"May 13, 1987 (32)",Spain,30.06.2020,£1.35m,La Liga
+52,Atlético Madrid,Defender,José Giménez,"Jan 20, 1995 (24)",Uruguay,30.06.2023,£63.00m,La Liga
+53,Atlético Madrid,Defender,Stefan Savic,"Jan 8, 1991 (28)",Montenegro,30.06.2020,£31.50m,La Liga
+54,Atlético Madrid,Defender,Mario Hermoso,"Jun 18, 1995 (24)",Spain,30.06.2024,£22.50m,La Liga
+55,Atlético Madrid,Defender,Felipe,"May 16, 1989 (30)",Brazil,30.06.2022,£18.00m,La Liga
+56,Atlético Madrid,Defender,Renan Lodi,"Apr 8, 1998 (21)",Brazil,30.06.2025,£13.50m,La Liga
+57,Atlético Madrid,Defender,Kieran Trippier,"Sep 19, 1990 (28)",England,30.06.2022,£31.50m,La Liga
+58,Atlético Madrid,Defender,Sime Vrsaljko,"Jan 10, 1992 (27)",Croatia,30.06.2022,£18.00m,La Liga
+59,Atlético Madrid,Defender,Santiago Arias,"Jan 13, 1992 (27)",Colombia,30.06.2023,£16.20m,La Liga
+60,Atlético Madrid,Midfielder,Thomas,"Jun 13, 1993 (26)",Ghana,30.06.2023,£45.00m,La Liga
+61,Atlético Madrid,Midfielder,Marcos Llorente,"Jan 30, 1995 (24)",Spain,30.06.2024,£27.00m,La Liga
+62,Atlético Madrid,Midfielder,Saúl Ñíguez,"Nov 21, 1994 (24)",Spain,30.06.2026,£81.00m,La Liga
+63,Atlético Madrid,Midfielder,Héctor Herrera,"Apr 19, 1990 (29)",Mexico,30.06.2022,£19.80m,La Liga
+64,Atlético Madrid,Midfielder,Koke,"Jan 8, 1992 (27)",Spain,30.06.2024,£63.00m,La Liga
+65,Atlético Madrid,Forward,Thomas Lemar,"Nov 12, 1995 (23)",France,30.06.2023,£36.00m,La Liga
+66,Atlético Madrid,Forward,Vitolo,"Nov 2, 1989 (29)",Spain,30.06.2022,£16.20m,La Liga
+67,Atlético Madrid,Forward,Ángel Correa,"Mar 9, 1995 (24)",Argentina,30.06.2024,£31.50m,La Liga
+68,Atlético Madrid,Forward,João Félix,"Nov 10, 1999 (19)",Portugal,30.06.2026,£90.00m,La Liga
+69,Atlético Madrid,Forward,Álvaro Morata,"Oct 23, 1992 (26)",Spain,30.06.2020,£45.00m,La Liga
+70,Atlético Madrid,Forward,Diego Costa,"Oct 7, 1988 (30)",Spain,30.06.2021,£22.50m,La Liga
+71,Atlético Madrid,Forward,Ivan Saponjic,"Aug 2, 1997 (22)",Serbia,30.06.2022,£2.70m,La Liga
+72,Valencia CF,Goalkeeper,Jasper Cillessen,"Apr 22, 1989 (30)",Netherlands,30.06.2023,£16.20m,La Liga
+73,Valencia CF,Goalkeeper,Jaume Doménech,"Nov 5, 1990 (28)",Spain,30.06.2022,£2.25m,La Liga
+74,Valencia CF,Defender,Mouctar Diakhaby,"Dec 19, 1996 (22)",France,30.06.2023,£27.00m,La Liga
+75,Valencia CF,Defender,Gabriel Paulista,"Nov 26, 1990 (28)",Brazil,30.06.2022,£18.00m,La Liga
+76,Valencia CF,Defender,Eliaquim Mangala,"Feb 13, 1991 (28)",France,30.06.2021,£9.00m,La Liga
+77,Valencia CF,Defender,Ezequiel Garay,"Oct 10, 1986 (32)",Argentina,30.06.2020,£7.20m,La Liga
+78,Valencia CF,Defender,José Gayà,"May 25, 1995 (24)",Spain,30.06.2023,£45.00m,La Liga
+79,Valencia CF,Defender,Jaume Costa,"Mar 18, 1988 (31)",Spain,30.06.2020,£3.60m,La Liga
+80,Valencia CF,Defender,Daniel Wass,"May 31, 1989 (30)",Denmark,30.06.2022,£12.60m,La Liga
+81,Valencia CF,Defender,Cristiano Piccini,"Sep 26, 1992 (26)",Italy,30.06.2022,£9.00m,La Liga
+82,Valencia CF,Defender,Thierry Correia,"Mar 9, 1999 (20)",Portugal,30.06.2024,£5.40m,La Liga
+83,Valencia CF,Midfielder,Francis Coquelin,"May 13, 1991 (28)",France,30.06.2022,£18.00m,La Liga
+84,Valencia CF,Midfielder,Geoffrey Kondogbia,"Feb 15, 1993 (26)",Central African Republic,30.06.2022,£27.00m,La Liga
+85,Valencia CF,Midfielder,Dani Parejo,"Apr 16, 1989 (30)",Spain,30.06.2022,£27.00m,La Liga
+86,Valencia CF,Midfielder,Kang-in Lee,"Feb 19, 2001 (18)","Korea, South",30.06.2022,£18.00m,La Liga
+87,Valencia CF,Forward,Gonçalo Guedes,"Nov 29, 1996 (22)",Portugal,30.06.2023,£36.00m,La Liga
+88,Valencia CF,Forward,Denis Cheryshev,"Dec 26, 1990 (28)",Russia,30.06.2022,£5.40m,La Liga
+89,Valencia CF,Forward,Manu Vallejo,"Feb 14, 1997 (22)",Spain,30.06.2024,£4.50m,La Liga
+90,Valencia CF,Forward,Carlos Soler,"Jan 2, 1997 (22)",Spain,30.06.2021,£45.00m,La Liga
+91,Valencia CF,Forward,Ferran Torres,"Feb 29, 2000 (19)",Spain,30.06.2021,£18.00m,La Liga
+92,Valencia CF,Forward,Rodrigo,"Mar 6, 1991 (28)",Spain,30.06.2022,£45.00m,La Liga
+93,Valencia CF,Forward,Maxi Gómez,"Aug 14, 1996 (23)",Uruguay,30.06.2024,£36.00m,La Liga
+94,Valencia CF,Forward,Kévin Gameiro,"May 9, 1987 (32)",France,30.06.2021,£8.10m,La Liga
+95,Valencia CF,Forward,Rubén Sobrino,"Jun 1, 1992 (27)",Spain,30.06.2022,£2.70m,La Liga
+96,Real Sociedad,Goalkeeper,Alex Remiro,"Mar 24, 1995 (24)",Spain,30.06.2023,£1.35m,La Liga
+97,Real Sociedad,Goalkeeper,Miguel Ángel Moyà,"Apr 2, 1984 (35)",Spain,30.06.2020,£1.35m,La Liga
+98,Real Sociedad,Goalkeeper,Andoni Zubiaurre,"Dec 4, 1996 (22)",Spain,30.06.2022,£270k,La Liga
+99,Real Sociedad,Defender,Diego Llorente,"Aug 16, 1993 (26)",Spain,30.06.2022,£22.50m,La Liga
+100,Real Sociedad,Defender,Aritz Elustondo,"Mar 28, 1994 (25)",Spain,30.06.2022,£9.00m,La Liga
+101,Real Sociedad,Defender,Modibo Sagnan,"Apr 14, 1999 (20)",France,30.06.2024,£4.05m,La Liga
+102,Real Sociedad,Defender,Robin Le Normand,"Nov 11, 1996 (22)",France,30.06.2022,£3.60m,La Liga
+103,Real Sociedad,Defender,Nacho Monreal,"Feb 26, 1986 (33)",Spain,30.06.2021,£7.20m,La Liga
+104,Real Sociedad,Defender,Aihen Muñoz,"Aug 16, 1997 (22)",Spain,30.06.2022,£6.75m,La Liga
+105,Real Sociedad,Defender,Joseba Zaldua,"Jun 24, 1992 (27)",Spain,30.06.2023,£9.00m,La Liga
+106,Real Sociedad,Defender,Andoni Gorosabel,"Aug 4, 1996 (23)",Spain,30.06.2021,£1.35m,La Liga
+107,Real Sociedad,Midfielder,Igor Zubeldia,"Mar 30, 1997 (22)",Spain,30.06.2024,£27.00m,La Liga
+108,Real Sociedad,Midfielder,Asier Illarramendi,"Mar 8, 1990 (29)",Spain,30.06.2023,£22.50m,La Liga
+109,Real Sociedad,Midfielder,Mikel Merino,"Jun 22, 1996 (23)",Spain,30.06.2023,£13.50m,La Liga
+110,Real Sociedad,Midfielder,Rubén Pardo,"Oct 22, 1992 (26)",Spain,30.06.2020,£3.60m,La Liga
+111,Real Sociedad,Midfielder,Ander Guevara,"Jul 7, 1997 (22)",Spain,30.06.2024,£2.25m,La Liga
+112,Real Sociedad,Midfielder,David Zurutuza,"Jul 19, 1986 (33)",Spain,30.06.2020,£2.25m,La Liga
+113,Real Sociedad,Midfielder,Portu,"May 21, 1992 (27)",Spain,30.06.2024,£9.00m,La Liga
+114,Real Sociedad,Midfielder,Luca Sangalli,"Feb 10, 1995 (24)",Spain,30.06.2022,£3.60m,La Liga
+115,Real Sociedad,Forward,Mikel Oyarzabal,"Apr 21, 1997 (22)",Spain,30.06.2024,£54.00m,La Liga
+116,Real Sociedad,Forward,Ander Barrenetxea,"Dec 27, 2001 (17)",Spain,30.06.2025,£9.00m,La Liga
+117,Real Sociedad,Forward,Martin Ödegaard,"Dec 17, 1998 (20)",Norway,30.06.2020,£18.00m,La Liga
+118,Real Sociedad,Forward,Adnan Januzaj,"Feb 5, 1995 (24)",Belgium,30.06.2022,£13.50m,La Liga
+119,Real Sociedad,Forward,Willian José,"Nov 23, 1991 (27)",Brazil,30.06.2024,£27.00m,La Liga
+120,Real Sociedad,Forward,Alexander Isak,"Sep 21, 1999 (19)",Sweden,30.06.2024,£7.20m,La Liga
+121,Real Betis Balompié,Goalkeeper,Joel Robles,"Jun 17, 1990 (29)",Spain,30.06.2022,£4.50m,La Liga
+122,Real Betis Balompié,Goalkeeper,Dani Martín,"Jul 8, 1998 (21)",Spain,30.06.2024,£4.50m,La Liga
+123,Real Betis Balompié,Defender,Marc Bartra,"Jan 15, 1991 (28)",Spain,30.06.2023,£19.80m,La Liga
+124,Real Betis Balompié,Defender,Aïssa Mandi,"Oct 22, 1991 (27)",Algeria,30.06.2021,£14.40m,La Liga
+125,Real Betis Balompié,Defender,Sidnei,"Aug 23, 1989 (30)",Brazil,30.06.2022,£9.00m,La Liga
+126,Real Betis Balompié,Defender,Zouhair Feddal,"Dec 23, 1989 (29)",Morocco,30.06.2021,£4.50m,La Liga
+127,Real Betis Balompié,Defender,Alfonso Pedraza,"Apr 9, 1996 (23)",Spain,30.06.2020,£15.75m,La Liga
+128,Real Betis Balompié,Defender,Álex Moreno,"Jun 8, 1993 (26)",Spain,30.06.2024,£6.30m,La Liga
+129,Real Betis Balompié,Defender,Emerson,"Jan 14, 1999 (20)",Brazil,30.06.2021,£5.40m,La Liga
+130,Real Betis Balompié,Defender,Francis Guerrero,"Mar 11, 1996 (23)",Spain,30.06.2023,£3.60m,La Liga
+131,Real Betis Balompié,Defender,Antonio Barragán,"Jun 12, 1987 (32)",Spain,30.06.2020,£1.80m,La Liga
+132,Real Betis Balompié,Midfielder,William Carvalho,"Apr 7, 1992 (27)",Portugal,30.06.2023,£22.50m,La Liga
+133,Real Betis Balompié,Midfielder,Javi García,"Feb 8, 1987 (32)",Spain,30.06.2021,£1.80m,La Liga
+134,Real Betis Balompié,Midfielder,Andrés Guardado,"Sep 28, 1986 (32)",Mexico,30.06.2020,£4.50m,La Liga
+135,Real Betis Balompié,Midfielder,Wilfrid Kaptoum,"Jul 7, 1996 (23)",Cameroon,30.06.2020,£3.60m,La Liga
+136,Real Betis Balompié,Midfielder,Nabil Fekir,"Jul 18, 1993 (26)",France,30.06.2023,£54.00m,La Liga
+137,Real Betis Balompié,Midfielder,Sergio Canales,"Feb 16, 1991 (28)",Spain,30.06.2022,£22.50m,La Liga
+138,Real Betis Balompié,Forward,Diego Lainez,"Jun 9, 2000 (19)",Mexico,30.06.2024,£12.60m,La Liga
+139,Real Betis Balompié,Forward,Cristian Tello,"Aug 11, 1991 (28)",Spain,30.06.2022,£9.00m,La Liga
+140,Real Betis Balompié,Forward,Juanmi,"May 20, 1993 (26)",Spain,30.06.2024,£7.20m,La Liga
+141,Real Betis Balompié,Forward,Joaquín,"Jul 21, 1981 (38)",Spain,30.06.2020,£1.80m,La Liga
+142,Real Betis Balompié,Forward,Borja Iglesias,"Jan 17, 1993 (26)",Spain,30.06.2024,£25.20m,La Liga
+143,Real Betis Balompié,Forward,Loren Morón,"Dec 30, 1993 (25)",Spain,30.06.2022,£9.00m,La Liga
+144,Sevilla FC,Goalkeeper,Tomas Vaclik,"Mar 29, 1989 (30)",Czech Republic,30.06.2021,£16.20m,La Liga
+145,Sevilla FC,Goalkeeper,Bono,"Apr 5, 1991 (28)",Morocco,30.06.2020,£4.50m,La Liga
+146,Sevilla FC,Goalkeeper,Javi Díaz,"May 15, 1997 (22)",Spain,30.06.2021,£180k,La Liga
+147,Sevilla FC,Defender,Jules Koundé,"Nov 12, 1998 (20)",France,30.06.2024,£22.50m,La Liga
+148,Sevilla FC,Defender,Diego Carlos,"Mar 15, 1993 (26)",Brazil,30.06.2024,£13.50m,La Liga
+149,Sevilla FC,Defender,Sergi Gómez,"Mar 28, 1992 (27)",Spain,30.06.2022,£7.20m,La Liga
+150,Sevilla FC,Defender,Daniel Carriço,"Aug 4, 1988 (31)",Portugal,30.06.2020,£2.70m,La Liga
+151,Sevilla FC,Defender,Sergio Reguilón,"Dec 16, 1996 (22)",Spain,30.06.2020,£19.80m,La Liga
+152,Sevilla FC,Defender,Sergio Escudero,"Sep 2, 1989 (30)",Spain,30.06.2021,£6.75m,La Liga
+153,Sevilla FC,Defender,Jesús Navas,"Nov 21, 1985 (33)",Spain,30.06.2021,£3.60m,La Liga
+154,Sevilla FC,Midfielder,Nemanja Gudelj,"Nov 16, 1991 (27)",Serbia,30.06.2023,£5.85m,La Liga
+155,Sevilla FC,Midfielder,Fernando,"Jul 25, 1987 (32)",Brazil,30.06.2022,£4.05m,La Liga
+156,Sevilla FC,Midfielder,Óliver Torres,"Nov 10, 1994 (24)",Spain,30.06.2024,£15.30m,La Liga
+157,Sevilla FC,Midfielder,Éver Banega,"Jun 29, 1988 (31)",Argentina,30.06.2020,£13.50m,La Liga
+158,Sevilla FC,Midfielder,Joan Jordán,"Jul 6, 1994 (25)",Spain,30.06.2023,£12.60m,La Liga
+159,Sevilla FC,Midfielder,Franco Vázquez,"Feb 22, 1989 (30)",Argentina,30.06.2021,£13.50m,La Liga
+160,Sevilla FC,Midfielder,Alejandro Pozo,"Feb 22, 1999 (20)",Spain,30.06.2023,£2.25m,La Liga
+161,Sevilla FC,Forward,Lucas Ocampos,"Jul 11, 1994 (25)",Argentina,30.06.2024,£13.50m,La Liga
+162,Sevilla FC,Forward,Bryan Gil,"Feb 11, 2001 (18)",Spain,30.06.2022,£9.00m,La Liga
+163,Sevilla FC,Forward,Nolito,"Oct 15, 1986 (32)",Spain,30.06.2020,£1.80m,La Liga
+164,Sevilla FC,Forward,Rony Lopes,"Dec 28, 1995 (23)",Portugal,30.06.2024,£22.50m,La Liga
+165,Sevilla FC,Forward,Munas Dabbur,"May 14, 1992 (27)",Israel,30.06.2023,£13.50m,La Liga
+166,Sevilla FC,Forward,Chicharito,"Jun 1, 1988 (31)",Mexico,30.06.2022,£10.80m,La Liga
+167,Sevilla FC,Forward,Luuk de Jong,"Aug 27, 1990 (29)",Netherlands,30.06.2023,£10.80m,La Liga
+168,Sevilla FC,Forward,Munir El Haddadi,"Sep 1, 1995 (24)",Spain,30.06.2023,£9.00m,La Liga
+169,Celta de Vigo,Goalkeeper,Rubén Blanco,"Jul 25, 1995 (24)",Spain,30.06.2023,£2.70m,La Liga
+170,Celta de Vigo,Goalkeeper,Sergio Álvarez,"Aug 3, 1986 (33)",Spain,30.06.2020,£1.80m,La Liga
+171,Celta de Vigo,Goalkeeper,Iván Villar,"Jul 9, 1997 (22)",Spain,30.06.2023,£270k,La Liga
+172,Celta de Vigo,Defender,Néstor Araujo,"Aug 29, 1991 (28)",Mexico,30.06.2023,£7.20m,La Liga
+173,Celta de Vigo,Defender,Joseph Aidoo,"Sep 29, 1995 (23)",Ghana,30.06.2024,£7.20m,La Liga
+174,Celta de Vigo,Defender,David Costas,"Mar 26, 1995 (24)",Spain,30.06.2022,£2.70m,La Liga
+175,Celta de Vigo,Defender,Jorge Sáenz,"Nov 17, 1996 (22)",Spain,30.06.2021,£2.70m,La Liga
+176,Celta de Vigo,Defender,Lucas Olaza,"Jul 21, 1994 (25)",Uruguay,30.06.2020,£3.15m,La Liga
+177,Celta de Vigo,Defender,David Juncà,"Nov 16, 1993 (25)",Spain,30.06.2023,£1.35m,La Liga
+178,Celta de Vigo,Defender,Hugo Mallo,"Jun 22, 1991 (28)",Spain,30.06.2023,£13.50m,La Liga
+179,Celta de Vigo,Defender,Kevin Vázquez,"Mar 23, 1993 (26)",Spain,30.06.2023,£450k,La Liga
+180,Celta de Vigo,Midfielder,Stanislav Lobotka,"Nov 25, 1994 (24)",Slovakia,30.06.2023,£22.50m,La Liga
+181,Celta de Vigo,Midfielder,Okay Yokuslu,"Mar 9, 1994 (25)",Turkey,30.06.2023,£10.80m,La Liga
+182,Celta de Vigo,Midfielder,Fran Beltrán,"Feb 3, 1999 (20)",Spain,30.06.2023,£16.20m,La Liga
+183,Celta de Vigo,Midfielder,Pape Cheikh,"Aug 8, 1997 (22)",Spain,30.06.2020,£6.30m,La Liga
+184,Celta de Vigo,Midfielder,Rafinha,"Feb 12, 1993 (26)",Brazil,30.06.2020,£13.50m,La Liga
+185,Celta de Vigo,Forward,Denis Suárez,"Jan 6, 1994 (25)",Spain,30.06.2023,£10.80m,La Liga
+186,Celta de Vigo,Forward,Pione Sisto,"Feb 4, 1995 (24)",Denmark,30.06.2021,£7.20m,La Liga
+187,Celta de Vigo,Forward,Brais Méndez,"Jan 7, 1997 (22)",Spain,30.06.2021,£18.00m,La Liga
+188,Celta de Vigo,Forward,Juan Hernández,"Dec 6, 1994 (24)",Spain,30.06.2020,£900k,La Liga
+189,Celta de Vigo,Forward,Santi Mina,"Dec 7, 1995 (23)",Spain,30.06.2024,£27.00m,La Liga
+190,Celta de Vigo,Forward,Iago Aspas,"Aug 1, 1987 (32)",Spain,30.06.2023,£22.50m,La Liga
+191,Celta de Vigo,Forward,Gabriel Fernández,"May 13, 1994 (25)",Uruguay,30.06.2023,£2.70m,La Liga
+192,Celta de Vigo,Forward,Claudio Beauvue,"Apr 16, 1988 (31)",Guadeloupe,30.06.2021,£2.25m,La Liga
+193,Athletic Bilbao,Goalkeeper,Unai Simón,"Jun 11, 1997 (22)",Spain,30.06.2023,£5.40m,La Liga
+194,Athletic Bilbao,Goalkeeper,Iago Herrerín,"Jan 25, 1988 (31)",Spain,30.06.2021,£3.60m,La Liga
+195,Athletic Bilbao,Defender,Iñigo Martínez,"May 17, 1991 (28)",Spain,30.06.2023,£28.80m,La Liga
+196,Athletic Bilbao,Defender,Yeray Álvarez,"Jan 24, 1995 (24)",Spain,30.06.2026,£22.50m,La Liga
+197,Athletic Bilbao,Defender,Unai Núñez,"Jan 30, 1997 (22)",Spain,30.06.2023,£13.50m,La Liga
+198,Athletic Bilbao,Defender,Yuri Berchiche,"Feb 10, 1990 (29)",Spain,30.06.2022,£18.00m,La Liga
+199,Athletic Bilbao,Defender,Mikel Balenziaga,"Feb 29, 1988 (31)",Spain,30.06.2021,£1.80m,La Liga
+200,Athletic Bilbao,Defender,Cristian Ganea,"May 24, 1992 (27)",Romania,30.06.2021,£900k,La Liga
+201,Athletic Bilbao,Defender,Óscar de Marcos,"Apr 14, 1989 (30)",Spain,30.06.2021,£5.40m,La Liga
+202,Athletic Bilbao,Defender,Ander Capa,"Feb 8, 1992 (27)",Spain,30.06.2022,£2.70m,La Liga
+203,Athletic Bilbao,Defender,Iñigo Lekue,"May 4, 1993 (26)",Spain,30.06.2023,£1.80m,La Liga
+204,Athletic Bilbao,Midfielder,Mikel San José,"May 30, 1989 (30)",Spain,30.06.2020,£6.75m,La Liga
+205,Athletic Bilbao,Midfielder,Mikel Vesga,"Apr 8, 1993 (26)",Spain,30.06.2021,£3.60m,La Liga
+206,Athletic Bilbao,Midfielder,Beñat Etxebarria,"Feb 19, 1987 (32)",Spain,30.06.2020,£3.60m,La Liga
+207,Athletic Bilbao,Midfielder,Dani García,"May 24, 1990 (29)",Spain,30.06.2022,£3.60m,La Liga
+208,Athletic Bilbao,Midfielder,Raúl García,"Jul 11, 1986 (33)",Spain,30.06.2021,£6.75m,La Liga
+209,Athletic Bilbao,Midfielder,Unai López,"Oct 30, 1995 (23)",Spain,30.06.2022,£1.35m,La Liga
+210,Athletic Bilbao,Forward,Iker Muniain,"Dec 19, 1992 (26)",Spain,30.06.2024,£13.50m,La Liga
+211,Athletic Bilbao,Forward,Iñigo Córdoba,"Mar 13, 1997 (22)",Spain,30.06.2022,£3.60m,La Liga
+212,Athletic Bilbao,Forward,Ibai Gómez,"Nov 11, 1989 (29)",Spain,30.06.2022,£3.60m,La Liga
+213,Athletic Bilbao,Forward,Gaizka Larrazabal,"Dec 17, 1997 (21)",Spain,30.06.2021,£2.25m,La Liga
+214,Athletic Bilbao,Forward,Iñaki Williams,"Jun 15, 1994 (25)",Spain,30.06.2028,£45.00m,La Liga
+215,Athletic Bilbao,Forward,Asier Villalibre,"Sep 30, 1997 (21)",Spain,30.06.2023,£1.80m,La Liga
+216,Athletic Bilbao,Forward,Aritz Aduriz,"Feb 11, 1981 (38)",Spain,30.06.2020,£900k,La Liga
+217,Athletic Bilbao,Forward,Kenan Kodro,"Aug 19, 1993 (26)",Bosnia-Herzegovina,30.06.2022,£900k,La Liga
+218,Villarreal CF,Goalkeeper,Sergio Asenjo,"Jun 28, 1989 (30)",Spain,30.06.2022,£10.80m,La Liga
+219,Villarreal CF,Goalkeeper,Andrés Fernández,"Dec 17, 1986 (32)",Spain,30.06.2021,£1.35m,La Liga
+220,Villarreal CF,Goalkeeper,Mariano Barbosa,"Jul 27, 1984 (35)",Argentina,30.06.2020,£360k,La Liga
+221,Villarreal CF,Defender,Ramiro Funes Mori,"Mar 5, 1991 (28)",Argentina,30.06.2022,£7.20m,La Liga
+222,Villarreal CF,Defender,Pau Torres,"Jan 16, 1997 (22)",Spain,30.06.2020,£5.40m,La Liga
+223,Villarreal CF,Defender,Raúl Albiol,"Sep 4, 1985 (34)",Spain,30.06.2022,£4.50m,La Liga
+224,Villarreal CF,Defender,Alberto Moreno,"Jul 5, 1992 (27)",Spain,30.06.2024,£8.10m,La Liga
+225,Villarreal CF,Defender,Xavi Quintillà,"Aug 23, 1996 (23)",Spain,30.06.2020,£1.80m,La Liga
+226,Villarreal CF,Defender,Mario Gaspar,"Nov 24, 1990 (28)",Spain,30.06.2023,£9.00m,La Liga
+227,Villarreal CF,Defender,Rubén Peña,"Jul 18, 1991 (28)",Spain,30.06.2024,£7.20m,La Liga
+228,Villarreal CF,Midfielder,André Zambo Anguissa,"Nov 16, 1995 (23)",Cameroon,30.06.2020,£22.50m,La Liga
+229,Villarreal CF,Midfielder,Santiago Cáseres,"Feb 25, 1997 (22)",Argentina,30.06.2023,£9.00m,La Liga
+230,Villarreal CF,Midfielder,Bruno Soriano,"Jun 12, 1984 (35)",Spain,30.06.2020,£720k,La Liga
+231,Villarreal CF,Midfielder,Manu Trigueros,"Oct 17, 1991 (27)",Spain,30.06.2022,£13.50m,La Liga
+232,Villarreal CF,Midfielder,Vicente Iborra,"Jan 16, 1988 (31)",Spain,30.06.2023,£8.10m,La Liga
+233,Villarreal CF,Midfielder,Santi Cazorla,"Dec 13, 1984 (34)",Spain,30.06.2020,£3.60m,La Liga
+234,Villarreal CF,Midfielder,Manu Morlanes,"Jan 12, 1999 (20)",Spain,30.06.2023,£2.25m,La Liga
+235,Villarreal CF,Midfielder,Moi Gómez,"Jun 23, 1994 (25)",Spain,30.06.2023,£4.50m,La Liga
+236,Villarreal CF,Forward,Javi Ontiveros,"Sep 9, 1997 (22)",Spain,30.06.2024,£6.75m,La Liga
+237,Villarreal CF,Forward,Samuel Chukwueze,"May 22, 1999 (20)",Nigeria,30.06.2023,£27.00m,La Liga
+238,Villarreal CF,Forward,Leo Suárez,"Mar 30, 1996 (23)",Argentina,30.06.2020,£900k,La Liga
+239,Villarreal CF,Forward,Gerard Moreno,"Apr 7, 1992 (27)",Spain,30.06.2023,£15.75m,La Liga
+240,Villarreal CF,Forward,Karl Toko Ekambi,"Sep 14, 1992 (27)",Cameroon,30.06.2023,£15.75m,La Liga
+241,Villarreal CF,Forward,Carlos Bacca,"Sep 8, 1986 (33)",Colombia,30.06.2022,£4.50m,La Liga
+242,Getafe CF,Goalkeeper,David Soria,"Apr 4, 1993 (26)",Spain,30.06.2022,£13.50m,La Liga
+243,Getafe CF,Goalkeeper,Leandro Chichizola,"Mar 27, 1990 (29)",Argentina,30.06.2021,£900k,La Liga
+244,Getafe CF,Goalkeeper,Filip Manojlovic,"Apr 25, 1996 (23)",Serbia,30.06.2021,£360k,La Liga
+245,Getafe CF,Defender,Djené,"Dec 31, 1991 (27)",Togo,30.06.2023,£22.50m,La Liga
+246,Getafe CF,Defender,Leandro Cabrera,"Jun 17, 1991 (28)",Uruguay,30.06.2021,£4.50m,La Liga
+247,Getafe CF,Defender,Bruno González,"May 24, 1990 (29)",Spain,30.06.2020,£1.80m,La Liga
+248,Getafe CF,Defender,Xabi Etxeita,"Oct 31, 1987 (31)",Spain,30.06.2021,£1.80m,La Liga
+249,Getafe CF,Defender,Marc Cucurella,"Jul 22, 1998 (21)",Spain,30.06.2020,£9.00m,La Liga
+250,Getafe CF,Defender,Mathí­as Olivera,"Oct 31, 1997 (21)",Uruguay,30.06.2023,£2.70m,La Liga
+251,Getafe CF,Defender,Vitorino Antunes,"Apr 1, 1987 (32)",Portugal,30.06.2020,£2.25m,La Liga
+252,Getafe CF,Defender,Raúl Garcia,"Apr 30, 1989 (30)",Spain,30.06.2022,£900k,La Liga
+253,Getafe CF,Defender,Damián Suárez,"Apr 27, 1988 (31)",Uruguay,30.06.2022,£3.15m,La Liga
+254,Getafe CF,Defender,Allan Nyom,"May 10, 1988 (31)",Cameroon,30.06.2021,£2.70m,La Liga
+255,Getafe CF,Midfielder,David Timor,"Oct 17, 1989 (29)",Spain,30.06.2022,£1.35m,La Liga
+256,Getafe CF,Midfielder,Markel Bergara,"May 5, 1986 (33)",Spain,30.06.2020,£720k,La Liga
+257,Getafe CF,Midfielder,Mauro Arambarri,"Sep 30, 1995 (23)",Uruguay,30.06.2023,£13.50m,La Liga
+258,Getafe CF,Midfielder,Nemanja Maksimovic,"Jan 26, 1995 (24)",Serbia,30.06.2024,£13.50m,La Liga
+259,Getafe CF,Midfielder,Kenedy,"Feb 8, 1996 (23)",Brazil,30.06.2020,£9.00m,La Liga
+260,Getafe CF,Midfielder,Fayçal Fajr,"Aug 1, 1988 (31)",Morocco,30.06.2021,£4.05m,La Liga
+261,Getafe CF,Midfielder,Francisco Portillo,"Jun 13, 1990 (29)",Spain,30.06.2021,£3.60m,La Liga
+262,Getafe CF,Forward,Amath Ndiaye,"Jul 16, 1996 (23)",Senegal,30.06.2022,£3.60m,La Liga
+263,Getafe CF,Forward,Jason,"Jul 6, 1994 (25)",Spain,30.06.2020,£4.50m,La Liga
+264,Getafe CF,Forward,Jaime Mata,"Oct 24, 1988 (30)",Spain,30.06.2021,£9.00m,La Liga
+265,Getafe CF,Forward,Ángel Rodríguez,"Apr 26, 1987 (32)",Spain,30.06.2021,£2.70m,La Liga
+266,Getafe CF,Forward,Enric Gallego,"Sep 12, 1986 (33)",Spain,30.06.2022,£2.70m,La Liga
+267,Getafe CF,Forward,Jorge Molina,"Apr 22, 1982 (37)",Spain,30.06.2021,£1.80m,La Liga
+268,RCD Espanyol Barcelona,Goalkeeper,Diego López,"Nov 3, 1981 (37)",Spain,30.06.2020,£900k,La Liga
+269,RCD Espanyol Barcelona,Goalkeeper,Andrés Prieto,"Oct 17, 1993 (25)",Spain,30.06.2021,£180k,La Liga
+270,RCD Espanyol Barcelona,Defender,Fernando Calero,"Sep 14, 1995 (24)",Spain,30.06.2024,£9.00m,La Liga
+271,RCD Espanyol Barcelona,Defender,David López,"Oct 9, 1989 (29)",Spain,30.06.2023,£8.10m,La Liga
+272,RCD Espanyol Barcelona,Defender,Bernardo Espinosa,"Jul 11, 1989 (30)",Colombia,30.06.2020,£5.40m,La Liga
+273,RCD Espanyol Barcelona,Defender,Naldo,"Aug 25, 1988 (31)",Brazil,30.06.2020,£1.80m,La Liga
+274,RCD Espanyol Barcelona,Defender,Lluis López,"Mar 5, 1997 (22)",Spain,30.06.2022,£1.35m,La Liga
+275,RCD Espanyol Barcelona,Defender,Adrià Pedrosa,"May 13, 1998 (21)",Spain,30.06.2023,£9.00m,La Liga
+276,RCD Espanyol Barcelona,Defender,Dídac Vilà,"Jun 9, 1989 (30)",Spain,30.06.2020,£3.60m,La Liga
+277,RCD Espanyol Barcelona,Defender,Sébastien Corchia,"Nov 1, 1990 (28)",France,30.06.2020,£1.80m,La Liga
+278,RCD Espanyol Barcelona,Defender,Javi López,"Jan 21, 1986 (33)",Spain,30.06.2020,£900k,La Liga
+279,RCD Espanyol Barcelona,Defender,Pipa,"Jan 26, 1998 (21)",Spain,30.06.2022,£270k,La Liga
+280,RCD Espanyol Barcelona,Midfielder,Marc Roca,"Nov 26, 1996 (22)",Spain,30.06.2022,£27.00m,La Liga
+281,RCD Espanyol Barcelona,Midfielder,Ander Iturraspe,"Mar 8, 1989 (30)",Spain,30.06.2020,£2.25m,La Liga
+282,RCD Espanyol Barcelona,Midfielder,Sergi Darder,"Dec 22, 1993 (25)",Spain,30.06.2023,£12.60m,La Liga
+283,RCD Espanyol Barcelona,Midfielder,Víctor Sánchez,"Sep 8, 1987 (32)",Spain,30.06.2021,£2.70m,La Liga
+284,RCD Espanyol Barcelona,Midfielder,Esteban Granero,"Jul 2, 1987 (32)",Spain,30.06.2020,£2.70m,La Liga
+285,RCD Espanyol Barcelona,Midfielder,Pol Lozano,"Oct 6, 1999 (19)",Spain,30.06.2023,£1.35m,La Liga
+286,RCD Espanyol Barcelona,Forward,Matías Vargas,"May 8, 1997 (22)",Argentina,30.06.2024,£9.90m,La Liga
+287,RCD Espanyol Barcelona,Forward,Lei Wu,"Nov 19, 1991 (27)",China,31.12.2020,£9.00m,La Liga
+288,RCD Espanyol Barcelona,Forward,Pablo Piatti,"Mar 31, 1989 (30)",Argentina,30.06.2020,£3.60m,La Liga
+289,RCD Espanyol Barcelona,Forward,Oscar Melendo,"Aug 23, 1997 (22)",Spain,30.06.2022,£9.00m,La Liga
+290,RCD Espanyol Barcelona,Forward,Javi Puado,"May 25, 1998 (21)",Spain,30.06.2022,£900k,La Liga
+291,RCD Espanyol Barcelona,Forward,Jonathan Calleri,"Sep 23, 1993 (25)",Argentina,30.06.2020,£8.10m,La Liga
+292,RCD Espanyol Barcelona,Forward,Facundo Ferreyra,"Mar 14, 1991 (28)",Argentina,30.06.2020,£3.60m,La Liga
+293,RCD Espanyol Barcelona,Forward,Víctor Campuzano,"May 31, 1997 (22)",Spain,30.06.2020,£270k,La Liga
+294,CD Leganés,Goalkeeper,Juan Soriano,"Aug 23, 1997 (22)",Spain,30.06.2020,£2.25m,La Liga
+295,CD Leganés,Goalkeeper,Iván Cuéllar,"May 25, 1984 (35)",Spain,30.06.2021,£720k,La Liga
+296,CD Leganés,Defender,Dimitrios Siovas,"Sep 16, 1988 (30)",Greece,30.06.2021,£5.40m,La Liga
+297,CD Leganés,Defender,Kenneth Omeruo,"Oct 17, 1993 (25)",Nigeria,30.06.2024,£4.50m,La Liga
+298,CD Leganés,Defender,Unai Bustinza,"Feb 2, 1992 (27)",Spain,30.06.2021,£3.60m,La Liga
+299,CD Leganés,Defender,Chidozie Awaziem,"Jan 1, 1997 (22)",Nigeria,30.06.2020,£3.15m,La Liga
+300,CD Leganés,Defender,Rodrigo Tarín,"Jul 5, 1996 (23)",Spain,30.06.2021,£1.80m,La Liga
+301,CD Leganés,Defender,Jonathan Silva,"Jun 29, 1994 (25)",Argentina,30.06.2023,£2.70m,La Liga
+302,CD Leganés,Defender,Vasyl Kravets,"Aug 20, 1997 (22)",Ukraine,30.06.2023,£2.70m,La Liga
+303,CD Leganés,Defender,Kévin Rodrigues,"Mar 5, 1994 (25)",Portugal,30.06.2020,£2.70m,La Liga
+304,CD Leganés,Defender,Roberto Rosales,"Nov 20, 1988 (30)",Venezuela,30.06.2021,£2.25m,La Liga
+305,CD Leganés,Defender,Marc Navarro,"Jul 2, 1995 (24)",Spain,30.06.2020,£1.80m,La Liga
+306,CD Leganés,Midfielder,Rubén Pérez,"Apr 26, 1989 (30)",Spain,30.06.2022,£6.75m,La Liga
+307,CD Leganés,Midfielder,Roque Mesa,"Jun 7, 1989 (30)",Spain,30.06.2020,£6.30m,La Liga
+308,CD Leganés,Midfielder,Recio,"Jan 11, 1991 (28)",Spain,30.06.2022,£2.70m,La Liga
+309,CD Leganés,Midfielder,Christian Rivera,"Jul 9, 1997 (22)",Spain,30.06.2020,£2.25m,La Liga
+310,CD Leganés,Midfielder,Óscar Rodríguez,"Jun 28, 1998 (21)",Spain,30.06.2020,£9.00m,La Liga
+311,CD Leganés,Midfielder,Fede Varela,"Apr 18, 1997 (22)",Argentina,30.06.2021,£1.80m,La Liga
+312,CD Leganés,Midfielder,Javi Eraso,"Mar 22, 1990 (29)",Spain,30.06.2020,£1.35m,La Liga
+313,CD Leganés,Forward,José Manuel Arnáiz,"Apr 15, 1995 (24)",Spain,30.06.2023,£2.25m,La Liga
+314,CD Leganés,Forward,Alexander Szymanowski,"Oct 13, 1988 (30)",Argentina,30.06.2020,£1.35m,La Liga
+315,CD Leganés,Forward,Sabin Merino,"Jan 4, 1992 (27)",Spain,30.06.2020,£900k,La Liga
+316,CD Leganés,Forward,Aitor Ruibal,"Mar 22, 1996 (23)",Spain,30.06.2020,£1.35m,La Liga
+317,CD Leganés,Forward,Youssef En-Nesyri,"Jun 1, 1997 (22)",Morocco,30.06.2023,£10.80m,La Liga
+318,CD Leganés,Forward,Martin Braithwaite,"Jun 5, 1991 (28)",Denmark,30.06.2023,£9.00m,La Liga
+319,CD Leganés,Forward,Guido Carrillo,"May 25, 1991 (28)",Argentina,30.06.2020,£6.75m,La Liga
+320,Levante UD,Goalkeeper,Oier Olazábal,"Sep 14, 1989 (30)",Spain,30.06.2021,£2.25m,La Liga
+321,Levante UD,Goalkeeper,Aitor Fernández,"May 3, 1991 (28)",Spain,30.06.2022,£2.25m,La Liga
+322,Levante UD,Defender,Rúben Vezo,"Apr 25, 1994 (25)",Portugal,30.06.2024,£5.40m,La Liga
+323,Levante UD,Defender,Erick Cabaco,"Apr 19, 1995 (24)",Uruguay,30.06.2022,£3.60m,La Liga
+324,Levante UD,Defender,Rober Pier,"Feb 16, 1995 (24)",Spain,30.06.2023,£2.25m,La Liga
+325,Levante UD,Defender,Sergio Postigo,"Nov 4, 1988 (30)",Spain,30.06.2021,£2.25m,La Liga
+326,Levante UD,Defender,Óscar Duarte,"Jun 3, 1989 (30)",Costa Rica,30.06.2021,£900k,La Liga
+327,Levante UD,Defender,Carlos Clerc,"Feb 21, 1992 (27)",Spain,30.06.2022,£1.80m,La Liga
+328,Levante UD,Defender,Toño,"Nov 7, 1989 (29)",Spain,30.06.2023,£900k,La Liga
+329,Levante UD,Defender,Jorge Miramón,"Jun 2, 1989 (30)",Spain,30.06.2021,£2.70m,La Liga
+330,Levante UD,Defender,Coke,"Apr 26, 1987 (32)",Spain,30.06.2022,£1.80m,La Liga
+331,Levante UD,Defender,Iván López,"Aug 23, 1993 (26)",Spain,30.06.2020,£360k,La Liga
+332,Levante UD,Midfielder,Nemanja Radoja,"Feb 6, 1993 (26)",Serbia,30.06.2022,£2.70m,La Liga
+333,Levante UD,Midfielder,Nikola Vukcevic,"Dec 13, 1991 (27)",Montenegro,30.06.2022,£2.25m,La Liga
+334,Levante UD,Midfielder,Enis Bardhi,"Jul 2, 1995 (24)",North Macedonia,30.06.2022,£13.50m,La Liga
+335,Levante UD,Midfielder,José Campaña,"May 31, 1993 (26)",Spain,30.06.2023,£13.50m,La Liga
+336,Levante UD,Midfielder,Gonzalo Melero,"Jan 2, 1994 (25)",Spain,30.06.2023,£3.60m,La Liga
+337,Levante UD,Midfielder,Rubén Rochina,"Mar 23, 1991 (28)",Spain,30.06.2021,£3.60m,La Liga
+338,Levante UD,Forward,Hernâni,"Aug 20, 1991 (28)",Portugal,30.06.2022,£2.25m,La Liga
+339,Levante UD,Forward,Roger Martí,"Jan 3, 1991 (28)",Spain,30.06.2023,£9.00m,La Liga
+340,Levante UD,Forward,José Luis Morales,"Jul 23, 1987 (32)",Spain,30.06.2021,£9.00m,La Liga
+341,Levante UD,Forward,Borja Mayoral,"Apr 5, 1997 (22)",Spain,30.06.2020,£3.60m,La Liga
+342,Levante UD,Forward,Sergio León,"Jan 6, 1989 (30)",Spain,30.06.2022,£2.70m,La Liga
+343,Real Valladolid CF,Goalkeeper,Andrii Lunin,"Feb 11, 1999 (20)",Ukraine,30.06.2020,£6.75m,La Liga
+344,Real Valladolid CF,Goalkeeper,Jordi Masip,"Jan 3, 1989 (30)",Spain,30.06.2022,£5.40m,La Liga
+345,Real Valladolid CF,Defender,Joaquín Fernández,"May 31, 1996 (23)",Spain,30.06.2023,£2.70m,La Liga
+346,Real Valladolid CF,Defender,Mohammed Salisu,"Apr 17, 1999 (20)",Ghana,30.06.2022,£2.25m,La Liga
+347,Real Valladolid CF,Defender,Federico Barba,"Sep 1, 1993 (26)",Italy,30.06.2020,£1.80m,La Liga
+348,Real Valladolid CF,Defender,Kiko Olivas,"Aug 21, 1988 (31)",Spain,30.06.2022,£1.80m,La Liga
+349,Real Valladolid CF,Defender,Javi Sánchez,"Mar 14, 1997 (22)",Spain,30.06.2020,£1.80m,La Liga
+350,Real Valladolid CF,Defender,Nacho Martínez,"Mar 7, 1989 (30)",Spain,30.06.2022,£4.50m,La Liga
+351,Real Valladolid CF,Defender,Pedro Porro,"Sep 13, 1999 (20)",Spain,30.06.2020,£9.00m,La Liga
+352,Real Valladolid CF,Defender,Antoñito,"Dec 24, 1987 (31)",Spain,30.06.2021,£1.80m,La Liga
+353,Real Valladolid CF,Defender,Javi Moyano,"Feb 23, 1986 (33)",Spain,30.06.2020,£720k,La Liga
+354,Real Valladolid CF,Midfielder,Luismi,"May 5, 1992 (27)",Spain,30.06.2021,£630k,La Liga
+355,Real Valladolid CF,Midfielder,Rubén Alcaraz,"May 1, 1991 (28)",Spain,30.06.2022,£9.00m,La Liga
+356,Real Valladolid CF,Midfielder,Fede San Emeterio,"Mar 16, 1997 (22)",Spain,30.06.2021,£4.50m,La Liga
+357,Real Valladolid CF,Midfielder,Míchel,"Jul 29, 1988 (31)",Spain,30.06.2020,£1.80m,La Liga
+358,Real Valladolid CF,Midfielder,Anuar,"Jan 15, 1995 (24)",Morocco,30.06.2021,£1.35m,La Liga
+359,Real Valladolid CF,Midfielder,Álvaro Aguado,"May 1, 1996 (23)",Spain,30.06.2023,£540k,La Liga
+360,Real Valladolid CF,Forward,Toni Villa,"Jan 7, 1995 (24)",Spain,30.06.2021,£3.60m,La Liga
+361,Real Valladolid CF,Forward,Waldo Rubio,"Aug 17, 1995 (24)",Spain,30.06.2022,£900k,La Liga
+362,Real Valladolid CF,Forward,Jorge de Frutos,"Feb 20, 1997 (22)",Spain,30.06.2020,£4.50m,La Liga
+363,Real Valladolid CF,Forward,Pablo Hervías,"Mar 8, 1993 (26)",Spain,30.06.2022,£630k,La Liga
+364,Real Valladolid CF,Forward,Sergi Guardiola,"May 29, 1991 (28)",Spain,30.06.2023,£4.50m,La Liga
+365,Real Valladolid CF,Forward,Enes Ünal,"May 10, 1997 (22)",Turkey,30.06.2020,£4.50m,La Liga
+366,Real Valladolid CF,Forward,Óscar Plano,"Feb 11, 1991 (28)",Spain,30.06.2021,£3.60m,La Liga
+367,Real Valladolid CF,Forward,Sandro Ramírez,"Jul 9, 1995 (24)",Spain,30.06.2020,£3.60m,La Liga
+368,Real Valladolid CF,Forward,Stiven Plaza,"Mar 11, 1999 (20)",Ecuador,30.06.2023,£1.35m,La Liga
+369,Deportivo Alavés,Goalkeeper,Fernando Pacheco,"May 18, 1992 (27)",Spain,30.06.2023,£13.50m,La Liga
+370,Deportivo Alavés,Goalkeeper,Antonio Sivera,"Aug 11, 1996 (23)",Spain,30.06.2021,£1.35m,La Liga
+371,Deportivo Alavés,Defender,Víctor Laguardia,"Nov 5, 1989 (29)",Spain,30.06.2022,£9.00m,La Liga
+372,Deportivo Alavés,Defender,Lisandro Magallán,"Sep 27, 1993 (25)",Argentina,30.06.2020,£5.40m,La Liga
+373,Deportivo Alavés,Defender,Ximo Navarro,"Jan 23, 1990 (29)",Spain,30.06.2021,£2.70m,La Liga
+374,Deportivo Alavés,Defender,Rodrigo Ely,"Nov 3, 1993 (25)",Brazil,30.06.2021,£1.80m,La Liga
+375,Deportivo Alavés,Defender,Tachi,"Sep 10, 1997 (22)",Spain,30.06.2023,£900k,La Liga
+376,Deportivo Alavés,Defender,Rubén Duarte,"Oct 18, 1995 (23)",Spain,30.06.2023,£4.50m,La Liga
+377,Deportivo Alavés,Defender,Adrián Marín,"Jan 9, 1997 (22)",Spain,30.06.2021,£720k,La Liga
+378,Deportivo Alavés,Defender,Martin Aguirregabiria,"May 10, 1996 (23)",Spain,30.06.2022,£6.75m,La Liga
+379,Deportivo Alavés,Defender,Rafa Navarro,"Feb 23, 1994 (25)",Spain,30.06.2021,£450k,La Liga
+380,Deportivo Alavés,Midfielder,Pere Pons,"Feb 20, 1993 (26)",Spain,30.06.2022,£3.60m,La Liga
+381,Deportivo Alavés,Midfielder,Manu García,"Apr 26, 1986 (33)",Spain,30.06.2020,£1.80m,La Liga
+382,Deportivo Alavés,Midfielder,Daniel Torres,"Nov 15, 1989 (29)",Colombia,30.06.2020,£810k,La Liga
+383,Deportivo Alavés,Midfielder,Tomás Pina,"Oct 14, 1987 (31)",Spain,30.06.2021,£2.25m,La Liga
+384,Deportivo Alavés,Midfielder,Mubarak Wakaso,"Jul 25, 1990 (29)",Ghana,30.06.2020,£2.25m,La Liga
+385,Deportivo Alavés,Midfielder,Javi Muñoz,"Feb 28, 1995 (24)",Spain,30.06.2021,£450k,La Liga
+386,Deportivo Alavés,Forward,Luis Rioja,"Oct 16, 1993 (25)",Spain,30.06.2023,£1.35m,La Liga
+387,Deportivo Alavés,Forward,Burgui,"Oct 29, 1993 (25)",Spain,30.06.2021,£1.35m,La Liga
+388,Deportivo Alavés,Forward,Oliver Burke,"Apr 7, 1997 (22)",Scotland,30.06.2022,£6.75m,La Liga
+389,Deportivo Alavés,Forward,Aleix Vidal,"Aug 21, 1989 (30)",Spain,30.06.2020,£3.60m,La Liga
+390,Deportivo Alavés,Forward,Lucas Pérez,"Sep 10, 1988 (31)",Spain,30.06.2022,£3.60m,La Liga
+391,Deportivo Alavés,Forward,Joselu,"Mar 27, 1990 (29)",Spain,30.06.2022,£3.60m,La Liga
+392,Deportivo Alavés,Forward,John Guidetti,"Apr 15, 1992 (27)",Sweden,30.06.2022,£2.70m,La Liga
+393,SD Eibar,Goalkeeper,Marko Dmitrovic,"Jan 24, 1992 (27)",Serbia,30.06.2021,£9.00m,La Liga
+394,SD Eibar,Goalkeeper,Yoel Rodríguez,"Aug 28, 1988 (31)",Spain,30.06.2021,£1.35m,La Liga
+395,SD Eibar,Defender,Paulo Oliveira,"Jan 8, 1992 (27)",Portugal,30.06.2021,£5.40m,La Liga
+396,SD Eibar,Defender,Pedro Bigas,"May 15, 1990 (29)",Spain,30.06.2022,£2.70m,La Liga
+397,SD Eibar,Defender,Anaitz Arbilla,"May 15, 1987 (32)",Spain,30.06.2021,£1.80m,La Liga
+398,SD Eibar,Defender,Esteban Burgos,"Jan 9, 1992 (27)",Argentina,30.06.2022,£900k,La Liga
+399,SD Eibar,Defender,Iván Ramis,"Oct 25, 1984 (34)",Spain,30.06.2020,£900k,La Liga
+400,SD Eibar,Defender,José Ángel,"Sep 5, 1989 (30)",Spain,30.06.2020,£4.50m,La Liga
+401,SD Eibar,Defender,Álvaro Tejero,"Jul 20, 1996 (23)",Spain,30.06.2024,£2.70m,La Liga
+402,SD Eibar,Defender,Roberto Correa,"Sep 20, 1992 (26)",Spain,30.06.2022,£720k,La Liga
+403,SD Eibar,Midfielder,Pape Diop,"Mar 19, 1986 (33)",Senegal,30.06.2020,£1.35m,La Liga
+404,SD Eibar,Midfielder,Gonzalo Escalante,"Mar 27, 1993 (26)",Argentina,30.06.2020,£3.60m,La Liga
+405,SD Eibar,Midfielder,Edu Expósito,"Aug 1, 1996 (23)",Spain,30.06.2024,£3.60m,La Liga
+406,SD Eibar,Midfielder,Sergio Álvarez,"Jan 23, 1992 (27)",Spain,30.06.2022,£2.25m,La Liga
+407,SD Eibar,Forward,Takashi Inui,"Jun 2, 1988 (31)",Japan,30.06.2022,£3.60m,La Liga
+408,SD Eibar,Forward,Pablo de Blasis,"Feb 4, 1988 (31)",Argentina,30.06.2020,£1.80m,La Liga
+409,SD Eibar,Forward,Fabián Orellana,"Jan 27, 1986 (33)",Chile,30.06.2020,£2.25m,La Liga
+410,SD Eibar,Forward,Pedro León,"Nov 24, 1986 (32)",Spain,30.06.2020,£1.62m,La Liga
+411,SD Eibar,Forward,Sergi Enrich,"Feb 26, 1990 (29)",Spain,30.06.2022,£6.75m,La Liga
+412,SD Eibar,Forward,Kike,"Nov 25, 1989 (29)",Spain,30.06.2021,£2.70m,La Liga
+413,SD Eibar,Forward,Charles,"Apr 4, 1984 (35)",Brazil,30.06.2020,£1.80m,La Liga
+414,SD Eibar,Forward,Quique,"May 16, 1990 (29)",Spain,30.06.2024,£1.35m,La Liga
+415,RCD Mallorca,Goalkeeper,Fabri,"Dec 31, 1987 (31)",Spain,30.06.2020,£3.60m,La Liga
+416,RCD Mallorca,Goalkeeper,Manolo Reina,"Apr 1, 1985 (34)",Spain,30.06.2021,£270k,La Liga
+417,RCD Mallorca,Goalkeeper,Miquel Parera,"May 18, 1996 (23)",Spain,30.06.2021,£270k,La Liga
+418,RCD Mallorca,Defender,Antonio Raíllo,"Oct 8, 1991 (27)",Spain,30.06.2021,£2.25m,La Liga
+419,RCD Mallorca,Defender,Martin Valjent,"Dec 11, 1995 (23)",Slovakia,30.06.2022,£2.25m,La Liga
+420,RCD Mallorca,Defender,Aleksandar Sedlar,"Dec 13, 1991 (27)",Serbia,30.06.2023,£810k,La Liga
+421,RCD Mallorca,Defender,Xisco Campos,"Mar 10, 1982 (37)",Spain,30.06.2020,£90k,La Liga
+422,RCD Mallorca,Defender,Abdul Rahman Baba,"Jul 2, 1994 (25)",Ghana,30.06.2020,£4.50m,La Liga
+423,RCD Mallorca,Defender,Lumor,"Aug 15, 1996 (23)",Ghana,30.06.2020,£1.26m,La Liga
+424,RCD Mallorca,Defender,Joan Sastre,"Apr 30, 1997 (22)",Spain,30.06.2023,£1.80m,La Liga
+425,RCD Mallorca,Defender,Fran Gámez,"Jul 27, 1991 (28)",Spain,30.06.2022,£450k,La Liga
+426,RCD Mallorca,Midfielder,Aleix Febas,"Feb 22, 1996 (23)",Spain,30.06.2023,£3.60m,La Liga
+427,RCD Mallorca,Midfielder,Iddrisu Baba,"Jan 22, 1996 (23)",Ghana,30.06.2024,£900k,La Liga
+428,RCD Mallorca,Midfielder,Dani Rodríguez,"Jun 6, 1988 (31)",Spain,30.06.2021,£630k,La Liga
+429,RCD Mallorca,Midfielder,Marc Pedraza,"Feb 6, 1987 (32)",Spain,30.06.2020,£360k,La Liga
+430,RCD Mallorca,Midfielder,Salva Sevilla,"Mar 18, 1984 (35)",Spain,30.06.2021,£180k,La Liga
+431,RCD Mallorca,Midfielder,Takefusa Kubo,"Jun 4, 2001 (18)",Japan,30.06.2020,£9.00m,La Liga
+432,RCD Mallorca,Midfielder,Josep Señé,"Dec 10, 1991 (27)",Spain,30.06.2022,£225k,La Liga
+433,RCD Mallorca,Forward,Lago Júnior,"Dec 31, 1990 (28)",Cote d'Ivoire,30.06.2023,£1.80m,La Liga
+434,RCD Mallorca,Forward,Aleksandar Trajkovski,"Sep 5, 1992 (27)",North Macedonia,30.06.2023,£1.80m,La Liga
+435,RCD Mallorca,Forward,Yannis Salibur,"Jan 24, 1991 (28)",France,30.06.2022,£1.80m,La Liga
+436,RCD Mallorca,Forward,Ariday Cabrera,"Sep 26, 1988 (30)",Spain,30.06.2020,£360k,La Liga
+437,RCD Mallorca,Forward,Cucho Hernández,"Apr 22, 1999 (20)",Colombia,30.06.2020,£9.00m,La Liga
+438,RCD Mallorca,Forward,Pablo Chavarría,"Jan 2, 1988 (31)",Argentina,30.06.2021,£2.25m,La Liga
+439,RCD Mallorca,Forward,Ante Budimir,"Jul 22, 1991 (28)",Croatia,30.06.2023,£1.80m,La Liga
+440,RCD Mallorca,Forward,Abdón Prats,"Dec 7, 1992 (26)",Spain,30.06.2021,£720k,La Liga
+441,RCD Mallorca,Forward,Alex Alegría,"Oct 14, 1992 (26)",Spain,30.06.2024,£720k,La Liga
+442,CA Osasuna,Goalkeeper,Rubén Martínez,"Jun 22, 1984 (35)",Spain,30.06.2020,£630k,La Liga
+443,CA Osasuna,Goalkeeper,Sergio Herrera,"Jun 5, 1993 (26)",Spain,30.06.2021,£450k,La Liga
+444,CA Osasuna,Defender,Raúl Navas,"May 11, 1988 (31)",Spain,30.06.2020,£2.70m,La Liga
+445,CA Osasuna,Defender,Facundo Roncaglia,"Feb 10, 1987 (32)",Argentina,30.06.2020,£2.25m,La Liga
+446,CA Osasuna,Defender,Unai García,"Sep 3, 1992 (27)",Spain,30.06.2021,£1.80m,La Liga
+447,CA Osasuna,Defender,David García,"Feb 14, 1994 (25)",Spain,30.06.2021,£1.80m,La Liga
+448,CA Osasuna,Defender,Aridane Hernández,"Mar 23, 1989 (30)",Spain,30.06.2021,£630k,La Liga
+449,CA Osasuna,Defender,Pervis Estupiñán,"Jan 21, 1998 (21)",Ecuador,30.06.2021,£1.80m,La Liga
+450,CA Osasuna,Defender,Nacho Vidal,"Jan 24, 1995 (24)",Spain,30.06.2022,£1.80m,La Liga
+451,CA Osasuna,Defender,Lillo Castellano,"Mar 27, 1989 (30)",Spain,30.06.2020,£630k,La Liga
+452,CA Osasuna,Midfielder,Oier,"May 25, 1986 (33)",Spain,30.06.2021,£1.08m,La Liga
+453,CA Osasuna,Midfielder,Luis Perea,"Aug 25, 1997 (22)",Spain,30.06.2021,£450k,La Liga
+454,CA Osasuna,Midfielder,Darko Brasanac,"Feb 12, 1992 (27)",Serbia,30.06.2022,£1.80m,La Liga
+455,CA Osasuna,Midfielder,Fran Mérida,"Mar 4, 1990 (29)",Spain,30.06.2020,£1.35m,La Liga
+456,CA Osasuna,Midfielder,Jon Moncayola,"May 13, 1998 (21)",Spain,30.06.2021,£1.35m,La Liga
+457,CA Osasuna,Midfielder,Iñigo Pérez,"Jan 18, 1988 (31)",Spain,30.06.2022,£720k,La Liga
+458,CA Osasuna,Midfielder,Rubén García,"Jul 14, 1993 (26)",Spain,30.06.2023,£3.15m,La Liga
+459,CA Osasuna,Midfielder,Roberto Torres,"Mar 7, 1989 (30)",Spain,30.06.2021,£1.80m,La Liga
+460,CA Osasuna,Forward,Chimy Ávila,"Feb 6, 1994 (25)",Argentina,30.06.2023,£4.50m,La Liga
+461,CA Osasuna,Forward,Kike Barja,"Apr 4, 1997 (22)",Spain,30.06.2021,£1.35m,La Liga
+462,CA Osasuna,Forward,Robert Ibáñez,"Mar 22, 1993 (26)",Spain,30.06.2023,£900k,La Liga
+463,CA Osasuna,Forward,Juan Villar,"May 19, 1988 (31)",Spain,30.06.2021,£810k,La Liga
+464,CA Osasuna,Forward,Adrián López,"Jan 8, 1988 (31)",Spain,30.06.2020,£2.25m,La Liga
+465,CA Osasuna,Forward,Brandon,"Feb 4, 1995 (24)",Spain,30.06.2022,£1.80m,La Liga
+466,CA Osasuna,Forward,Marc Cardona,"Jul 8, 1995 (24)",Spain,30.06.2023,£1.35m,La Liga
+467,Granada CF,Goalkeeper,Rui Silva,"Feb 7, 1994 (25)",Portugal,30.06.2021,£2.25m,La Liga
+468,Granada CF,Goalkeeper,Aarón Escandell,"Sep 27, 1995 (23)",Spain,30.06.2020,£270k,La Liga
+469,Granada CF,Defender,Domingos Duarte,"Mar 10, 1995 (24)",Portugal,30.06.2023,£2.70m,La Liga
+470,Granada CF,Defender,José Antonio Martínez,"Feb 12, 1993 (26)",Spain,30.06.2020,£1.08m,La Liga
+471,Granada CF,Defender,Neyder Lozano,"Mar 4, 1994 (25)",Colombia,30.06.2022,£540k,La Liga
+472,Granada CF,Defender,Germán Sánchez,"Oct 31, 1986 (32)",Spain,30.06.2021,£450k,La Liga
+473,Granada CF,Defender,Álex Martínez,"Aug 12, 1990 (29)",Spain,30.06.2021,£900k,La Liga
+474,Granada CF,Defender,Ismail Köybasi,"Jul 10, 1989 (30)",Turkey,30.06.2020,£450k,La Liga
+475,Granada CF,Defender,Carlos Neva,"Jun 12, 1996 (23)",Spain,30.06.2021,£180k,La Liga
+476,Granada CF,Defender,Víctor Díaz,"Jun 12, 1988 (31)",Spain,30.06.2022,£1.08m,La Liga
+477,Granada CF,Defender,Quini,"Sep 24, 1989 (29)",Spain,30.06.2020,£630k,La Liga
+478,Granada CF,Midfielder,Maxime Gonalons,"Mar 10, 1989 (30)",France,30.06.2020,£3.60m,La Liga
+479,Granada CF,Midfielder,Yangel Herrera,"Jan 7, 1998 (21)",Venezuela,30.06.2020,£1.80m,La Liga
+480,Granada CF,Midfielder,Ángel Montoro,"Jun 25, 1988 (31)",Spain,30.06.2020,£1.35m,La Liga
+481,Granada CF,Midfielder,Yan Brice,"Aug 26, 1997 (22)",Cameroon,30.06.2022,£900k,La Liga
+482,Granada CF,Midfielder,Ramon Azeez,"Dec 12, 1992 (26)",Nigeria,30.06.2022,£720k,La Liga
+483,Granada CF,Midfielder,Antonio Puertas,"Feb 21, 1992 (27)",Spain,30.06.2020,£1.80m,La Liga
+484,Granada CF,Midfielder,Fede Vico,"Jul 4, 1994 (25)",Spain,30.06.2021,£1.35m,La Liga
+485,Granada CF,Forward,Darwin Machís,"Feb 7, 1993 (26)",Venezuela,30.06.2023,£2.70m,La Liga
+486,Granada CF,Forward,Álvaro Vadillo,"Sep 12, 1994 (25)",Spain,30.06.2020,£1.80m,La Liga
+487,Granada CF,Forward,Carlos Fernández,"May 22, 1996 (23)",Spain,30.06.2020,£1.80m,La Liga
+488,Granada CF,Forward,Roberto Soldado,"May 27, 1985 (34)",Spain,30.06.2020,£900k,La Liga
+489,Granada CF,Forward,Adrián Ramos,"Jan 22, 1986 (33)",Colombia,30.06.2020,£900k,La Liga

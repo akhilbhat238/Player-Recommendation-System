@@ -1,0 +1,537 @@
+,Club,Position,Player_Name,DOB,Nation,Contract_Expiry,Value,League
+0,Bayern Munich,Goalkeeper,Manuel Neuer,"Mar 27, 1986 (33)",Germany,30.06.2021,£16.20m,Bundesliga
+1,Bayern Munich,Goalkeeper,Sven Ulreich,"Aug 3, 1988 (31)",Germany,30.06.2021,£4.05m,Bundesliga
+2,Bayern Munich,Goalkeeper,Christian Früchtl,"Jan 28, 2000 (19)",Germany,30.06.2020,£450k,Bundesliga
+3,Bayern Munich,Goalkeeper,Ron-Thorben Hoffmann,"Apr 4, 1999 (20)",Germany,30.06.2021,£135k,Bundesliga
+4,Bayern Munich,Defender,Lucas Hernández,"Feb 14, 1996 (23)",France,30.06.2024,£63.00m,Bundesliga
+5,Bayern Munich,Defender,Niklas Süle,"Sep 3, 1995 (24)",Germany,30.06.2022,£54.00m,Bundesliga
+6,Bayern Munich,Defender,Benjamin Pavard,"Mar 28, 1996 (23)",France,30.06.2024,£27.00m,Bundesliga
+7,Bayern Munich,Defender,Jérôme Boateng,"Sep 3, 1988 (31)",Germany,30.06.2021,£18.00m,Bundesliga
+8,Bayern Munich,Defender,Lars Lukas Mai,"Mar 31, 2000 (19)",Germany,30.06.2021,£2.25m,Bundesliga
+9,Bayern Munich,Defender,David Alaba,"Jun 24, 1992 (27)",Austria,30.06.2021,£49.50m,Bundesliga
+10,Bayern Munich,Defender,Joshua Kimmich,"Feb 8, 1995 (24)",Germany,30.06.2023,£63.00m,Bundesliga
+11,Bayern Munich,Midfielder,Javi Martínez,"Sep 2, 1988 (31)",Spain,30.06.2021,£24.30m,Bundesliga
+12,Bayern Munich,Midfielder,Thiago,"Apr 11, 1991 (28)",Spain,30.06.2021,£63.00m,Bundesliga
+13,Bayern Munich,Midfielder,Leon Goretzka,"Feb 6, 1995 (24)",Germany,30.06.2022,£45.00m,Bundesliga
+14,Bayern Munich,Midfielder,Corentin Tolisso,"Aug 3, 1994 (25)",France,30.06.2022,£36.00m,Bundesliga
+15,Bayern Munich,Midfielder,Michaël Cuisance,"Aug 16, 1999 (20)",France,30.06.2024,£4.50m,Bundesliga
+16,Bayern Munich,Midfielder,Philippe Coutinho,"Jun 12, 1992 (27)",Brazil,30.06.2020,£81.00m,Bundesliga
+17,Bayern Munich,Midfielder,Sarpreet Singh,"Feb 20, 1999 (20)",New Zealand,30.06.2022,£675k,Bundesliga
+18,Bayern Munich,Forward,Kingsley Coman,"Jun 13, 1996 (23)",France,30.06.2023,£45.00m,Bundesliga
+19,Bayern Munich,Forward,Ivan Perisic,"Feb 2, 1989 (30)",Croatia,30.06.2020,£27.00m,Bundesliga
+20,Bayern Munich,Forward,Alphonso Davies,"Nov 2, 2000 (18)",Canada,30.06.2023,£9.00m,Bundesliga
+21,Bayern Munich,Forward,Serge Gnabry,"Jul 14, 1995 (24)",Germany,30.06.2023,£54.00m,Bundesliga
+22,Bayern Munich,Forward,Thomas Müller,"Sep 13, 1989 (30)",Germany,30.06.2021,£31.50m,Bundesliga
+23,Bayern Munich,Forward,Robert Lewandowski,"Aug 21, 1988 (31)",Poland,30.06.2023,£58.50m,Bundesliga
+24,Bayern Munich,Forward,Fiete Arp,"Jan 6, 2000 (19)",Germany,30.06.2024,£3.60m,Bundesliga
+25,Borussia Dortmund,Goalkeeper,Roman Bürki,"Nov 14, 1990 (28)",Switzerland,30.06.2021,£12.60m,Bundesliga
+26,Borussia Dortmund,Goalkeeper,Marwin Hitz,"Sep 18, 1987 (31)",Switzerland,30.06.2021,£2.25m,Bundesliga
+27,Borussia Dortmund,Goalkeeper,Luca Unbehaun,"Feb 27, 2001 (18)",Germany,30.06.2022,£360k,Bundesliga
+28,Borussia Dortmund,Goalkeeper,Eric Oelschlägel,"Sep 20, 1995 (23)",Germany,30.06.2020,£270k,Bundesliga
+29,Borussia Dortmund,Defender,Manuel Akanji,"Jul 19, 1995 (24)",Switzerland,30.06.2022,£36.00m,Bundesliga
+30,Borussia Dortmund,Defender,Mats Hummels,"Dec 16, 1988 (30)",Germany,30.06.2022,£31.50m,Bundesliga
+31,Borussia Dortmund,Defender,Dan-Axel Zagadou,"Jun 3, 1999 (20)",France,30.06.2022,£25.20m,Bundesliga
+32,Borussia Dortmund,Defender,Leonardo Balerdi,"Jan 26, 1999 (20)",Argentina,30.06.2024,£12.60m,Bundesliga
+33,Borussia Dortmund,Defender,Nico Schulz,"Apr 1, 1993 (26)",Germany,30.06.2024,£22.50m,Bundesliga
+34,Borussia Dortmund,Defender,Marcel Schmelzer,"Jan 22, 1988 (31)",Germany,30.06.2021,£2.25m,Bundesliga
+35,Borussia Dortmund,Defender,Achraf Hakimi,"Nov 4, 1998 (20)",Morocco,30.06.2020,£27.00m,Bundesliga
+36,Borussia Dortmund,Defender,Lukasz Piszczek,"Jun 3, 1985 (34)",Poland,30.06.2020,£2.70m,Bundesliga
+37,Borussia Dortmund,Defender,Mateu Morey,"Mar 2, 2000 (19)",Spain,30.06.2024,£270k,Bundesliga
+38,Borussia Dortmund,Midfielder,Axel Witsel,"Jan 12, 1989 (30)",Belgium,30.06.2022,£28.80m,Bundesliga
+39,Borussia Dortmund,Midfielder,Julian Weigl,"Sep 8, 1995 (24)",Germany,30.06.2021,£22.50m,Bundesliga
+40,Borussia Dortmund,Midfielder,Tobias Raschl,"Feb 21, 2000 (19)",Germany,30.06.2022,£720k,Bundesliga
+41,Borussia Dortmund,Midfielder,Thomas Delaney,"Sep 3, 1991 (28)",Denmark,30.06.2022,£24.30m,Bundesliga
+42,Borussia Dortmund,Midfielder,Mahmoud Dahoud,"Jan 1, 1996 (23)",Germany,30.06.2022,£12.60m,Bundesliga
+43,Borussia Dortmund,Midfielder,Patrick Osterhage,"Feb 1, 2000 (19)",Germany,30.06.2021,£270k,Bundesliga
+44,Borussia Dortmund,Midfielder,Raphaël Guerreiro,"Dec 22, 1993 (25)",Portugal,30.06.2020,£22.50m,Bundesliga
+45,Borussia Dortmund,Midfielder,Marco Reus,"May 31, 1989 (30)",Germany,30.06.2023,£45.00m,Bundesliga
+46,Borussia Dortmund,Midfielder,Mario Götze,"Jun 3, 1992 (27)",Germany,30.06.2020,£22.50m,Bundesliga
+47,Borussia Dortmund,Forward,Julian Brandt,"May 2, 1996 (23)",Germany,30.06.2024,£45.00m,Bundesliga
+48,Borussia Dortmund,Forward,Thorgan Hazard,"Mar 29, 1993 (26)",Belgium,30.06.2024,£34.20m,Bundesliga
+49,Borussia Dortmund,Forward,Jacob Bruun Larsen,"Sep 19, 1998 (20)",Denmark,30.06.2021,£13.50m,Bundesliga
+50,Borussia Dortmund,Forward,Jadon Sancho,"Mar 25, 2000 (19)",England,30.06.2022,£90.00m,Bundesliga
+51,Borussia Dortmund,Forward,Paco Alcácer,"Aug 30, 1993 (26)",Spain,30.06.2023,£33.30m,Bundesliga
+52,RB Leipzig,Goalkeeper,Péter Gulácsi,"May 6, 1990 (29)",Hungary,30.06.2022,£10.80m,Bundesliga
+53,RB Leipzig,Goalkeeper,Yvon Mvogo,"Jun 6, 1994 (25)",Switzerland,30.06.2021,£2.70m,Bundesliga
+54,RB Leipzig,Goalkeeper,Philipp Tschauner,"Nov 3, 1985 (33)",Germany,30.06.2021,£360k,Bundesliga
+55,RB Leipzig,Defender,Ibrahima Konaté,"May 25, 1999 (20)",France,30.06.2023,£40.50m,Bundesliga
+56,RB Leipzig,Defender,Dayot Upamecano,"Oct 27, 1998 (20)",France,30.06.2021,£27.00m,Bundesliga
+57,RB Leipzig,Defender,Willi Orban,"Nov 3, 1992 (26)",Hungary,30.06.2022,£18.00m,Bundesliga
+58,RB Leipzig,Defender,Ethan Ampadu,"Sep 14, 2000 (19)",Wales,30.06.2020,£9.00m,Bundesliga
+59,RB Leipzig,Defender,Malik Talabidi,"Jul 16, 2001 (18)",Germany,30.06.2021,£135k,Bundesliga
+60,RB Leipzig,Defender,Frederik Jäkel,"Mar 7, 2001 (18)",Germany,30.06.2022,£135k,Bundesliga
+61,RB Leipzig,Defender,Anton Rücker,"Feb 13, 2001 (18)",Germany,30.06.2020,£45k,Bundesliga
+62,RB Leipzig,Defender,Marcel Halstenberg,"Sep 27, 1991 (27)",Germany,30.06.2022,£19.80m,Bundesliga
+63,RB Leipzig,Defender,Marcelo Saracchi,"Apr 23, 1998 (21)",Uruguay,30.06.2023,£9.00m,Bundesliga
+64,RB Leipzig,Defender,Luan Cândido,"Feb 2, 2001 (18)",Brazil,30.06.2023,£3.60m,Bundesliga
+65,RB Leipzig,Defender,Lukas Klostermann,"Jun 3, 1996 (23)",Germany,30.06.2021,£27.00m,Bundesliga
+66,RB Leipzig,Defender,Nordi Mukiele,"Nov 1, 1997 (21)",France,30.06.2023,£13.50m,Bundesliga
+67,RB Leipzig,Midfielder,Diego Demme,"Nov 21, 1991 (27)",Germany,30.06.2021,£15.30m,Bundesliga
+68,RB Leipzig,Midfielder,Tyler Adams,"Feb 14, 1999 (20)",United States,30.06.2023,£11.70m,Bundesliga
+69,RB Leipzig,Midfielder,Stefan Ilsanker,"May 18, 1989 (30)",Austria,30.06.2020,£4.05m,Bundesliga
+70,RB Leipzig,Midfielder,Tom Krauß,"Jun 22, 2001 (18)",Germany,30.06.2021,£270k,Bundesliga
+71,RB Leipzig,Midfielder,Max Winter,"Feb 16, 2001 (18)",Germany,30.06.2020,£45k,Bundesliga
+72,RB Leipzig,Midfielder,Kevin Kampl,"Oct 9, 1990 (28)",Slovenia,30.06.2021,£19.80m,Bundesliga
+73,RB Leipzig,Midfielder,Amadou Haidara,"Jan 31, 1998 (21)",Mali,30.06.2023,£18.00m,Bundesliga
+74,RB Leipzig,Midfielder,Konrad Laimer,"May 27, 1997 (22)",Austria,30.06.2021,£15.30m,Bundesliga
+75,RB Leipzig,Midfielder,Christopher Nkunku,"Nov 14, 1997 (21)",France,30.06.2024,£10.80m,Bundesliga
+76,RB Leipzig,Midfielder,Mads Bidstrup,"Feb 25, 2001 (18)",Denmark,30.06.2023,£900k,Bundesliga
+77,RB Leipzig,Midfielder,Hannes Wolf,"Apr 16, 1999 (20)",Austria,30.06.2024,£10.80m,Bundesliga
+78,RB Leipzig,Forward,Emil Forsberg,"Oct 23, 1991 (27)",Sweden,30.06.2022,£22.50m,Bundesliga
+79,RB Leipzig,Forward,Ademola Lookman,"Oct 20, 1997 (21)",England,30.06.2024,£18.00m,Bundesliga
+80,RB Leipzig,Forward,Jacob Ruhner,"Jan 27, 2001 (18)",Germany,30.06.2020,£45k,Bundesliga
+81,RB Leipzig,Forward,Marcel Sabitzer,"Mar 17, 1994 (25)",Austria,30.06.2022,£22.50m,Bundesliga
+82,RB Leipzig,Forward,Fabrice Hartmann,"Mar 2, 2001 (18)",Germany,30.06.2021,£360k,Bundesliga
+83,RB Leipzig,Forward,Oliver Bias,"Jun 15, 2001 (18)",Germany,30.06.2020,£45k,Bundesliga
+84,RB Leipzig,Forward,Timo Werner,"Mar 6, 1996 (23)",Germany,30.06.2023,£58.50m,Bundesliga
+85,RB Leipzig,Forward,Yussuf Poulsen,"Jun 15, 1994 (25)",Denmark,30.06.2022,£31.50m,Bundesliga
+86,RB Leipzig,Forward,Matheus Cunha,"May 27, 1999 (20)",Brazil,30.06.2023,£13.50m,Bundesliga
+87,RB Leipzig,Forward,Patrik Schick,"Jan 24, 1996 (23)",Czech Republic,30.06.2020,£13.50m,Bundesliga
+88,Bayer 04 Leverkusen,Goalkeeper,Lukas Hradecky,"Nov 24, 1989 (29)",Finland,30.06.2023,£7.20m,Bundesliga
+89,Bayer 04 Leverkusen,Goalkeeper,Ramazan Özcan,"Jun 28, 1984 (35)",Austria,30.06.2020,£270k,Bundesliga
+90,Bayer 04 Leverkusen,Goalkeeper,Niklas Lomb,"Jul 28, 1993 (26)",Germany,30.06.2020,£225k,Bundesliga
+91,Bayer 04 Leverkusen,Defender,Jonathan Tah,"Feb 11, 1996 (23)",Germany,30.06.2023,£36.00m,Bundesliga
+92,Bayer 04 Leverkusen,Defender,Panagiotis Retsos,"Aug 9, 1998 (21)",Greece,30.06.2022,£11.70m,Bundesliga
+93,Bayer 04 Leverkusen,Defender,Sven Bender,"Apr 27, 1989 (30)",Germany,30.06.2021,£8.10m,Bundesliga
+94,Bayer 04 Leverkusen,Defender,Aleksandar Dragovic,"Mar 6, 1991 (28)",Austria,30.06.2021,£8.10m,Bundesliga
+95,Bayer 04 Leverkusen,Defender,Wendell,"Jul 20, 1993 (26)",Brazil,30.06.2021,£18.00m,Bundesliga
+96,Bayer 04 Leverkusen,Defender,Daley Sinkgraven,"Jul 4, 1995 (24)",Netherlands,30.06.2023,£2.70m,Bundesliga
+97,Bayer 04 Leverkusen,Defender,Mitchell Weiser,"Apr 21, 1994 (25)",Germany,30.06.2023,£12.60m,Bundesliga
+98,Bayer 04 Leverkusen,Midfielder,Lars Bender,"Apr 27, 1989 (30)",Germany,30.06.2021,£8.10m,Bundesliga
+99,Bayer 04 Leverkusen,Midfielder,Julian Baumgartlinger,"Jan 2, 1988 (31)",Austria,30.06.2020,£3.15m,Bundesliga
+100,Bayer 04 Leverkusen,Midfielder,Adrian Stanilewicz,"Feb 22, 2000 (19)",Poland,30.06.2020,£45k,Bundesliga
+101,Bayer 04 Leverkusen,Midfielder,Kerem Demirbay,"Jul 3, 1993 (26)",Germany,30.06.2024,£28.80m,Bundesliga
+102,Bayer 04 Leverkusen,Midfielder,Charles Aránguiz,"Apr 17, 1989 (30)",Chile,30.06.2020,£13.50m,Bundesliga
+103,Bayer 04 Leverkusen,Midfielder,Kai Havertz,"Jun 11, 1999 (20)",Germany,30.06.2022,£81.00m,Bundesliga
+104,Bayer 04 Leverkusen,Midfielder,Nadiem Amiri,"Oct 27, 1996 (22)",Germany,30.06.2024,£15.30m,Bundesliga
+105,Bayer 04 Leverkusen,Forward,Leon Bailey,"Aug 9, 1997 (22)",Jamaica,30.06.2023,£36.00m,Bundesliga
+106,Bayer 04 Leverkusen,Forward,Paulinho,"Jul 15, 2000 (19)",Brazil,30.06.2023,£13.50m,Bundesliga
+107,Bayer 04 Leverkusen,Forward,Moussa Diaby,"Jul 7, 1999 (20)",France,30.06.2024,£10.80m,Bundesliga
+108,Bayer 04 Leverkusen,Forward,Karim Bellarabi,"Apr 8, 1990 (29)",Germany,30.06.2021,£13.50m,Bundesliga
+109,Bayer 04 Leverkusen,Forward,Kevin Volland,"Jul 30, 1992 (27)",Germany,30.06.2021,£27.00m,Bundesliga
+110,Bayer 04 Leverkusen,Forward,Lucas Alario,"Oct 8, 1992 (26)",Argentina,30.06.2022,£15.30m,Bundesliga
+111,Bayer 04 Leverkusen,Forward,Joel Pohjanpalo,"Sep 13, 1994 (25)",Finland,30.06.2022,£900k,Bundesliga
+112,Borussia Mönchengladbach,Goalkeeper,Yann Sommer,"Dec 17, 1988 (30)",Switzerland,30.06.2021,£10.80m,Bundesliga
+113,Borussia Mönchengladbach,Goalkeeper,Tobias Sippel,"Mar 22, 1988 (31)",Germany,30.06.2021,£675k,Bundesliga
+114,Borussia Mönchengladbach,Goalkeeper,Max Grün,"Apr 5, 1987 (32)",Germany,30.06.2020,£135k,Bundesliga
+115,Borussia Mönchengladbach,Defender,Matthias Ginter,"Jan 19, 1994 (25)",Germany,30.06.2021,£31.50m,Bundesliga
+116,Borussia Mönchengladbach,Defender,Nico Elvedi,"Sep 30, 1996 (22)",Switzerland,30.06.2021,£27.00m,Bundesliga
+117,Borussia Mönchengladbach,Defender,Tony Jantschke,"Apr 7, 1990 (29)",Germany,30.06.2021,£2.70m,Bundesliga
+118,Borussia Mönchengladbach,Defender,Mamadou Doucouré,"May 21, 1998 (21)",France,30.06.2021,£450k,Bundesliga
+119,Borussia Mönchengladbach,Defender,Ramy Bensebaini,"Apr 16, 1995 (24)",Algeria,30.06.2023,£7.20m,Bundesliga
+120,Borussia Mönchengladbach,Defender,Andreas Poulsen,"Oct 13, 1999 (19)",Denmark,30.06.2023,£2.70m,Bundesliga
+121,Borussia Mönchengladbach,Defender,Oscar Wendt,"Oct 24, 1985 (33)",Sweden,30.06.2020,£1.80m,Bundesliga
+122,Borussia Mönchengladbach,Defender,Stefan Lainer,"Aug 27, 1992 (27)",Austria,30.06.2024,£11.25m,Bundesliga
+123,Borussia Mönchengladbach,Defender,Jordan Beyer,"May 19, 2000 (19)",Germany,30.06.2022,£2.25m,Bundesliga
+124,Borussia Mönchengladbach,Midfielder,Denis Zakaria,"Nov 20, 1996 (22)",Switzerland,30.06.2022,£18.00m,Bundesliga
+125,Borussia Mönchengladbach,Midfielder,Christoph Kramer,"Feb 19, 1991 (28)",Germany,30.06.2021,£9.00m,Bundesliga
+126,Borussia Mönchengladbach,Midfielder,Tobias Strobl,"May 12, 1990 (29)",Germany,30.06.2020,£6.30m,Bundesliga
+127,Borussia Mönchengladbach,Midfielder,Florian Neuhaus,"Mar 16, 1997 (22)",Germany,30.06.2021,£19.80m,Bundesliga
+128,Borussia Mönchengladbach,Midfielder,Jonas Hofmann,"Jul 14, 1992 (27)",Germany,30.06.2023,£8.10m,Bundesliga
+129,Borussia Mönchengladbach,Midfielder,Lászlo Bénes,"Sep 9, 1997 (22)",Slovakia,30.06.2021,£1.35m,Bundesliga
+130,Borussia Mönchengladbach,Midfielder,Torben Müsel,"Jul 25, 1999 (20)",Germany,30.06.2020,£315k,Bundesliga
+131,Borussia Mönchengladbach,Forward,Marcus Thuram,"Aug 6, 1997 (22)",France,30.06.2023,£8.10m,Bundesliga
+132,Borussia Mönchengladbach,Forward,Fabian Johnson,"Dec 11, 1987 (31)",United States,30.06.2020,£2.70m,Bundesliga
+133,Borussia Mönchengladbach,Forward,Keanan Bennetts,"Mar 9, 1999 (20)",England,30.06.2022,£1.80m,Bundesliga
+134,Borussia Mönchengladbach,Forward,Patrick Herrmann,"Feb 12, 1991 (28)",Germany,30.06.2022,£4.05m,Bundesliga
+135,Borussia Mönchengladbach,Forward,Ibrahima Traoré,"Apr 21, 1988 (31)",Guinea,30.06.2021,£1.80m,Bundesliga
+136,Borussia Mönchengladbach,Forward,Lars Stindl,"Aug 26, 1988 (31)",Germany,30.06.2021,£9.00m,Bundesliga
+137,Borussia Mönchengladbach,Forward,Raffael,"Mar 28, 1985 (34)",Brazil,30.06.2020,£2.25m,Bundesliga
+138,Borussia Mönchengladbach,Forward,Alassane Plea,"Mar 10, 1993 (26)",France,30.06.2023,£27.00m,Bundesliga
+139,Borussia Mönchengladbach,Forward,Breel Embolo,"Feb 14, 1997 (22)",Switzerland,30.06.2023,£12.60m,Bundesliga
+140,Borussia Mönchengladbach,Forward,Julio Villalba,"Sep 17, 1998 (20)",Paraguay,-,£675k,Bundesliga
+141,TSG 1899 Hoffenheim,Goalkeeper,Oliver Baumann,"Jun 2, 1990 (29)",Germany,30.06.2021,£7.20m,Bundesliga
+142,TSG 1899 Hoffenheim,Goalkeeper,Philipp Pentke,"May 1, 1985 (34)",Germany,30.06.2021,£270k,Bundesliga
+143,TSG 1899 Hoffenheim,Goalkeeper,Alexander Stolz,"Oct 13, 1983 (35)",Germany,30.06.2020,£90k,Bundesliga
+144,TSG 1899 Hoffenheim,Defender,Kevin Vogt,"Sep 23, 1991 (27)",Germany,30.06.2022,£10.80m,Bundesliga
+145,TSG 1899 Hoffenheim,Defender,Benjamin Hübner,"Jul 4, 1989 (30)",Germany,30.06.2022,£6.30m,Bundesliga
+146,TSG 1899 Hoffenheim,Defender,Kevin Akpoguma,"Apr 19, 1995 (24)",Germany,30.06.2021,£5.85m,Bundesliga
+147,TSG 1899 Hoffenheim,Defender,Stefan Posch,"May 14, 1997 (22)",Austria,30.06.2023,£4.95m,Bundesliga
+148,TSG 1899 Hoffenheim,Defender,Ermin Bicakcic,"Jan 24, 1990 (29)",Bosnia-Herzegovina,30.06.2022,£3.60m,Bundesliga
+149,TSG 1899 Hoffenheim,Defender,Lucas Ribeiro,"Jan 19, 1999 (20)",Brazil,30.06.2023,£2.70m,Bundesliga
+150,TSG 1899 Hoffenheim,Defender,Konstantinos Stafylidis,"Dec 2, 1993 (25)",Greece,30.06.2023,£2.70m,Bundesliga
+151,TSG 1899 Hoffenheim,Defender,Pavel Kaderabek,"Apr 25, 1992 (27)",Czech Republic,30.06.2023,£18.00m,Bundesliga
+152,TSG 1899 Hoffenheim,Defender,Joshua Brenet,"Mar 20, 1994 (25)",Netherlands,30.06.2022,£4.05m,Bundesliga
+153,TSG 1899 Hoffenheim,Midfielder,Diadie Samassékou,"Jan 11, 1996 (23)",Mali,30.06.2024,£18.00m,Bundesliga
+154,TSG 1899 Hoffenheim,Midfielder,Sebastian Rudy,"Feb 28, 1990 (29)",Germany,30.06.2020,£8.10m,Bundesliga
+155,TSG 1899 Hoffenheim,Midfielder,Dennis Geiger,"Jun 10, 1998 (21)",Germany,30.06.2022,£7.65m,Bundesliga
+156,TSG 1899 Hoffenheim,Midfielder,Havard Nordtveit,"Jun 21, 1990 (29)",Norway,30.06.2022,£3.60m,Bundesliga
+157,TSG 1899 Hoffenheim,Midfielder,Florian Grillitsch,"Aug 7, 1995 (24)",Austria,30.06.2022,£19.80m,Bundesliga
+158,TSG 1899 Hoffenheim,Midfielder,Lukas Rupp,"Jan 8, 1991 (28)",Germany,30.06.2020,£2.25m,Bundesliga
+159,TSG 1899 Hoffenheim,Midfielder,Steven Zuber,"Aug 17, 1991 (28)",Switzerland,30.06.2020,£6.30m,Bundesliga
+160,TSG 1899 Hoffenheim,Midfielder,Robert Zulj,"Feb 5, 1992 (27)",Austria,30.06.2020,£1.35m,Bundesliga
+161,TSG 1899 Hoffenheim,Midfielder,Christoph Baumgartner,"Aug 1, 1999 (20)",Austria,30.06.2023,£450k,Bundesliga
+162,TSG 1899 Hoffenheim,Forward,Sargis Adamyan,"May 23, 1993 (26)",Armenia,30.06.2022,£2.70m,Bundesliga
+163,TSG 1899 Hoffenheim,Forward,Philipp Ochs,"Apr 17, 1997 (22)",Germany,30.06.2020,£540k,Bundesliga
+164,TSG 1899 Hoffenheim,Forward,Robert Skov,"May 20, 1996 (23)",Denmark,30.06.2024,£11.70m,Bundesliga
+165,TSG 1899 Hoffenheim,Forward,Ihlas Bebou,"Apr 23, 1994 (25)",Togo,30.06.2023,£10.80m,Bundesliga
+166,TSG 1899 Hoffenheim,Forward,Andrej Kramaric,"Jun 19, 1991 (28)",Croatia,30.06.2022,£34.20m,Bundesliga
+167,TSG 1899 Hoffenheim,Forward,Ishak Belfodil,"Jan 12, 1992 (27)",Algeria,30.06.2022,£13.50m,Bundesliga
+168,TSG 1899 Hoffenheim,Forward,Jürgen Locadia,"Nov 7, 1993 (25)",Netherlands,30.06.2020,£10.80m,Bundesliga
+169,VfL Wolfsburg,Goalkeeper,Koen Casteels,"Jun 25, 1992 (27)",Belgium,30.06.2021,£11.70m,Bundesliga
+170,VfL Wolfsburg,Goalkeeper,Pavao Pervan,"Nov 13, 1987 (31)",Austria,30.06.2021,£720k,Bundesliga
+171,VfL Wolfsburg,Goalkeeper,Phillip Menzel,"Aug 18, 1998 (21)",Germany,30.06.2021,£135k,Bundesliga
+172,VfL Wolfsburg,Goalkeeper,Niklas Klinger,"Oct 13, 1995 (23)",Germany,30.06.2020,£90k,Bundesliga
+173,VfL Wolfsburg,Defender,John Anthony Brooks,"Jan 28, 1993 (26)",United States,30.06.2022,£13.50m,Bundesliga
+174,VfL Wolfsburg,Defender,Robin Knoche,"May 22, 1992 (27)",Germany,30.06.2020,£7.20m,Bundesliga
+175,VfL Wolfsburg,Defender,Marcel Tisserand,"Jan 10, 1993 (26)",DR Congo,30.06.2022,£4.05m,Bundesliga
+176,VfL Wolfsburg,Defender,Jeffrey Bruma,"Nov 13, 1991 (27)",Netherlands,30.06.2021,£2.25m,Bundesliga
+177,VfL Wolfsburg,Defender,Jérôme Roussillon,"Jan 6, 1993 (26)",France,30.06.2023,£18.00m,Bundesliga
+178,VfL Wolfsburg,Defender,Paulo Otávio,"Nov 23, 1994 (24)",Brazil,30.06.2023,£900k,Bundesliga
+179,VfL Wolfsburg,Defender,Kevin Mbabu,"Apr 19, 1995 (24)",Switzerland,30.06.2023,£9.00m,Bundesliga
+180,VfL Wolfsburg,Defender,William,"Apr 3, 1995 (24)",Brazil,30.06.2022,£6.30m,Bundesliga
+181,VfL Wolfsburg,Midfielder,Ignacio Camacho,"May 4, 1990 (29)",Spain,30.06.2021,£11.70m,Bundesliga
+182,VfL Wolfsburg,Midfielder,Josuha Guilavogui,"Sep 19, 1990 (28)",France,30.06.2023,£10.80m,Bundesliga
+183,VfL Wolfsburg,Midfielder,Xaver Schlager,"Sep 28, 1997 (21)",Austria,30.06.2023,£13.50m,Bundesliga
+184,VfL Wolfsburg,Midfielder,Maximilian Arnold,"May 27, 1994 (25)",Germany,30.06.2022,£13.50m,Bundesliga
+185,VfL Wolfsburg,Midfielder,Yannick Gerhardt,"Mar 13, 1994 (25)",Germany,30.06.2021,£9.00m,Bundesliga
+186,VfL Wolfsburg,Midfielder,Elvis Rexhbecaj,"Nov 1, 1997 (21)",Germany,30.06.2023,£7.20m,Bundesliga
+187,VfL Wolfsburg,Midfielder,Yunus Malli,"Feb 24, 1992 (27)",Turkey,30.06.2021,£4.50m,Bundesliga
+188,VfL Wolfsburg,Forward,Josip Brekalo,"Jun 23, 1998 (21)",Croatia,30.06.2023,£9.00m,Bundesliga
+189,VfL Wolfsburg,Forward,João Victor,"Mar 27, 1994 (25)",Brazil,30.06.2023,£2.70m,Bundesliga
+190,VfL Wolfsburg,Forward,Renato Steffen,"Nov 3, 1991 (27)",Switzerland,30.06.2021,£4.50m,Bundesliga
+191,VfL Wolfsburg,Forward,Felix Klaus,"Sep 13, 1992 (27)",Germany,30.06.2022,£2.70m,Bundesliga
+192,VfL Wolfsburg,Forward,Ismail Azzaoui,"Jan 6, 1998 (21)",Belgium,30.06.2020,£765k,Bundesliga
+193,VfL Wolfsburg,Forward,Admir Mehmedi,"Mar 16, 1991 (28)",Switzerland,30.06.2022,£9.00m,Bundesliga
+194,VfL Wolfsburg,Forward,Wout Weghorst,"Aug 7, 1992 (27)",Netherlands,30.06.2023,£18.00m,Bundesliga
+195,VfL Wolfsburg,Forward,Daniel Ginczek,"Apr 13, 1991 (28)",Germany,30.06.2022,£10.80m,Bundesliga
+196,VfL Wolfsburg,Forward,Lukas Nmecha,"Dec 14, 1998 (20)",Germany,30.06.2020,£900k,Bundesliga
+197,Hertha BSC,Goalkeeper,Rune Jarstein,"Sep 29, 1984 (34)",Norway,30.06.2021,£1.80m,Bundesliga
+198,Hertha BSC,Goalkeeper,Thomas Kraft,"Jul 22, 1988 (31)",Germany,30.06.2020,£675k,Bundesliga
+199,Hertha BSC,Goalkeeper,Dennis Smarsch,"Jan 14, 1999 (20)",Germany,30.06.2021,£180k,Bundesliga
+200,Hertha BSC,Defender,Niklas Stark,"Apr 14, 1995 (24)",Germany,30.06.2022,£18.00m,Bundesliga
+201,Hertha BSC,Defender,Karim Rekik,"Dec 2, 1994 (24)",Netherlands,30.06.2021,£13.50m,Bundesliga
+202,Hertha BSC,Defender,Jordan Torunarigha,"Aug 7, 1997 (22)",Germany,-,£9.00m,Bundesliga
+203,Hertha BSC,Defender,Dedryck Boyata,"Nov 28, 1990 (28)",Belgium,30.06.2022,£1.80m,Bundesliga
+204,Hertha BSC,Defender,Florian Baak,"Mar 18, 1999 (20)",Germany,30.06.2021,£360k,Bundesliga
+205,Hertha BSC,Defender,Maximilian Mittelstädt,"Mar 18, 1997 (22)",Germany,30.06.2023,£9.90m,Bundesliga
+206,Hertha BSC,Defender,Marvin Plattenhardt,"Jan 26, 1992 (27)",Germany,30.06.2023,£9.00m,Bundesliga
+207,Hertha BSC,Defender,Lukas Klünter,"May 26, 1996 (23)",Germany,30.06.2022,£2.70m,Bundesliga
+208,Hertha BSC,Defender,Peter Pekarik,"Oct 30, 1986 (32)",Slovakia,30.06.2020,£720k,Bundesliga
+209,Hertha BSC,Midfielder,Arne Maier,"Jan 8, 1999 (20)",Germany,30.06.2022,£21.60m,Bundesliga
+210,Hertha BSC,Midfielder,Marko Grujic,"Apr 13, 1996 (23)",Serbia,30.06.2020,£18.00m,Bundesliga
+211,Hertha BSC,Midfielder,Eduard Löwen,"Jan 28, 1997 (22)",Germany,-,£6.30m,Bundesliga
+212,Hertha BSC,Midfielder,Vladimir Darida,"Aug 8, 1990 (29)",Czech Republic,30.06.2021,£3.60m,Bundesliga
+213,Hertha BSC,Midfielder,Per Ciljan Skjelbred,"Jun 16, 1987 (32)",Norway,30.06.2020,£1.58m,Bundesliga
+214,Hertha BSC,Midfielder,Sidney Friede,"Apr 12, 1998 (21)",Germany,-,£630k,Bundesliga
+215,Hertha BSC,Midfielder,Julian Albrecht,"Aug 31, 2001 (18)",Germany,-,£270k,Bundesliga
+216,Hertha BSC,Midfielder,Ondrej Duda,"Dec 5, 1994 (24)",Slovakia,-,£15.30m,Bundesliga
+217,Hertha BSC,Forward,Javairô Dilrosun,"Jun 22, 1998 (21)",Netherlands,30.06.2022,£10.80m,Bundesliga
+218,Hertha BSC,Forward,Salomon Kalou,"Aug 5, 1985 (34)",Cote d'Ivoire,30.06.2020,£2.70m,Bundesliga
+219,Hertha BSC,Forward,Dennis Jastrzembski,"Feb 20, 2000 (19)",Germany,30.06.2021,£720k,Bundesliga
+220,Hertha BSC,Forward,Dodi Lukebakio,"Sep 24, 1997 (21)",Belgium,30.06.2024,£16.20m,Bundesliga
+221,Hertha BSC,Forward,Marius Wolf,"May 27, 1995 (24)",Germany,30.06.2020,£7.20m,Bundesliga
+222,Hertha BSC,Forward,Mathew Leckie,"Feb 4, 1991 (28)",Australia,30.6.2021,£3.15m,Bundesliga
+223,Hertha BSC,Forward,Alexander Esswein,"Mar 25, 1990 (29)",Germany,30.06.2020,£900k,Bundesliga
+224,Hertha BSC,Forward,Palko Dárdai,"Apr 24, 1999 (20)",Germany,30.06.2021,£900k,Bundesliga
+225,Hertha BSC,Forward,Maurice Covic,"Apr 17, 1998 (21)",Germany,30.06.2020,£180k,Bundesliga
+226,Hertha BSC,Forward,Davie Selke,"Jan 20, 1995 (24)",Germany,30.06.2022,£16.20m,Bundesliga
+227,Hertha BSC,Forward,Daishawn Redan,"Feb 2, 2001 (18)",Netherlands,30.06.2024,£3.60m,Bundesliga
+228,Hertha BSC,Forward,Vedad Ibisevic,"Aug 6, 1984 (35)",Bosnia-Herzegovina,30.06.2020,£1.80m,Bundesliga
+229,Hertha BSC,Forward,Pascal Köpke,"Sep 3, 1995 (24)",Germany,30.06.2022,£1.35m,Bundesliga
+230,Hertha BSC,Forward,Muhammed Kiprit,"Jul 9, 1999 (20)",Turkey,30.06.2021,£270k,Bundesliga
+231,FC Schalke 04,Goalkeeper,Alexander Nübel,"Sep 30, 1996 (22)",Germany,30.06.2020,£10.80m,Bundesliga
+232,FC Schalke 04,Goalkeeper,Markus Schubert,"Jun 12, 1998 (21)",Germany,30.06.2023,£900k,Bundesliga
+233,FC Schalke 04,Goalkeeper,Michael Langer,"Jan 6, 1985 (34)",Austria,30.06.2021,£90k,Bundesliga
+234,FC Schalke 04,Defender,Matija Nastasic,"Mar 28, 1993 (26)",Serbia,30.06.2022,£16.20m,Bundesliga
+235,FC Schalke 04,Defender,Ozan Kabak,"Mar 25, 2000 (19)",Turkey,30.06.2024,£13.50m,Bundesliga
+236,FC Schalke 04,Defender,Salif Sané,"Aug 25, 1990 (29)",Senegal,30.06.2022,£10.80m,Bundesliga
+237,FC Schalke 04,Defender,Benjamin Stambouli,"Aug 13, 1990 (29)",France,30.06.2020,£9.00m,Bundesliga
+238,FC Schalke 04,Defender,Juan Miranda,"Jan 19, 2000 (19)",Spain,30.06.2021,£4.50m,Bundesliga
+239,FC Schalke 04,Defender,Bastian Oczipka,"Jan 12, 1989 (30)",Germany,30.06.2020,£3.60m,Bundesliga
+240,FC Schalke 04,Defender,Jonas Carls,"Mar 25, 1997 (22)",Germany,30.06.2022,£180k,Bundesliga
+241,FC Schalke 04,Defender,Jonjoe Kenny,"Mar 15, 1997 (22)",England,30.06.2020,£4.50m,Bundesliga
+242,FC Schalke 04,Midfielder,Omar Mascarell,"Feb 2, 1993 (26)",Spain,30.06.2022,£7.20m,Bundesliga
+243,FC Schalke 04,Midfielder,Weston McKennie,"Aug 28, 1998 (21)",United States,30.06.2024,£18.00m,Bundesliga
+244,FC Schalke 04,Midfielder,Suat Serdar,"Apr 11, 1997 (22)",Germany,30.06.2022,£11.70m,Bundesliga
+245,FC Schalke 04,Midfielder,Nabil Bentaleb,"Nov 24, 1994 (24)",Algeria,30.06.2021,£11.70m,Bundesliga
+246,FC Schalke 04,Midfielder,Nassim Boujellab,"Jun 20, 1999 (20)",Morocco,30.06.2022,£1.35m,Bundesliga
+247,FC Schalke 04,Midfielder,Levent Mercan,"Dec 10, 2000 (18)",Germany,30.06.2023,£68k,Bundesliga
+248,FC Schalke 04,Midfielder,Daniel Caligiuri,"Jan 15, 1988 (31)",Italy,30.06.2020,£5.85m,Bundesliga
+249,FC Schalke 04,Midfielder,Alessandro Schöpf,"Feb 7, 1994 (25)",Austria,30.06.2021,£4.50m,Bundesliga
+250,FC Schalke 04,Midfielder,Amine Harit,"Jun 18, 1997 (22)",Morocco,30.06.2021,£9.00m,Bundesliga
+251,FC Schalke 04,Forward,Benito Raman,"Nov 7, 1994 (24)",Belgium,30.06.2024,£10.80m,Bundesliga
+252,FC Schalke 04,Forward,Rabbi Matondo,"Sep 9, 2000 (19)",Wales,30.06.2023,£8.10m,Bundesliga
+253,FC Schalke 04,Forward,Steven Skrzybski,"Nov 18, 1992 (26)",Germany,30.06.2021,£3.15m,Bundesliga
+254,FC Schalke 04,Forward,Mark Uth,"Aug 24, 1991 (28)",Germany,30.06.2022,£10.80m,Bundesliga
+255,FC Schalke 04,Forward,Guido Burgstaller,"Apr 29, 1989 (30)",Austria,30.06.2022,£4.95m,Bundesliga
+256,FC Schalke 04,Forward,Ahmed Kutucu,"Mar 1, 2000 (19)",Turkey,30.06.2022,£4.05m,Bundesliga
+257,FC Schalke 04,Forward,Fabian Reese,"Nov 29, 1997 (21)",Germany,30.06.2020,£540k,Bundesliga
+258,Eintracht Frankfurt,Goalkeeper,Kevin Trapp,"Jul 8, 1990 (29)",Germany,30.06.2024,£9.00m,Bundesliga
+259,Eintracht Frankfurt,Goalkeeper,Frederik Rönnow,"Aug 4, 1992 (27)",Denmark,30.06.2022,£1.35m,Bundesliga
+260,Eintracht Frankfurt,Goalkeeper,Felix Wiedwald,"Mar 15, 1990 (29)",Germany,30.06.2021,£540k,Bundesliga
+261,Eintracht Frankfurt,Goalkeeper,Jan Zimmermann,"Apr 19, 1985 (34)",Germany,30.06.2021,£225k,Bundesliga
+262,Eintracht Frankfurt,Defender,Evan N'Dicka,"Aug 20, 1999 (20)",France,30.06.2023,£22.50m,Bundesliga
+263,Eintracht Frankfurt,Defender,Martin Hinteregger,"Sep 7, 1992 (27)",Austria,30.06.2024,£14.40m,Bundesliga
+264,Eintracht Frankfurt,Defender,Almamy Touré,"Apr 28, 1996 (23)",France,30.06.2023,£5.85m,Bundesliga
+265,Eintracht Frankfurt,Defender,Simon Falette,"Feb 19, 1992 (27)",Guinea,30.06.2021,£3.60m,Bundesliga
+266,Eintracht Frankfurt,Defender,David Abraham,"Jul 15, 1986 (33)",Argentina,30.06.2021,£2.25m,Bundesliga
+267,Eintracht Frankfurt,Defender,Marco Russ,"Aug 4, 1985 (34)",Germany,30.06.2020,£675k,Bundesliga
+268,Eintracht Frankfurt,Defender,Erik Durm,"May 12, 1992 (27)",Germany,30.06.2023,£1.80m,Bundesliga
+269,Eintracht Frankfurt,Defender,Danny da Costa,"Jul 13, 1993 (26)",Germany,30.06.2022,£13.50m,Bundesliga
+270,Eintracht Frankfurt,Defender,Timothy Chandler,"Mar 29, 1990 (29)",United States,30.06.2022,£3.60m,Bundesliga
+271,Eintracht Frankfurt,Midfielder,Lucas Torró,"Jul 19, 1994 (25)",Spain,30.06.2023,£5.40m,Bundesliga
+272,Eintracht Frankfurt,Midfielder,Gelson Fernandes,"Sep 2, 1986 (33)",Switzerland,30.06.2020,£1.35m,Bundesliga
+273,Eintracht Frankfurt,Midfielder,Makoto Hasebe,"Jan 18, 1984 (35)",Japan,30.06.2020,£900k,Bundesliga
+274,Eintracht Frankfurt,Midfielder,Nils Stendera,"Sep 30, 2000 (18)",Germany,30.06.2022,£180k,Bundesliga
+275,Eintracht Frankfurt,Midfielder,Sahverdi Cetin,"Sep 28, 2000 (18)",Germany,30.06.2020,£180k,Bundesliga
+276,Eintracht Frankfurt,Midfielder,Djibril Sow,"Feb 6, 1997 (22)",Switzerland,30.06.2024,£8.10m,Bundesliga
+277,Eintracht Frankfurt,Midfielder,Dominik Kohr,"Jan 31, 1994 (25)",Germany,30.06.2024,£3.60m,Bundesliga
+278,Eintracht Frankfurt,Midfielder,Sebastian Rode,"Oct 11, 1990 (28)",Germany,30.06.2024,£2.70m,Bundesliga
+279,Eintracht Frankfurt,Midfielder,Jonathan de Guzmán,"Sep 13, 1987 (32)",Netherlands,30.06.2020,£2.25m,Bundesliga
+280,Eintracht Frankfurt,Midfielder,Marijan Cavar,"Feb 2, 1998 (21)",Bosnia-Herzegovina,30.06.2021,£360k,Bundesliga
+281,Eintracht Frankfurt,Midfielder,Filip Kostic,"Nov 1, 1992 (26)",Serbia,30.06.2023,£19.80m,Bundesliga
+282,Eintracht Frankfurt,Midfielder,Mijat Gacinovic,"Feb 8, 1995 (24)",Serbia,30.06.2022,£9.90m,Bundesliga
+283,Eintracht Frankfurt,Midfielder,Daichi Kamada,"Aug 5, 1996 (23)",Japan,30.06.2021,£4.05m,Bundesliga
+284,Eintracht Frankfurt,Midfielder,Patrick Finger,"Jan 1, 2001 (18)",Germany,30.06.2020,£135k,Bundesliga
+285,Eintracht Frankfurt,Forward,Nicolai Müller,"Sep 25, 1987 (31)",Germany,30.06.2020,£1.35m,Bundesliga
+286,Eintracht Frankfurt,Forward,André Silva,"Nov 6, 1995 (23)",Portugal,30.06.2021,£19.80m,Bundesliga
+287,Eintracht Frankfurt,Forward,Bas Dost,"May 31, 1989 (30)",Netherlands,30.06.2022,£15.30m,Bundesliga
+288,Eintracht Frankfurt,Forward,Gonçalo Paciência,"Aug 1, 1994 (25)",Portugal,30.06.2022,£5.40m,Bundesliga
+289,Eintracht Frankfurt,Forward,Dejan Joveljic,"Aug 7, 1999 (20)",Serbia,30.06.2024,£3.60m,Bundesliga
+290,SV Werder Bremen,Goalkeeper,Jiri Pavlenka,"Apr 14, 1992 (27)",Czech Republic,30.06.2021,£10.80m,Bundesliga
+291,SV Werder Bremen,Goalkeeper,Stefanos Kapino,"Mar 18, 1994 (25)",Greece,-,£900k,Bundesliga
+292,SV Werder Bremen,Goalkeeper,Luca Plogmann,"Mar 10, 2000 (19)",Germany,30.06.2021,£450k,Bundesliga
+293,SV Werder Bremen,Defender,Milos Veljkovic,"Sep 26, 1995 (23)",Serbia,30.06.2022,£7.20m,Bundesliga
+294,SV Werder Bremen,Defender,Ömer Toprak,"Jul 21, 1989 (30)",Turkey,30.06.2020,£4.50m,Bundesliga
+295,SV Werder Bremen,Defender,Marco Friedl,"Mar 16, 1998 (21)",Austria,30.06.2022,£2.25m,Bundesliga
+296,SV Werder Bremen,Defender,Sebastian Langkamp,"Jan 15, 1988 (31)",Germany,30.06.2020,£1.80m,Bundesliga
+297,SV Werder Bremen,Defender,Niklas Moisander,"Sep 29, 1985 (33)",Finland,30.06.2020,£1.80m,Bundesliga
+298,SV Werder Bremen,Defender,Christian Groß,"Feb 8, 1989 (30)",Germany,30.06.2020,£180k,Bundesliga
+299,SV Werder Bremen,Defender,Ludwig Augustinsson,"Apr 21, 1994 (25)",Sweden,30.06.2022,£10.80m,Bundesliga
+300,SV Werder Bremen,Defender,Michael Lang,"Feb 8, 1991 (28)",Switzerland,30.06.2020,£4.05m,Bundesliga
+301,SV Werder Bremen,Defender,Theodor Gebre Selassie,"Dec 24, 1986 (32)",Czech Republic,30.06.2020,£2.25m,Bundesliga
+302,SV Werder Bremen,Midfielder,Nuri Sahin,"Sep 5, 1988 (31)",Turkey,30.06.2020,£2.25m,Bundesliga
+303,SV Werder Bremen,Midfielder,Philipp Bargfrede,"Mar 3, 1989 (30)",Germany,30.06.2022,£2.25m,Bundesliga
+304,SV Werder Bremen,Midfielder,Ilia Gruev,"May 6, 2000 (19)",Bulgaria,30.06.2020,£180k,Bundesliga
+305,SV Werder Bremen,Midfielder,Maximilian Eggestein,"Dec 8, 1996 (22)",Germany,30.06.2023,£27.00m,Bundesliga
+306,SV Werder Bremen,Midfielder,Davy Klaassen,"Feb 21, 1993 (26)",Netherlands,30.06.2022,£19.80m,Bundesliga
+307,SV Werder Bremen,Midfielder,Kevin Möhwald,"Jul 3, 1993 (26)",Germany,30.06.2021,£3.60m,Bundesliga
+308,SV Werder Bremen,Midfielder,Simon Straudi,"Jan 27, 1999 (20)",Italy,30.06.2022,£68k,Bundesliga
+309,SV Werder Bremen,Midfielder,Leonardo Bittencourt,"Dec 19, 1993 (25)",Germany,30.06.2020,£6.30m,Bundesliga
+310,SV Werder Bremen,Midfielder,David Philipp,"Apr 10, 2000 (19)",Germany,30.06.2022,£90k,Bundesliga
+311,SV Werder Bremen,Forward,Milot Rashica,"Jun 28, 1996 (23)",Kosovo,30.06.2022,£18.00m,Bundesliga
+312,SV Werder Bremen,Forward,Johannes Eggestein,"May 8, 1998 (21)",Germany,30.06.2022,£9.00m,Bundesliga
+313,SV Werder Bremen,Forward,Benjamin Goller,"Jan 1, 1999 (20)",Germany,-,£360k,Bundesliga
+314,SV Werder Bremen,Forward,Yuya Osako,"May 18, 1990 (29)",Japan,30.06.2022,£4.50m,Bundesliga
+315,SV Werder Bremen,Forward,Fin Bartels,"Feb 7, 1987 (32)",Germany,30.06.2020,£1.35m,Bundesliga
+316,SV Werder Bremen,Forward,Niclas Füllkrug,"Feb 9, 1993 (26)",Germany,30.06.2023,£7.20m,Bundesliga
+317,SV Werder Bremen,Forward,Josh Sargent,"Feb 20, 2000 (19)",United States,30.06.2022,£3.60m,Bundesliga
+318,SV Werder Bremen,Forward,Claudio Pizarro,"Oct 3, 1978 (40)",Peru,30.06.2020,£450k,Bundesliga
+319,1.FSV Mainz 05,Goalkeeper,Florian Müller,"Nov 13, 1997 (21)",Germany,30.06.2022,£9.00m,Bundesliga
+320,1.FSV Mainz 05,Goalkeeper,Robin Zentner,"Oct 28, 1994 (24)",Germany,30.06.2021,£900k,Bundesliga
+321,1.FSV Mainz 05,Goalkeeper,Omer Hanin,"May 14, 1998 (21)",Israel,30.06.2023,£270k,Bundesliga
+322,1.FSV Mainz 05,Goalkeeper,Finn Dahmen,"Mar 27, 1998 (21)",Germany,30.06.2023,£135k,Bundesliga
+323,1.FSV Mainz 05,Defender,Moussa Niakhaté,"Mar 8, 1996 (23)",France,30.06.2023,£12.60m,Bundesliga
+324,1.FSV Mainz 05,Defender,Jeremiah St. Juste,"Oct 19, 1996 (22)",Netherlands,30.06.2023,£6.75m,Bundesliga
+325,1.FSV Mainz 05,Defender,Stefan Bell,"Aug 24, 1991 (28)",Germany,30.06.2020,£3.15m,Bundesliga
+326,1.FSV Mainz 05,Defender,Alexander Hack,"Sep 8, 1993 (26)",Germany,30.06.2022,£2.25m,Bundesliga
+327,1.FSV Mainz 05,Defender,Ahmet Gürleyen,"Apr 26, 1999 (20)",Germany,30.06.2022,£360k,Bundesliga
+328,1.FSV Mainz 05,Defender,Aarón Martín,"Apr 22, 1997 (22)",Spain,30.06.2023,£18.00m,Bundesliga
+329,1.FSV Mainz 05,Defender,Jonathan Meier,"Nov 11, 1999 (19)",Germany,30.06.2022,£90k,Bundesliga
+330,1.FSV Mainz 05,Defender,Ronaël Pierre-Gabriel,"Jun 13, 1998 (21)",France,30.06.2024,£3.60m,Bundesliga
+331,1.FSV Mainz 05,Defender,Daniel Brosinski,"Jul 17, 1988 (31)",Germany,30.06.2020,£2.25m,Bundesliga
+332,1.FSV Mainz 05,Defender,Phillipp Mwene,"Jan 29, 1994 (25)",Austria,30.06.2021,£1.35m,Bundesliga
+333,1.FSV Mainz 05,Midfielder,Pierre Kunde Malong,"Jul 26, 1995 (24)",Cameroon,30.06.2022,£9.00m,Bundesliga
+334,1.FSV Mainz 05,Midfielder,Edimilson Fernandes,"Apr 15, 1996 (23)",Switzerland,30.06.2023,£7.20m,Bundesliga
+335,1.FSV Mainz 05,Midfielder,Danny Latza,"Dec 7, 1989 (29)",Germany,30.06.2021,£3.60m,Bundesliga
+336,1.FSV Mainz 05,Midfielder,Ridle Baku,"Apr 8, 1998 (21)",Germany,30.06.2022,£3.15m,Bundesliga
+337,1.FSV Mainz 05,Midfielder,Leandro Barreiro Martins,"Jan 3, 2000 (19)",Luxembourg,30.06.2022,£450k,Bundesliga
+338,1.FSV Mainz 05,Midfielder,Levin Öztunali,"Mar 15, 1996 (23)",Germany,30.06.2021,£3.15m,Bundesliga
+339,1.FSV Mainz 05,Midfielder,Jean-Paul Boëtius,"Mar 22, 1994 (25)",Netherlands,30.06.2022,£5.40m,Bundesliga
+340,1.FSV Mainz 05,Midfielder,Alexandru Maxim,"Jul 8, 1990 (29)",Romania,30.06.2021,£1.80m,Bundesliga
+341,1.FSV Mainz 05,Forward,Karim Onisiwo,"Mar 17, 1992 (27)",Austria,30.06.2022,£3.15m,Bundesliga
+342,1.FSV Mainz 05,Forward,Robin Quaison,"Oct 9, 1993 (25)",Sweden,30.06.2021,£7.20m,Bundesliga
+343,1.FSV Mainz 05,Forward,Jean-Philippe Mateta,"Jun 28, 1997 (22)",France,30.06.2023,£19.80m,Bundesliga
+344,1.FSV Mainz 05,Forward,Taiwo Awoniyi,"Aug 12, 1997 (22)",Nigeria,30.06.2020,£4.05m,Bundesliga
+345,1.FSV Mainz 05,Forward,Ádám Szalai,"Dec 9, 1987 (31)",Hungary,30.06.2021,£2.70m,Bundesliga
+346,1.FSV Mainz 05,Forward,Dong-won Ji,"May 28, 1991 (28)","Korea, South",30.06.2022,£1.58m,Bundesliga
+347,1.FSV Mainz 05,Forward,Jonathan Burkardt,"Jul 11, 2000 (19)",Germany,30.06.2022,£1.58m,Bundesliga
+348,1.FSV Mainz 05,Forward,Cyrill Akono,"Feb 29, 2000 (19)",Germany,30.06.2023,£450k,Bundesliga
+349,1.FSV Mainz 05,Forward,Aaron Seydel,"Feb 7, 1996 (23)",Germany,30.06.2021,£360k,Bundesliga
+350,FC Augsburg,Goalkeeper,Tomas Koubek,"Aug 26, 1992 (27)",Czech Republic,30.06.2024,£5.40m,Bundesliga
+351,FC Augsburg,Goalkeeper,Andreas Luthe,"Mar 10, 1987 (32)",Germany,30.06.2022,£630k,Bundesliga
+352,FC Augsburg,Goalkeeper,Fabian Giefer,"May 17, 1990 (29)",Germany,30.06.2021,£270k,Bundesliga
+353,FC Augsburg,Goalkeeper,Benjamin Leneis,"Mar 8, 1999 (20)",Germany,30.06.2023,£270k,Bundesliga
+354,FC Augsburg,Defender,Jeffrey Gouweleeuw,"Jul 10, 1991 (28)",Netherlands,30.06.2024,£10.80m,Bundesliga
+355,FC Augsburg,Defender,Tin Jedvaj,"Nov 28, 1995 (23)",Croatia,30.06.2020,£6.75m,Bundesliga
+356,FC Augsburg,Defender,Reece Oxford,"Dec 16, 1998 (20)",England,30.06.2023,£3.60m,Bundesliga
+357,FC Augsburg,Defender,Felix Uduokhai,"Sep 9, 1997 (22)",Germany,30.06.2020,£3.15m,Bundesliga
+358,FC Augsburg,Defender,Marek Suchy,"Mar 29, 1988 (31)",Czech Republic,30.06.2021,£2.03m,Bundesliga
+359,FC Augsburg,Defender,Jozo Stanic,"Apr 6, 1999 (20)",Croatia,30.06.2022,£180k,Bundesliga
+360,FC Augsburg,Defender,Philipp Max,"Sep 30, 1993 (25)",Germany,30.06.2022,£15.30m,Bundesliga
+361,FC Augsburg,Defender,Iago,"Mar 23, 1997 (22)",Brazil,30.06.2024,£1.80m,Bundesliga
+362,FC Augsburg,Defender,Mads Pedersen,"Sep 1, 1996 (23)",Denmark,30.06.2024,£810k,Bundesliga
+363,FC Augsburg,Defender,Stephan Lichtsteiner,"Jan 16, 1984 (35)",Switzerland,30.06.2020,£1.35m,Bundesliga
+364,FC Augsburg,Defender,Raphael Framberger,"Sep 6, 1995 (24)",Germany,30.06.2024,£900k,Bundesliga
+365,FC Augsburg,Defender,Simon Asta,"Jan 25, 2001 (18)",Germany,30.06.2020,£225k,Bundesliga
+366,FC Augsburg,Midfielder,Rani Khedira,"Jan 27, 1994 (25)",Germany,30.06.2021,£9.00m,Bundesliga
+367,FC Augsburg,Midfielder,Carlos Gruezo,"Apr 19, 1995 (24)",Ecuador,30.06.2024,£1.80m,Bundesliga
+368,FC Augsburg,Midfielder,Felix Götze,"Feb 11, 1998 (21)",Germany,30.06.2022,£900k,Bundesliga
+369,FC Augsburg,Midfielder,Daniel Baier,"May 18, 1984 (35)",Germany,30.06.2020,£720k,Bundesliga
+370,FC Augsburg,Midfielder,Jan Morávek,"Nov 1, 1989 (29)",Czech Republic,30.06.2022,£675k,Bundesliga
+371,FC Augsburg,Midfielder,Georg Teigl,"Feb 9, 1991 (28)",Austria,30.06.2022,£630k,Bundesliga
+372,FC Augsburg,Midfielder,Fredrik Jensen,"Sep 9, 1997 (22)",Finland,30.06.2023,£2.25m,Bundesliga
+373,FC Augsburg,Forward,Marco Richter,"Nov 24, 1997 (21)",Germany,30.06.2023,£6.30m,Bundesliga
+374,FC Augsburg,Forward,Ruben Vargas,"Aug 5, 1998 (21)",Switzerland,30.06.2024,£3.60m,Bundesliga
+375,FC Augsburg,Forward,Caiuby,"Jul 14, 1988 (31)",Brazil,30.06.2020,£1.35m,Bundesliga
+376,FC Augsburg,Forward,André Hahn,"Aug 13, 1990 (29)",Germany,30.06.2022,£3.15m,Bundesliga
+377,FC Augsburg,Forward,Noah Sarenren Bazee,"Aug 21, 1996 (23)",Nigeria,30.06.2024,£1.13m,Bundesliga
+378,FC Augsburg,Forward,Michael Gregoritsch,"Apr 18, 1994 (25)",Austria,30.06.2022,£10.80m,Bundesliga
+379,FC Augsburg,Forward,Alfred Finnbogason,"Feb 1, 1989 (30)",Iceland,30.06.2022,£13.50m,Bundesliga
+380,FC Augsburg,Forward,Florian Niederlechner,"Oct 24, 1990 (28)",Germany,30.06.2022,£3.15m,Bundesliga
+381,FC Augsburg,Forward,Sergio Córdova,"Aug 9, 1997 (22)",Venezuela,30.06.2022,£1.80m,Bundesliga
+382,FC Augsburg,Forward,Julian Schieber,"Feb 13, 1989 (30)",Germany,30.06.2021,£675k,Bundesliga
+383,FC Augsburg,Forward,Maurice Malone,"Aug 17, 2000 (19)",Germany,30.06.2020,£315k,Bundesliga
+384,FC Augsburg,Forward,Seong-hoon Cheon,"Sep 21, 2000 (18)","Korea, South",30.06.2023,£225k,Bundesliga
+385,SC Freiburg,Goalkeeper,Alexander Schwolow,"Jun 2, 1992 (27)",Germany,-,£8.10m,Bundesliga
+386,SC Freiburg,Goalkeeper,Mark Flekken,"Jun 13, 1993 (26)",Netherlands,30.06.2022,£540k,Bundesliga
+387,SC Freiburg,Goalkeeper,Niclas Thiede,"Apr 14, 1999 (20)",Germany,-,£45k,Bundesliga
+388,SC Freiburg,Defender,Robin Koch,"Jul 17, 1996 (23)",Germany,30.06.2021,£9.00m,Bundesliga
+389,SC Freiburg,Defender,Dominique Heintz,"Aug 15, 1993 (26)",Germany,30.06.2022,£6.75m,Bundesliga
+390,SC Freiburg,Defender,Philipp Lienhart,"Jul 11, 1996 (23)",Austria,30.06.2022,£3.60m,Bundesliga
+391,SC Freiburg,Defender,Manuel Gulde,"Feb 12, 1991 (28)",Germany,30.06.2022,£3.60m,Bundesliga
+392,SC Freiburg,Defender,Nico Schlotterbeck,"Dec 1, 1999 (19)",Germany,30.06.2022,£270k,Bundesliga
+393,SC Freiburg,Defender,Christian Günter,"Feb 28, 1993 (26)",Germany,30.06.2022,£8.10m,Bundesliga
+394,SC Freiburg,Defender,Luca Itter,"Jan 5, 1999 (20)",Germany,-,£1.80m,Bundesliga
+395,SC Freiburg,Defender,Jonathan Schmid,"Jun 22, 1990 (29)",France,-,£4.50m,Bundesliga
+396,SC Freiburg,Defender,Lukas Kübler,"Aug 30, 1992 (27)",Germany,30.06.2020,£2.25m,Bundesliga
+397,SC Freiburg,Midfielder,Nicolas Höfler,"Mar 9, 1990 (29)",Germany,30.06.2021,£3.60m,Bundesliga
+398,SC Freiburg,Midfielder,Amir Abrashi,"Mar 27, 1990 (29)",Albania,30.06.2020,£2.25m,Bundesliga
+399,SC Freiburg,Midfielder,Janik Haberer,"Apr 2, 1994 (25)",Germany,30.06.2020,£9.00m,Bundesliga
+400,SC Freiburg,Midfielder,Jérôme Gondorf,"Jun 26, 1988 (31)",Germany,30.06.2021,£1.35m,Bundesliga
+401,SC Freiburg,Midfielder,Mike Frantz,"Oct 14, 1986 (32)",Germany,30.06.2020,£900k,Bundesliga
+402,SC Freiburg,Midfielder,Lino Tempelmann,"Feb 2, 1999 (20)",Germany,30.06.2020,£23k,Bundesliga
+403,SC Freiburg,Forward,Vincenzo Grifo,"Apr 7, 1993 (26)",Italy,-,£8.10m,Bundesliga
+404,SC Freiburg,Forward,Roland Sallai,"May 22, 1997 (22)",Hungary,30.06.2022,£4.05m,Bundesliga
+405,SC Freiburg,Forward,Marco Terrazzino,"Apr 15, 1991 (28)",Germany,30.06.2020,£1.35m,Bundesliga
+406,SC Freiburg,Forward,Florian Kath,"Oct 21, 1994 (24)",Germany,30.06.2020,£450k,Bundesliga
+407,SC Freiburg,Forward,Chang-hun Kwon,"Jun 30, 1994 (25)","Korea, South",-,£4.95m,Bundesliga
+408,SC Freiburg,Forward,Woo-yeong Jeong,"Sep 20, 1999 (19)","Korea, South",-,£1.80m,Bundesliga
+409,SC Freiburg,Forward,Yoric Ravet,"Sep 12, 1989 (30)",France,30.06.2021,£1.13m,Bundesliga
+410,SC Freiburg,Forward,Brandon Borrello,"Jul 25, 1995 (24)",Australia,30.06.2022,£720k,Bundesliga
+411,SC Freiburg,Forward,Luca Waldschmidt,"May 19, 1996 (23)",Germany,30.06.2022,£10.80m,Bundesliga
+412,SC Freiburg,Forward,Nils Petersen,"Dec 6, 1988 (30)",Germany,30.06.2021,£7.20m,Bundesliga
+413,SC Freiburg,Forward,Lucas Höler,"Jul 10, 1994 (25)",Germany,30.06.2022,£2.70m,Bundesliga
+414,1. FC Köln,Goalkeeper,Timo Horn,"May 12, 1993 (26)",Germany,30.06.2023,£5.40m,Bundesliga
+415,1. FC Köln,Goalkeeper,Thomas Kessler,"Jan 20, 1986 (33)",Germany,30.06.2020,£225k,Bundesliga
+416,1. FC Köln,Goalkeeper,Julian Krahl,"Jan 22, 2000 (19)",Germany,30.06.2022,£180k,Bundesliga
+417,1. FC Köln,Goalkeeper,Brady Scott,"Jun 30, 1999 (20)",United States,30.06.2021,£90k,Bundesliga
+418,1. FC Köln,Defender,Jorge Meré,"Apr 17, 1997 (22)",Spain,30.06.2023,£9.00m,Bundesliga
+419,1. FC Köln,Defender,Sebastiaan Bornauw,"Mar 22, 1999 (20)",Belgium,30.06.2024,£3.60m,Bundesliga
+420,1. FC Köln,Defender,Lasse Sobiech,"Jan 18, 1991 (28)",Germany,30.06.2022,£1.80m,Bundesliga
+421,1. FC Köln,Defender,Rafael Czichos,"May 14, 1990 (29)",Germany,30.06.2022,£1.80m,Bundesliga
+422,1. FC Köln,Defender,Jonas Hector,"May 27, 1990 (29)",Germany,30.06.2023,£9.00m,Bundesliga
+423,1. FC Köln,Defender,Noah Katterbach,"Apr 13, 2001 (18)",Germany,30.06.2020,£90k,Bundesliga
+424,1. FC Köln,Defender,Kingsley Ehizibue,"May 25, 1995 (24)",Netherlands,30.06.2023,£1.80m,Bundesliga
+425,1. FC Köln,Defender,Benno Schmitz,"Nov 17, 1994 (24)",Germany,30.06.2022,£900k,Bundesliga
+426,1. FC Köln,Defender,Matthias Bader,"Jun 17, 1997 (22)",Germany,30.06.2021,£450k,Bundesliga
+427,1. FC Köln,Midfielder,Ellyes Skhiri,"May 10, 1995 (24)",Tunisia,30.06.2023,£10.80m,Bundesliga
+428,1. FC Köln,Midfielder,Birger Verstraete,"Apr 16, 1994 (25)",Belgium,30.06.2023,£3.60m,Bundesliga
+429,1. FC Köln,Midfielder,Marco Höger,"Sep 16, 1989 (29)",Germany,30.06.2021,£1.80m,Bundesliga
+430,1. FC Köln,Midfielder,Vincent Koziello,"Oct 28, 1995 (23)",France,30.06.2022,£1.80m,Bundesliga
+431,1. FC Köln,Midfielder,Niklas Hauptmann,"Jun 27, 1996 (23)",Germany,30.06.2023,£1.80m,Bundesliga
+432,1. FC Köln,Midfielder,Christian Clemens,"Aug 4, 1991 (28)",Germany,30.06.2021,£1.58m,Bundesliga
+433,1. FC Köln,Midfielder,Marcel Risse,"Dec 17, 1989 (29)",Germany,30.06.2022,£1.35m,Bundesliga
+434,1. FC Köln,Midfielder,Louis Schaub,"Dec 29, 1994 (24)",Austria,30.06.2022,£3.60m,Bundesliga
+435,1. FC Köln,Midfielder,Dominick Drexler,"May 26, 1990 (29)",Germany,30.06.2022,£3.60m,Bundesliga
+436,1. FC Köln,Forward,Florian Kainz,"Oct 24, 1992 (26)",Austria,30.06.2022,£2.70m,Bundesliga
+437,1. FC Köln,Forward,Darko Churlinov,"Jul 11, 2000 (19)",North Macedonia,30.06.2020,£360k,Bundesliga
+438,1. FC Köln,Forward,Kingsley Schindler,"Jul 12, 1993 (26)",Germany,30.06.2023,£2.70m,Bundesliga
+439,1. FC Köln,Forward,Anthony Modeste,"Apr 14, 1988 (31)",France,30.06.2023,£6.30m,Bundesliga
+440,1. FC Köln,Forward,Jhon Córdoba,"May 11, 1993 (26)",Colombia,30.06.2021,£5.85m,Bundesliga
+441,1. FC Köln,Forward,Simon Terodde,"Mar 2, 1988 (31)",Germany,30.06.2021,£3.15m,Bundesliga
+442,Fortuna Düsseldorf,Goalkeeper,Zack Steffen,"Apr 2, 1995 (24)",United States,30.06.2020,£4.50m,Bundesliga
+443,Fortuna Düsseldorf,Goalkeeper,Michael Rensing,"May 14, 1984 (35)",Germany,30.06.2020,£450k,Bundesliga
+444,Fortuna Düsseldorf,Goalkeeper,Raphael Wolf,"Jun 6, 1988 (31)",Germany,30.06.2021,£450k,Bundesliga
+445,Fortuna Düsseldorf,Goalkeeper,Florian Kastenmeier,"Jun 28, 1997 (22)",Germany,30.06.2022,£90k,Bundesliga
+446,Fortuna Düsseldorf,Goalkeeper,Tim Wiesner,"Nov 21, 1996 (22)",Germany,30.06.2020,£90k,Bundesliga
+447,Fortuna Düsseldorf,Defender,Kaan Ayhan,"Nov 10, 1994 (24)",Turkey,30.06.2022,£8.10m,Bundesliga
+448,Fortuna Düsseldorf,Defender,Kasim Adams,"Jun 22, 1995 (24)",Ghana,30.06.2020,£6.30m,Bundesliga
+449,Fortuna Düsseldorf,Defender,André Hoffmann,"Feb 28, 1993 (26)",Germany,30.06.2023,£2.25m,Bundesliga
+450,Fortuna Düsseldorf,Defender,Robin Bormuth,"Sep 19, 1995 (23)",Germany,30.06.2020,£1.58m,Bundesliga
+451,Fortuna Düsseldorf,Defender,Niko Gießelmann,"Sep 26, 1991 (27)",Germany,30.06.2020,£3.60m,Bundesliga
+452,Fortuna Düsseldorf,Defender,Markus Suttner,"Apr 16, 1987 (32)",Austria,30.06.2020,£1.35m,Bundesliga
+453,Fortuna Düsseldorf,Defender,Diego Contento,"May 1, 1990 (29)",Germany,30.06.2020,£900k,Bundesliga
+454,Fortuna Düsseldorf,Defender,Georgios Siadas,"Dec 27, 1999 (19)",Germany,30.06.2021,£180k,Bundesliga
+455,Fortuna Düsseldorf,Defender,Matthias Zimmermann,"Jun 16, 1992 (27)",Germany,30.06.2024,£4.50m,Bundesliga
+456,Fortuna Düsseldorf,Defender,Jean Zimmer,"Dec 6, 1993 (25)",Germany,30.06.2022,£2.48m,Bundesliga
+457,Fortuna Düsseldorf,Midfielder,Marcel Sobottka,"Apr 25, 1994 (25)",Germany,30.06.2022,£3.15m,Bundesliga
+458,Fortuna Düsseldorf,Midfielder,Adam Bodzek,"Sep 7, 1985 (34)",Poland,30.06.2020,£360k,Bundesliga
+459,Fortuna Düsseldorf,Midfielder,Lewis Baker,"Apr 25, 1995 (24)",England,30.06.2020,£3.60m,Bundesliga
+460,Fortuna Düsseldorf,Midfielder,Alfredo Morales,"May 12, 1990 (29)",United States,30.06.2021,£2.25m,Bundesliga
+461,Fortuna Düsseldorf,Midfielder,Oliver Fink,"Jun 6, 1982 (37)",Germany,30.06.2020,£225k,Bundesliga
+462,Fortuna Düsseldorf,Midfielder,Johannes Bühler,"Jul 26, 1997 (22)",Germany,30.06.2021,£90k,Bundesliga
+463,Fortuna Düsseldorf,Midfielder,Erik Thommy,"Aug 20, 1994 (25)",Germany,30.06.2020,£2.70m,Bundesliga
+464,Fortuna Düsseldorf,Midfielder,Kevin Stöger,"Aug 27, 1993 (26)",Austria,30.06.2020,£4.50m,Bundesliga
+465,Fortuna Düsseldorf,Midfielder,Aymen Barkok,"May 21, 1998 (21)",Germany,30.06.2020,£1.80m,Bundesliga
+466,Fortuna Düsseldorf,Midfielder,Thomas Pledl,"May 23, 1994 (25)",Germany,30.06.2021,£900k,Bundesliga
+467,Fortuna Düsseldorf,Midfielder,Kelvin Ofori,"Jul 27, 2001 (18)",Ghana,30.06.2022,£270k,Bundesliga
+468,Fortuna Düsseldorf,Forward,Kenan Karaman,"Mar 5, 1994 (25)",Turkey,30.06.2021,£2.25m,Bundesliga
+469,Fortuna Düsseldorf,Forward,Nana Ampomah,"Jan 2, 1996 (23)",Ghana,30.06.2022,£2.25m,Bundesliga
+470,Fortuna Düsseldorf,Forward,Davor Lovren,"Oct 3, 1998 (20)",Croatia,30.06.2023,£540k,Bundesliga
+471,Fortuna Düsseldorf,Forward,Bernard Tekpetey,"Sep 3, 1997 (22)",Ghana,30.06.2021,£2.25m,Bundesliga
+472,Fortuna Düsseldorf,Forward,Dawid Kownacki,"Mar 14, 1997 (22)",Poland,30.06.2020,£8.10m,Bundesliga
+473,Fortuna Düsseldorf,Forward,Rouwen Hennings,"Aug 28, 1987 (32)",Germany,30.06.2020,£1.35m,Bundesliga
+474,1.FC Union Berlin,Goalkeeper,Rafal Gikiewicz,"Oct 26, 1987 (31)",Poland,30.06.2020,£900k,Bundesliga
+475,1.FC Union Berlin,Goalkeeper,Jakob Busk,"Sep 12, 1993 (26)",Denmark,30.06.2020,£360k,Bundesliga
+476,1.FC Union Berlin,Goalkeeper,Moritz Nicolas,"Oct 21, 1997 (21)",Germany,30.06.2021,£135k,Bundesliga
+477,1.FC Union Berlin,Goalkeeper,Leo Oppermann,"Aug 28, 2001 (18)",Germany,30.06.2020,-,Bundesliga
+478,1.FC Union Berlin,Defender,Neven Subotic,"Dec 10, 1988 (30)",Germany,30.06.2021,£3.60m,Bundesliga
+479,1.FC Union Berlin,Defender,Marvin Friedrich,"Dec 13, 1995 (23)",Germany,30.06.2022,£2.70m,Bundesliga
+480,1.FC Union Berlin,Defender,Florian Hübner,"Mar 1, 1991 (28)",Germany,30.06.2020,£1.58m,Bundesliga
+481,1.FC Union Berlin,Defender,Keven Schlotterbeck,"Apr 28, 1997 (22)",Germany,30.06.2020,£900k,Bundesliga
+482,1.FC Union Berlin,Defender,Nicolai Rapp,"Dec 13, 1996 (22)",Germany,30.06.2022,£810k,Bundesliga
+483,1.FC Union Berlin,Defender,Michael Parensen,"Jun 24, 1986 (33)",Germany,30.06.2020,£225k,Bundesliga
+484,1.FC Union Berlin,Defender,Lennard Maloney,"Oct 8, 1999 (19)",United States,30.06.2021,£135k,Bundesliga
+485,1.FC Union Berlin,Defender,Ken Reichel,"Dec 19, 1986 (32)",Germany,30.06.2020,£540k,Bundesliga
+486,1.FC Union Berlin,Defender,Christopher Lenz,"Sep 22, 1994 (24)",Germany,30.06.2021,£450k,Bundesliga
+487,1.FC Union Berlin,Defender,Christopher Trimmel,"Feb 24, 1987 (32)",Austria,30.06.2020,£540k,Bundesliga
+488,1.FC Union Berlin,Defender,Julian Ryerson,"Nov 17, 1997 (21)",Norway,30.06.2021,£450k,Bundesliga
+489,1.FC Union Berlin,Midfielder,Manuel Schmiedebach,"Dec 5, 1988 (30)",Germany,30.06.2021,£900k,Bundesliga
+490,1.FC Union Berlin,Midfielder,Maurice Opfermann Arcones,"Jun 16, 2000 (19)",Germany,30.06.2021,£135k,Bundesliga
+491,1.FC Union Berlin,Midfielder,Grischa Prömel,"Jan 9, 1995 (24)",Germany,30.06.2020,£1.80m,Bundesliga
+492,1.FC Union Berlin,Midfielder,Christian Gentner,"Aug 14, 1985 (34)",Germany,30.06.2020,£1.35m,Bundesliga
+493,1.FC Union Berlin,Midfielder,Felix Kroos,"Mar 12, 1991 (28)",Germany,30.06.2020,£720k,Bundesliga
+494,1.FC Union Berlin,Midfielder,Robert Andrich,"Sep 22, 1994 (24)",Germany,30.06.2022,£540k,Bundesliga
+495,1.FC Union Berlin,Midfielder,Julius Kade,"May 20, 1999 (20)",Germany,30.06.2021,£360k,Bundesliga
+496,1.FC Union Berlin,Midfielder,Laurenz Dehl,"Dec 12, 2001 (17)",Germany,30.06.2021,£135k,Bundesliga
+497,1.FC Union Berlin,Forward,Joshua Mees,"Apr 15, 1996 (23)",Germany,30.06.2021,£900k,Bundesliga
+498,1.FC Union Berlin,Forward,Marius Bülter,"Mar 29, 1993 (26)",Germany,30.06.2020,£360k,Bundesliga
+499,1.FC Union Berlin,Forward,Suleiman Abdullahi,"Dec 10, 1996 (22)",Nigeria,30.06.2022,£1.80m,Bundesliga
+500,1.FC Union Berlin,Forward,Akaki Gogia,"Jan 18, 1992 (27)",Germany,30.06.2021,£1.13m,Bundesliga
+501,1.FC Union Berlin,Forward,Sheraldo Becker,"Feb 9, 1995 (24)",Netherlands,30.06.2023,£1.13m,Bundesliga
+502,1.FC Union Berlin,Forward,Florian Flecker,"Oct 29, 1995 (23)",Austria,30.06.2021,£810k,Bundesliga
+503,1.FC Union Berlin,Forward,Sebastian Polter,"Apr 1, 1991 (28)",Germany,30.06.2020,£2.03m,Bundesliga
+504,1.FC Union Berlin,Forward,Sebastian Andersson,"Jul 15, 1991 (28)",Sweden,30.06.2020,£1.80m,Bundesliga
+505,1.FC Union Berlin,Forward,Anthony Ujah,"Oct 14, 1990 (28)",Nigeria,30.06.2022,£1.35m,Bundesliga
+506,1.FC Union Berlin,Forward,Marcus Ingvartsen,"Jan 4, 1996 (23)",Denmark,30.06.2022,£1.35m,Bundesliga
+507,SC Paderborn 07,Goalkeeper,Leopold Zingerle,"Apr 10, 1994 (25)",Germany,30.06.2021,£900k,Bundesliga
+508,SC Paderborn 07,Goalkeeper,Jannik Huth,"Apr 15, 1994 (25)",Germany,30.06.2022,£270k,Bundesliga
+509,SC Paderborn 07,Goalkeeper,Michael Ratajczak,"Apr 16, 1982 (37)",Germany,30.06.2020,£90k,Bundesliga
+510,SC Paderborn 07,Goalkeeper,Leon Brüggemeier,"Aug 23, 1997 (22)",Germany,30.06.2020,£90k,Bundesliga
+511,SC Paderborn 07,Defender,Sebastian Schonlau,"Aug 5, 1994 (25)",Germany,30.06.2021,£1.35m,Bundesliga
+512,SC Paderborn 07,Defender,Christian Strohdiek,"Jan 22, 1988 (31)",Germany,30.06.2021,£540k,Bundesliga
+513,SC Paderborn 07,Defender,Uwe Hünemeier,"Jan 9, 1986 (33)",Germany,30.06.2020,£360k,Bundesliga
+514,SC Paderborn 07,Defender,Luca Kilian,"Sep 1, 1999 (20)",Germany,30.06.2021,£180k,Bundesliga
+515,SC Paderborn 07,Defender,Jan-Luca Rumpf,"Jul 8, 1999 (20)",Germany,30.06.2021,£135k,Bundesliga
+516,SC Paderborn 07,Defender,Jamilu Collins,"Aug 5, 1994 (25)",Nigeria,30.06.2021,£1.35m,Bundesliga
+517,SC Paderborn 07,Defender,Mohamed Dräger,"Jun 25, 1996 (23)",Tunisia,30.06.2020,£1.80m,Bundesliga
+518,SC Paderborn 07,Defender,Laurent Jans,"Aug 5, 1992 (27)",Luxembourg,30.06.2020,£630k,Bundesliga
+519,SC Paderborn 07,Midfielder,Klaus Gjasula,"Dec 14, 1989 (29)",Albania,30.06.2020,£675k,Bundesliga
+520,SC Paderborn 07,Midfielder,Dominik Bilogrevic,"Jan 2, 1999 (20)",Croatia,30.06.2021,-,Bundesliga
+521,SC Paderborn 07,Midfielder,Sebastian Vasiliadis,"Oct 4, 1997 (21)",Germany,30.06.2021,£3.15m,Bundesliga
+522,SC Paderborn 07,Midfielder,Rifet Kapic,"Jul 3, 1995 (24)",Bosnia-Herzegovina,30.06.2022,£585k,Bundesliga
+523,SC Paderborn 07,Midfielder,Cauly,"Sep 15, 1995 (24)",Brazil,30.06.2021,£900k,Bundesliga
+524,SC Paderborn 07,Midfielder,Christopher Antwi-Adjei,"Feb 7, 1994 (25)",Germany,30.06.2021,£1.35m,Bundesliga
+525,SC Paderborn 07,Midfielder,Abdelhamid Sabiri,"Nov 28, 1996 (22)",Germany,30.06.2021,£1.35m,Bundesliga
+526,SC Paderborn 07,Midfielder,Marlon Ritter,"Oct 15, 1994 (24)",Germany,30.06.2021,£450k,Bundesliga
+527,SC Paderborn 07,Forward,Gerrit Holtmann,"Mar 25, 1995 (24)",Germany,30.06.2020,£1.35m,Bundesliga
+528,SC Paderborn 07,Forward,Kai Pröger,"May 15, 1992 (27)",Germany,30.06.2022,£720k,Bundesliga
+529,SC Paderborn 07,Forward,Marcel Hilßner,"Jan 30, 1995 (24)",Germany,30.06.2021,£360k,Bundesliga
+530,SC Paderborn 07,Forward,Johannes Dörfler,"Aug 23, 1996 (23)",Germany,30.06.2021,£225k,Bundesliga
+531,SC Paderborn 07,Forward,Sven Michel,"Jul 15, 1990 (29)",Germany,30.06.2021,£1.13m,Bundesliga
+532,SC Paderborn 07,Forward,Babacar Gueye,"Dec 31, 1994 (24)",Senegal,30.06.2020,£675k,Bundesliga
+533,SC Paderborn 07,Forward,Ben Zolinski,"May 3, 1992 (27)",Germany,30.06.2020,£675k,Bundesliga
+534,SC Paderborn 07,Forward,Streli Mamba,"Jun 17, 1994 (25)",Germany,30.06.2022,£495k,Bundesliga
+535,SC Paderborn 07,Forward,Khiry Shelton,"Jun 26, 1993 (26)",United States,30.06.2021,£450k,Bundesliga

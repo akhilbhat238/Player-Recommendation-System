@@ -1,0 +1,546 @@
+,Club,Position,Player_Name,DOB,Nation,Contract_Expiry,Value,League
+0,Paris Saint-Germain,Goalkeeper,Sergio Rico,"Sep 1, 1993 (26)",Spain,30.06.2020,£10.80m,Ligue 1
+1,Paris Saint-Germain,Goalkeeper,Keylor Navas,"Dec 15, 1986 (32)",Costa Rica,30.06.2023,£9.00m,Ligue 1
+2,Paris Saint-Germain,Goalkeeper,Marcin Bulka,"Oct 4, 1999 (19)",Poland,30.06.2021,-,Ligue 1
+3,Paris Saint-Germain,Goalkeeper,Garissone Innocent,"Apr 16, 2000 (19)",France,30.06.2021,-,Ligue 1
+4,Paris Saint-Germain,Defender,Marquinhos,"May 14, 1994 (25)",Brazil,30.06.2022,£58.50m,Ligue 1
+5,Paris Saint-Germain,Defender,Thilo Kehrer,"Sep 21, 1996 (22)",Germany,30.06.2023,£31.50m,Ligue 1
+6,Paris Saint-Germain,Defender,Abdou Diallo,"May 4, 1996 (23)",France,30.06.2024,£31.50m,Ligue 1
+7,Paris Saint-Germain,Defender,Presnel Kimpembe,"Aug 13, 1995 (24)",France,30.06.2023,£27.00m,Ligue 1
+8,Paris Saint-Germain,Defender,Thiago Silva,"Sep 22, 1984 (34)",Brazil,30.06.2020,£9.00m,Ligue 1
+9,Paris Saint-Germain,Defender,Loïc Mbe Soh,"Jun 13, 2001 (18)",France,30.06.2021,£2.70m,Ligue 1
+10,Paris Saint-Germain,Defender,Layvin Kurzawa,"Sep 4, 1992 (27)",France,30.06.2020,£15.75m,Ligue 1
+11,Paris Saint-Germain,Defender,Juan Bernat,"Mar 1, 1993 (26)",Spain,30.06.2021,£13.50m,Ligue 1
+12,Paris Saint-Germain,Defender,Mitchel Bakker,"Jun 20, 2000 (19)",Netherlands,30.06.2023,£450k,Ligue 1
+13,Paris Saint-Germain,Defender,Thomas Meunier,"Sep 12, 1991 (28)",Belgium,30.06.2020,£27.00m,Ligue 1
+14,Paris Saint-Germain,Defender,Colin Dagba,"Sep 6, 1998 (21)",France,30.06.2023,£10.80m,Ligue 1
+15,Paris Saint-Germain,Midfielder,Leandro Paredes,"Jun 29, 1994 (25)",Argentina,30.06.2023,£31.50m,Ligue 1
+16,Paris Saint-Germain,Midfielder,Idrissa Gueye,"Sep 26, 1989 (29)",Senegal,30.06.2023,£22.50m,Ligue 1
+17,Paris Saint-Germain,Midfielder,Tanguy Kouassi,"Jun 7, 2002 (17)",France,-,-,Ligue 1
+18,Paris Saint-Germain,Midfielder,Marco Verratti,"Nov 5, 1992 (26)",Italy,30.06.2021,£67.50m,Ligue 1
+19,Paris Saint-Germain,Midfielder,Julian Draxler,"Sep 20, 1993 (25)",Germany,30.06.2021,£31.50m,Ligue 1
+20,Paris Saint-Germain,Midfielder,Ander Herrera,"Aug 14, 1989 (30)",Spain,30.06.2024,£22.50m,Ligue 1
+21,Paris Saint-Germain,Midfielder,Pablo Sarabia,"May 11, 1992 (27)",Spain,30.06.2024,£36.00m,Ligue 1
+22,Paris Saint-Germain,Midfielder,Adil Aouchiche,"Jul 15, 2002 (17)",France,30.06.2022,-,Ligue 1
+23,Paris Saint-Germain,Forward,Neymar,"Feb 5, 1992 (27)",Brazil,30.06.2022,£162.00m,Ligue 1
+24,Paris Saint-Germain,Forward,Eric Maxim Choupo-Moting,"Mar 23, 1989 (30)",Cameroon,30.06.2020,£4.50m,Ligue 1
+25,Paris Saint-Germain,Forward,Ángel Di María,"Feb 14, 1988 (31)",Argentina,30.06.2021,£36.00m,Ligue 1
+26,Paris Saint-Germain,Forward,Kylian Mbappé,"Dec 20, 1998 (20)",France,30.06.2022,£180.00m,Ligue 1
+27,Paris Saint-Germain,Forward,Mauro Icardi,"Feb 19, 1993 (26)",Argentina,30.06.2020,£72.00m,Ligue 1
+28,Paris Saint-Germain,Forward,Edinson Cavani,"Feb 14, 1987 (32)",Uruguay,30.06.2020,£36.00m,Ligue 1
+29,AS Monaco,Goalkeeper,Benjamin Lecomte,"Apr 26, 1991 (28)",France,30.06.2024,£15.30m,Ligue 1
+30,AS Monaco,Goalkeeper,Danijel Subasic,"Oct 27, 1984 (34)",Croatia,30.06.2020,£1.80m,Ligue 1
+31,AS Monaco,Goalkeeper,Seydou Sy,"Dec 12, 1995 (23)",Senegal,30.06.2020,£675k,Ligue 1
+32,AS Monaco,Goalkeeper,Diego Benaglio,"Sep 8, 1983 (36)",Switzerland,30.06.2020,£450k,Ligue 1
+33,AS Monaco,Defender,Guillermo Maripán,"May 6, 1994 (25)",Chile,30.06.2024,£13.50m,Ligue 1
+34,AS Monaco,Defender,Jemerson,"Aug 24, 1992 (27)",Brazil,30.06.2020,£9.00m,Ligue 1
+35,AS Monaco,Defender,Benoît Badiashile,"Mar 26, 2001 (18)",France,30.06.2021,£8.10m,Ligue 1
+36,AS Monaco,Defender,Kamil Glik,"Feb 3, 1988 (31)",Poland,30.06.2021,£7.20m,Ligue 1
+37,AS Monaco,Defender,Naldo,"Sep 10, 1982 (37)",Brazil,30.06.2020,£450k,Ligue 1
+38,AS Monaco,Defender,Fodé Ballo-Touré,"Jan 3, 1997 (22)",France,30.06.2023,£10.80m,Ligue 1
+39,AS Monaco,Defender,Arthur Zagre,"Oct 4, 2001 (17)",France,30.06.2022,-,Ligue 1
+40,AS Monaco,Defender,Benjamin Henrichs,"Feb 23, 1997 (22)",Germany,30.06.2023,£13.50m,Ligue 1
+41,AS Monaco,Defender,Ruben Aguilar,"Apr 26, 1993 (26)",France,30.06.2024,£7.20m,Ligue 1
+42,AS Monaco,Midfielder,Tiemoué Bakayoko,"Aug 17, 1994 (25)",France,30.06.2020,£31.50m,Ligue 1
+43,AS Monaco,Midfielder,Cesc Fàbregas,"May 4, 1987 (32)",Spain,30.06.2022,£13.50m,Ligue 1
+44,AS Monaco,Midfielder,Adrien Silva,"Mar 15, 1989 (30)",Portugal,30.06.2020,£11.70m,Ligue 1
+45,AS Monaco,Midfielder,Enzo Millot,"Jul 17, 2002 (17)",France,30.06.2022,-,Ligue 1
+46,AS Monaco,Midfielder,Aleksandr Golovin,"May 30, 1996 (23)",Russia,30.06.2023,£22.50m,Ligue 1
+47,AS Monaco,Midfielder,Gabriel Boschilia,"Mar 5, 1996 (23)",Brazil,30.06.2021,£6.75m,Ligue 1
+48,AS Monaco,Forward,Keita Baldé,"Mar 8, 1995 (24)",Senegal,30.06.2022,£22.50m,Ligue 1
+49,AS Monaco,Forward,Henry Onyekuru,"Jun 5, 1997 (22)",Nigeria,30.06.2024,£11.70m,Ligue 1
+50,AS Monaco,Forward,Willem Geubbels,"Aug 16, 2001 (18)",France,30.06.2023,£9.00m,Ligue 1
+51,AS Monaco,Forward,Gelson Martins,"May 11, 1995 (24)",Portugal,30.06.2024,£25.20m,Ligue 1
+52,AS Monaco,Forward,Gil Dias,"Sep 28, 1996 (22)",Portugal,30.06.2022,£2.25m,Ligue 1
+53,AS Monaco,Forward,Wissam Ben Yedder,"Aug 12, 1990 (29)",France,30.06.2024,£36.00m,Ligue 1
+54,AS Monaco,Forward,Jean-Kévin Augustin,"Jun 16, 1997 (22)",France,30.06.2020,£14.40m,Ligue 1
+55,AS Monaco,Forward,Stevan Jovetic,"Nov 2, 1989 (29)",Montenegro,30.06.2021,£9.00m,Ligue 1
+56,AS Monaco,Forward,Pietro Pellegri,"Mar 17, 2001 (18)",Italy,30.06.2022,£6.30m,Ligue 1
+57,AS Monaco,Forward,Islam Slimani,"Jun 18, 1988 (31)",Algeria,30.06.2020,£4.50m,Ligue 1
+58,AS Monaco,Forward,Moussa Sylla,"Nov 25, 1999 (19)",France,30.06.2020,£3.60m,Ligue 1
+59,Olympique Lyon,Goalkeeper,Anthony Lopes,"Oct 1, 1990 (28)",Portugal,30.06.2022,£22.50m,Ligue 1
+60,Olympique Lyon,Goalkeeper,Ciprian Tatarusanu,"Feb 9, 1986 (33)",Romania,30.06.2022,£2.25m,Ligue 1
+61,Olympique Lyon,Goalkeeper,Anthony Racioppi,"Dec 31, 1998 (20)",Switzerland,30.06.2021,£450k,Ligue 1
+62,Olympique Lyon,Defender,Joachim Andersen,"May 31, 1996 (23)",Denmark,30.06.2024,£22.50m,Ligue 1
+63,Olympique Lyon,Defender,Jason Denayer,"Jun 28, 1995 (24)",Belgium,30.06.2022,£11.25m,Ligue 1
+64,Olympique Lyon,Defender,Marcelo,"May 20, 1987 (32)",Brazil,30.06.2021,£6.30m,Ligue 1
+65,Olympique Lyon,Defender,Mapou Yanga-Mbiwa,"May 15, 1989 (30)",France,30.06.2020,£1.80m,Ligue 1
+66,Olympique Lyon,Defender,Oumar Solet,"Feb 7, 2000 (19)",France,30.06.2022,£900k,Ligue 1
+67,Olympique Lyon,Defender,Marçal,"Feb 19, 1989 (30)",Brazil,30.06.2021,£4.50m,Ligue 1
+68,Olympique Lyon,Defender,Youssouf Koné,"Jul 5, 1995 (24)",Mali,30.06.2024,£4.50m,Ligue 1
+69,Olympique Lyon,Defender,Léo Dubois,"Sep 14, 1994 (25)",France,30.06.2024,£12.15m,Ligue 1
+70,Olympique Lyon,Defender,Rafael,"Jul 9, 1990 (29)",Brazil,30.06.2021,£8.10m,Ligue 1
+71,Olympique Lyon,Defender,Kenny Tete,"Oct 9, 1995 (23)",Netherlands,30.06.2021,£7.20m,Ligue 1
+72,Olympique Lyon,Midfielder,Thiago Mendes,"Mar 15, 1992 (27)",Brazil,30.06.2023,£22.50m,Ligue 1
+73,Olympique Lyon,Midfielder,Lucas Tousart,"Apr 29, 1997 (22)",France,30.06.2023,£18.00m,Ligue 1
+74,Olympique Lyon,Midfielder,Houssem Aouar,"Jun 30, 1998 (21)",France,30.06.2023,£40.50m,Ligue 1
+75,Olympique Lyon,Midfielder,Jeff Reine-Adélaïde,"Jan 17, 1998 (21)",France,30.06.2024,£9.90m,Ligue 1
+76,Olympique Lyon,Midfielder,Jean Lucas,"Jun 22, 1998 (21)",Brazil,30.06.2024,£900k,Ligue 1
+77,Olympique Lyon,Midfielder,Maxence Caqueret,"Feb 15, 2000 (19)",France,30.06.2023,£450k,Ligue 1
+78,Olympique Lyon,Midfielder,Titouan Thomas,"Jan 12, 2002 (17)",France,30.06.2022,£135k,Ligue 1
+79,Olympique Lyon,Forward,Memphis Depay,"Feb 13, 1994 (25)",Netherlands,30.06.2021,£40.50m,Ligue 1
+80,Olympique Lyon,Forward,Martin Terrier,"Mar 4, 1997 (22)",France,30.06.2022,£13.50m,Ligue 1
+81,Olympique Lyon,Forward,Boubacar Fofana,"Sep 7, 1998 (21)",France,30.06.2023,£180k,Ligue 1
+82,Olympique Lyon,Forward,Bertrand Traoré,"Sep 6, 1995 (24)",Burkina Faso,30.06.2022,£13.50m,Ligue 1
+83,Olympique Lyon,Forward,Maxwel Cornet,"Sep 27, 1996 (22)",Cote d'Ivoire,30.06.2021,£13.50m,Ligue 1
+84,Olympique Lyon,Forward,Moussa Dembélé,"Jul 12, 1996 (23)",France,30.06.2023,£24.30m,Ligue 1
+85,Olympique Lyon,Forward,Amine Gouiri,"Feb 16, 2000 (19)",France,30.06.2022,£4.05m,Ligue 1
+86,Olympique Marseille,Goalkeeper,Steve Mandanda,"Mar 28, 1985 (34)",France,30.06.2021,£2.25m,Ligue 1
+87,Olympique Marseille,Goalkeeper,Yohann Pelé,"Nov 4, 1982 (36)",France,30.06.2020,£450k,Ligue 1
+88,Olympique Marseille,Goalkeeper,Ahmadou Dia,"Oct 13, 1999 (19)",France,30.06.2022,£135k,Ligue 1
+89,Olympique Marseille,Defender,Boubacar Kamara,"Nov 23, 1999 (19)",France,30.06.2022,£16.20m,Ligue 1
+90,Olympique Marseille,Defender,Duje Caleta-Car,"Sep 17, 1996 (22)",Croatia,30.06.2023,£13.50m,Ligue 1
+91,Olympique Marseille,Defender,Álvaro González,"Jan 8, 1990 (29)",Spain,30.06.2020,£7.20m,Ligue 1
+92,Olympique Marseille,Defender,Lucas Perrin,"Nov 19, 1998 (20)",France,30.06.2021,£270k,Ligue 1
+93,Olympique Marseille,Defender,Jordan Amavi,"Mar 9, 1994 (25)",France,30.06.2021,£7.20m,Ligue 1
+94,Olympique Marseille,Defender,Hiroki Sakai,"Apr 12, 1990 (29)",Japan,30.06.2022,£7.20m,Ligue 1
+95,Olympique Marseille,Defender,Bouna Sarr,"Jan 31, 1992 (27)",France,30.06.2022,£5.40m,Ligue 1
+96,Olympique Marseille,Defender,Abdallah Ali Mohamed,"Apr 11, 1999 (20)",Comoros,30.06.2022,£135k,Ligue 1
+97,Olympique Marseille,Midfielder,Grégory Sertic,"Aug 5, 1989 (30)",France,30.06.2020,£900k,Ligue 1
+98,Olympique Marseille,Midfielder,Alexandre Phliponeau,"Jan 26, 2000 (19)",France,30.06.2022,£225k,Ligue 1
+99,Olympique Marseille,Midfielder,Morgan Sanson,"Aug 18, 1994 (25)",France,30.06.2022,£25.20m,Ligue 1
+100,Olympique Marseille,Midfielder,Kevin Strootman,"Feb 13, 1990 (29)",Netherlands,30.06.2023,£18.00m,Ligue 1
+101,Olympique Marseille,Midfielder,Valentin Rongier,"Dec 7, 1994 (24)",France,30.06.2024,£13.50m,Ligue 1
+102,Olympique Marseille,Midfielder,Maxime López,"Dec 4, 1997 (21)",France,30.06.2021,£13.50m,Ligue 1
+103,Olympique Marseille,Midfielder,Saîf-Eddine Khaoui,"Apr 27, 1995 (24)",Tunisia,30.06.2021,£3.15m,Ligue 1
+104,Olympique Marseille,Midfielder,Florian Chabrolle,"Apr 7, 1998 (21)",France,30.06.2021,£135k,Ligue 1
+105,Olympique Marseille,Forward,Dimitri Payet,"Mar 29, 1987 (32)",France,30.06.2021,£11.25m,Ligue 1
+106,Olympique Marseille,Forward,Nemanja Radonjic,"Feb 15, 1996 (23)",Serbia,30.06.2023,£4.50m,Ligue 1
+107,Olympique Marseille,Forward,Marley Aké,"Jan 5, 2001 (18)",France,30.06.2022,£135k,Ligue 1
+108,Olympique Marseille,Forward,Florian Thauvin,"Jan 26, 1993 (26)",France,30.06.2021,£40.50m,Ligue 1
+109,Olympique Marseille,Forward,Isaac Lihadji,"Apr 10, 2002 (17)",France,30.06.2020,-,Ligue 1
+110,Olympique Marseille,Forward,Darío Benedetto,"May 17, 1990 (29)",Argentina,30.06.2023,£11.25m,Ligue 1
+111,Olympique Marseille,Forward,Valère Germain,"Apr 17, 1990 (29)",France,30.06.2021,£6.30m,Ligue 1
+112,LOSC Lille,Goalkeeper,Mike Maignan,"Jul 3, 1995 (24)",France,30.06.2022,£15.75m,Ligue 1
+113,LOSC Lille,Goalkeeper,Léo Jardim,"Mar 20, 1995 (24)",Brazil,30.06.2024,£900k,Ligue 1
+114,LOSC Lille,Defender,Adama Soumaoro,"Jun 18, 1992 (27)",France,30.06.2021,£9.00m,Ligue 1
+115,LOSC Lille,Defender,Gabriel Magalhães,"Dec 19, 1997 (21)",Brazil,30.06.2021,£3.60m,Ligue 1
+116,LOSC Lille,Defender,José Fonte,"Dec 22, 1983 (35)",Portugal,30.06.2021,£1.80m,Ligue 1
+117,LOSC Lille,Defender,Saad Agouzoul,"Aug 10, 1997 (22)",Morocco,30.06.2024,£383k,Ligue 1
+118,LOSC Lille,Defender,Tiago Djaló,"Apr 9, 2000 (19)",Portugal,30.06.2024,£158k,Ligue 1
+119,LOSC Lille,Defender,Domagoj Bradaric,"Dec 10, 1999 (19)",Croatia,30.06.2024,£900k,Ligue 1
+120,LOSC Lille,Defender,Reinildo Mandava,"Jan 21, 1994 (25)",Mozambique,30.06.2022,£540k,Ligue 1
+121,LOSC Lille,Defender,Zeki Celik,"Feb 17, 1997 (22)",Turkey,30.06.2023,£15.30m,Ligue 1
+122,LOSC Lille,Defender,Jérémy Pied,"Feb 23, 1989 (30)",France,30.06.2020,£2.25m,Ligue 1
+123,LOSC Lille,Midfielder,Boubakary Soumaré,"Feb 27, 1999 (20)",France,30.06.2020,£6.75m,Ligue 1
+124,LOSC Lille,Midfielder,Thiago Maia,"Mar 23, 1997 (22)",Brazil,30.06.2022,£3.60m,Ligue 1
+125,LOSC Lille,Midfielder,Renato Sanches,"Aug 18, 1997 (22)",Portugal,30.06.2023,£16.20m,Ligue 1
+126,LOSC Lille,Midfielder,Xeka,"Nov 10, 1994 (24)",Portugal,30.06.2022,£9.00m,Ligue 1
+127,LOSC Lille,Midfielder,Benjamin André,"Aug 3, 1990 (29)",France,30.06.2023,£9.00m,Ligue 1
+128,LOSC Lille,Midfielder,Jonathan Ikoné,"May 2, 1998 (21)",France,30.06.2023,£13.50m,Ligue 1
+129,LOSC Lille,Midfielder,Yusuf Yazici,"Jan 29, 1997 (22)",Turkey,30.06.2024,£11.70m,Ligue 1
+130,LOSC Lille,Forward,Jonathan Bamba,"Mar 26, 1996 (23)",France,30.06.2023,£15.30m,Ligue 1
+131,LOSC Lille,Forward,Luiz Araújo,"Jun 2, 1996 (23)",Brazil,30.06.2022,£6.30m,Ligue 1
+132,LOSC Lille,Forward,Victor Osimhen,"Dec 29, 1998 (20)",Nigeria,30.06.2024,£11.70m,Ligue 1
+133,LOSC Lille,Forward,Timothy Weah,"Feb 22, 2000 (19)",United States,30.06.2024,£5.40m,Ligue 1
+134,LOSC Lille,Forward,Loïc Rémy,"Jan 2, 1987 (32)",France,30.06.2020,£2.70m,Ligue 1
+135,OGC Nice,Goalkeeper,Walter Benítez,"Jan 19, 1993 (26)",Argentina,30.06.2020,£9.00m,Ligue 1
+136,OGC Nice,Goalkeeper,Yoan Cardinale,"Mar 27, 1994 (25)",France,30.06.2020,£1.80m,Ligue 1
+137,OGC Nice,Goalkeeper,Yannis Clementia,"Jul 5, 1997 (22)",France,-,£450k,Ligue 1
+138,OGC Nice,Defender,Malang Sarr,"Jan 23, 1999 (20)",France,30.06.2021,£16.20m,Ligue 1
+139,OGC Nice,Defender,Christophe Hérelle,"Aug 22, 1992 (27)",France,30.06.2023,£8.10m,Ligue 1
+140,OGC Nice,Defender,Dante,"Oct 18, 1983 (35)",Brazil,30.06.2021,£1.35m,Ligue 1
+141,OGC Nice,Defender,Gautier Lloris,"Jul 18, 1995 (24)",France,30.06.2020,£135k,Ligue 1
+142,OGC Nice,Defender,Andy Pelmard,"Mar 12, 2000 (19)",France,-,-,Ligue 1
+143,OGC Nice,Defender,Ibrahim Cissé,"Jan 11, 1999 (20)",Cote d'Ivoire,-,-,Ligue 1
+144,OGC Nice,Defender,Stanley Nsoki,"Apr 9, 1999 (20)",France,-,£7.65m,Ligue 1
+145,OGC Nice,Defender,Racine Coly,"Dec 8, 1995 (23)",Senegal,30.06.2022,£2.25m,Ligue 1
+146,OGC Nice,Defender,Youcef Atal,"May 17, 1996 (23)",Algeria,30.06.2023,£18.00m,Ligue 1
+147,OGC Nice,Defender,Patrick Burner,"Apr 11, 1996 (23)",France,-,£3.15m,Ligue 1
+148,OGC Nice,Midfielder,Adrien Tamèze,"Feb 4, 1994 (25)",France,30.06.2021,£7.20m,Ligue 1
+149,OGC Nice,Midfielder,Danilo,"Feb 28, 1996 (23)",Brazil,30.06.2021,£7.20m,Ligue 1
+150,OGC Nice,Midfielder,Khéphren Thuram,"Mar 26, 2001 (18)",France,30.06.2022,£450k,Ligue 1
+151,OGC Nice,Midfielder,Wylan Cyprien,"Jan 28, 1995 (24)",France,30.06.2021,£12.60m,Ligue 1
+152,OGC Nice,Midfielder,Pierre Lees Melou,"May 25, 1993 (26)",France,30.06.2021,£7.20m,Ligue 1
+153,OGC Nice,Midfielder,Rémi Walter,"Apr 26, 1995 (24)",France,30.06.2020,£3.15m,Ligue 1
+154,OGC Nice,Midfielder,Arnaud Lusamba,"Jan 4, 1997 (22)",France,30.06.2021,£1.80m,Ligue 1
+155,OGC Nice,Midfielder,Hichem Boudaoui,"Sep 23, 1999 (19)",Algeria,30.06.2023,£1.26m,Ligue 1
+156,OGC Nice,Forward,Alexis Claude-Maurice,"Jun 6, 1998 (21)",France,30.06.2024,£6.75m,Ligue 1
+157,OGC Nice,Forward,Adam Ounas,"Nov 11, 1996 (22)",Algeria,30.06.2020,£9.00m,Ligue 1
+158,OGC Nice,Forward,Bassem Srarfi,"Jun 25, 1997 (22)",Tunisia,30.06.2021,£2.70m,Ligue 1
+159,OGC Nice,Forward,Kasper Dolberg,"Oct 6, 1997 (21)",Denmark,30.06.2024,£16.20m,Ligue 1
+160,OGC Nice,Forward,Myziane Maolida,"Feb 14, 1999 (20)",France,30.06.2023,£7.20m,Ligue 1
+161,OGC Nice,Forward,Ignatius Ganago,"Feb 16, 1999 (20)",Cameroon,30.06.2022,£2.70m,Ligue 1
+162,OGC Nice,Forward,Mohamed Lamine Diaby,"Jan 19, 2001 (18)",France,30.06.2021,-,Ligue 1
+163,FC Girondins Bordeaux,Goalkeeper,Benoît Costil,"Jul 3, 1987 (32)",France,30.06.2022,£4.95m,Ligue 1
+164,FC Girondins Bordeaux,Goalkeeper,Gaëtan Poussin,"Jan 13, 1999 (20)",France,30.06.2023,£720k,Ligue 1
+165,FC Girondins Bordeaux,Defender,Pablo,"Jun 21, 1991 (28)",Brazil,30.06.2021,£9.00m,Ligue 1
+166,FC Girondins Bordeaux,Defender,Laurent Koscielny,"Sep 10, 1985 (34)",France,-,£7.20m,Ligue 1
+167,FC Girondins Bordeaux,Defender,Mexer,"Sep 8, 1988 (31)",Mozambique,30.06.2023,£3.60m,Ligue 1
+168,FC Girondins Bordeaux,Defender,Vukasin Jovanovic,"May 17, 1996 (23)",Serbia,30.06.2021,£2.70m,Ligue 1
+169,FC Girondins Bordeaux,Defender,Paul Baysse,"May 18, 1988 (31)",France,30.06.2021,£1.80m,Ligue 1
+170,FC Girondins Bordeaux,Defender,Maxime Poundjé,"Aug 16, 1992 (27)",France,30.06.2021,£4.50m,Ligue 1
+171,FC Girondins Bordeaux,Defender,Loris Benito,"Jan 7, 1992 (27)",Switzerland,30.06.2022,£3.60m,Ligue 1
+172,FC Girondins Bordeaux,Defender,Youssouf Sabaly,"Mar 5, 1993 (26)",Senegal,30.06.2021,£9.00m,Ligue 1
+173,FC Girondins Bordeaux,Defender,Enock Kwateng,"Apr 9, 1997 (22)",France,30.06.2023,£3.60m,Ligue 1
+174,FC Girondins Bordeaux,Defender,Raoul Bellanova,"May 17, 2000 (19)",Italy,30.06.2022,£900k,Ligue 1
+175,FC Girondins Bordeaux,Midfielder,Otávio,"May 4, 1994 (25)",Brazil,30.06.2021,£6.30m,Ligue 1
+176,FC Girondins Bordeaux,Midfielder,Albert Lottin,"Aug 29, 2001 (18)",France,30.06.2021,£450k,Ligue 1
+177,FC Girondins Bordeaux,Midfielder,Youssef Aït Bennasser,"Jul 7, 1996 (23)",Morocco,30.06.2020,£9.00m,Ligue 1
+178,FC Girondins Bordeaux,Midfielder,Aurélien Tchouaméni,"Jan 27, 2000 (19)",France,30.06.2022,£6.30m,Ligue 1
+179,FC Girondins Bordeaux,Midfielder,Younousse Sankharé,"Sep 10, 1989 (30)",Senegal,30.06.2021,£4.50m,Ligue 1
+180,FC Girondins Bordeaux,Midfielder,Toma Basic,"Nov 25, 1996 (22)",Croatia,30.06.2022,£4.50m,Ligue 1
+181,FC Girondins Bordeaux,Midfielder,Yacine Adli,"Jul 29, 2000 (19)",France,30.06.2023,£4.95m,Ligue 1
+182,FC Girondins Bordeaux,Midfielder,Yassine Benrahou,"Jan 24, 1999 (20)",Morocco,30.06.2022,£225k,Ligue 1
+183,FC Girondins Bordeaux,Forward,François Kamano,"May 1, 1996 (23)",Guinea,30.06.2021,£13.50m,Ligue 1
+184,FC Girondins Bordeaux,Forward,Samuel Kalu,"Aug 26, 1997 (22)",Nigeria,30.06.2023,£9.00m,Ligue 1
+185,FC Girondins Bordeaux,Forward,Jonathan Cafú,"Jul 10, 1991 (28)",Brazil,30.06.2021,£1.80m,Ligue 1
+186,FC Girondins Bordeaux,Forward,Nicolas de Préville,"Jan 8, 1991 (28)",France,30.06.2021,£3.60m,Ligue 1
+187,FC Girondins Bordeaux,Forward,Jimmy Briand,"Aug 2, 1985 (34)",France,30.06.2020,£2.25m,Ligue 1
+188,FC Girondins Bordeaux,Forward,Josh Maja,"Dec 27, 1998 (20)",England,30.06.2023,£1.53m,Ligue 1
+189,FC Girondins Bordeaux,Forward,Ui-jo Hwang,"Aug 28, 1992 (27)","Korea, South",30.06.2023,£1.44m,Ligue 1
+190,Stade Rennais FC,Goalkeeper,Edouard Mendy,"Mar 1, 1992 (27)",Senegal,30.06.2023,£8.10m,Ligue 1
+191,Stade Rennais FC,Goalkeeper,Romain Salin,"Jul 29, 1984 (35)",France,30.06.2021,£180k,Ligue 1
+192,Stade Rennais FC,Defender,Joris Gnagnon,"Jan 13, 1997 (22)",France,30.06.2020,£5.40m,Ligue 1
+193,Stade Rennais FC,Defender,Jérémy Gelin,"Apr 24, 1997 (22)",France,30.06.2022,£5.40m,Ligue 1
+194,Stade Rennais FC,Defender,Damien Da Silva,"May 17, 1988 (31)",France,30.06.2021,£4.50m,Ligue 1
+195,Stade Rennais FC,Defender,Gerzino Nyamsi,"Jan 22, 1997 (22)",France,30.06.2024,£720k,Ligue 1
+196,Stade Rennais FC,Defender,Jérémy Morel,"Apr 2, 1984 (35)",Madagascar,30.06.2020,£225k,Ligue 1
+197,Stade Rennais FC,Defender,Faitout Maouassa,"Jul 6, 1998 (21)",France,30.06.2021,£7.20m,Ligue 1
+198,Stade Rennais FC,Defender,Souleyman Doumbia,"Sep 24, 1996 (22)",Cote d'Ivoire,30.06.2022,£2.70m,Ligue 1
+199,Stade Rennais FC,Defender,Hamari Traoré,"Jan 27, 1992 (27)",Mali,30.06.2021,£5.40m,Ligue 1
+200,Stade Rennais FC,Defender,Sacha Boey,"Sep 13, 2000 (19)",France,30.06.2022,£225k,Ligue 1
+201,Stade Rennais FC,Midfielder,Eduardo Camavinga,"Nov 10, 2002 (16)",DR Congo,30.06.2022,£3.60m,Ligue 1
+202,Stade Rennais FC,Midfielder,Benjamin Bourigeaud,"Jan 14, 1994 (25)",France,30.06.2021,£10.80m,Ligue 1
+203,Stade Rennais FC,Midfielder,Clément Grenier,"Jan 7, 1991 (28)",France,30.06.2021,£6.75m,Ligue 1
+204,Stade Rennais FC,Midfielder,Jonas Martin,"Apr 9, 1990 (29)",France,30.06.2022,£4.50m,Ligue 1
+205,Stade Rennais FC,Midfielder,James Léa Siliki,"Jun 12, 1996 (23)",France,30.06.2023,£3.60m,Ligue 1
+206,Stade Rennais FC,Midfielder,Jakob Johansson,"Jun 21, 1990 (29)",Sweden,30.06.2020,£2.25m,Ligue 1
+207,Stade Rennais FC,Midfielder,Adrien Hunou,"Jan 19, 1994 (25)",France,30.06.2020,£5.40m,Ligue 1
+208,Stade Rennais FC,Midfielder,Rafik Guitane,"May 26, 1999 (20)",France,30.06.2022,£4.50m,Ligue 1
+209,Stade Rennais FC,Midfielder,Yann Gboho,"Jan 14, 2001 (18)",France,30.06.2021,£135k,Ligue 1
+210,Stade Rennais FC,Forward,Flavien Tait,"Feb 2, 1993 (26)",France,30.06.2023,£7.20m,Ligue 1
+211,Stade Rennais FC,Forward,Raphinha,"Dec 14, 1996 (22)",Brazil,30.06.2023,£7.20m,Ligue 1
+212,Stade Rennais FC,Forward,Romain Del Castillo,"Mar 29, 1996 (23)",France,30.06.2022,£3.15m,Ligue 1
+213,Stade Rennais FC,Forward,M'Baye Niang,"Dec 19, 1994 (24)",Senegal,30.06.2023,£10.80m,Ligue 1
+214,Stade Rennais FC,Forward,Jordan Siebatcheu,"Apr 26, 1996 (23)",France,30.06.2023,£5.40m,Ligue 1
+215,Stade Rennais FC,Forward,Diafra Sakho,"Dec 24, 1989 (29)",Senegal,30.06.2020,£1.80m,Ligue 1
+216,Stade Rennais FC,Forward,Metehan Güclü,"Apr 2, 1999 (20)",Turkey,30.06.2023,-,Ligue 1
+217,AS Saint-Étienne,Goalkeeper,Stéphane Ruffier,"Sep 27, 1986 (32)",France,30.06.2021,£3.15m,Ligue 1
+218,AS Saint-Étienne,Goalkeeper,Jessy Moulin,"Jan 13, 1986 (33)",France,30.06.2022,£225k,Ligue 1
+219,AS Saint-Étienne,Goalkeeper,Théo Vermot,"Jan 27, 1997 (22)",France,-,£135k,Ligue 1
+220,AS Saint-Étienne,Defender,William Saliba,"Mar 24, 2001 (18)",France,30.06.2020,£10.80m,Ligue 1
+221,AS Saint-Étienne,Defender,Timothée Kolodziejczak,"Oct 1, 1991 (27)",France,30.06.2020,£5.40m,Ligue 1
+222,AS Saint-Étienne,Defender,Harold Moukoudi,"Nov 27, 1997 (21)",France,30.06.2023,£2.70m,Ligue 1
+223,AS Saint-Étienne,Defender,Loïc Perrin,"Aug 7, 1985 (34)",France,30.06.2020,£1.80m,Ligue 1
+224,AS Saint-Étienne,Defender,Léo Lacroix,"Feb 27, 1992 (27)",Switzerland,30.06.2020,£1.13m,Ligue 1
+225,AS Saint-Étienne,Defender,Gabriel Silva,"May 13, 1991 (28)",Brazil,30.06.2023,£2.25m,Ligue 1
+226,AS Saint-Étienne,Defender,Miguel Trauco,"Aug 25, 1992 (27)",Peru,30.06.2022,£1.58m,Ligue 1
+227,AS Saint-Étienne,Defender,Sergi Palencia,"Mar 23, 1996 (23)",Spain,30.06.2023,£5.40m,Ligue 1
+228,AS Saint-Étienne,Defender,Mathieu Debuchy,"Jul 28, 1985 (34)",France,30.06.2021,£2.70m,Ligue 1
+229,AS Saint-Étienne,Defender,Alpha Sissoko,"Mar 7, 1997 (22)",France,30.06.2022,£450k,Ligue 1
+230,AS Saint-Étienne,Midfielder,Yann M'Vila,"Jun 29, 1990 (29)",France,30.06.2022,£9.00m,Ligue 1
+231,AS Saint-Étienne,Midfielder,Jean-Eudes Aholou,"Mar 20, 1994 (25)",Cote d'Ivoire,30.06.2020,£6.30m,Ligue 1
+232,AS Saint-Étienne,Midfielder,Assane Dioussé,"Sep 20, 1997 (21)",Senegal,30.06.2022,£4.05m,Ligue 1
+233,AS Saint-Étienne,Midfielder,Zaydou Youssouf,"Jul 11, 1999 (20)",France,30.06.2023,£3.60m,Ligue 1
+234,AS Saint-Étienne,Midfielder,Yohan Cabaye,"Jan 14, 1986 (33)",France,30.06.2020,£1.80m,Ligue 1
+235,AS Saint-Étienne,Midfielder,Mahdi Camara,"Jun 30, 1998 (21)",France,30.06.2022,£270k,Ligue 1
+236,AS Saint-Étienne,Midfielder,Wahbi Khazri,"Feb 8, 1991 (28)",Tunisia,30.06.2022,£14.40m,Ligue 1
+237,AS Saint-Étienne,Midfielder,Ryad Boudebouz,"Feb 19, 1990 (29)",Algeria,30.06.2022,£5.40m,Ligue 1
+238,AS Saint-Étienne,Forward,Denis Bouanga,"Nov 11, 1994 (24)",Gabon,30.06.2023,£5.40m,Ligue 1
+239,AS Saint-Étienne,Forward,Arnaud Nordin,"Jun 17, 1998 (21)",France,30.06.2022,£3.15m,Ligue 1
+240,AS Saint-Étienne,Forward,Kévin Monnet-Paquet,"Aug 19, 1988 (31)",France,30.06.2021,£1.80m,Ligue 1
+241,AS Saint-Étienne,Forward,Romain Hamouma,"Mar 29, 1987 (32)",France,30.06.2021,£2.25m,Ligue 1
+242,AS Saint-Étienne,Forward,Franck Honorat,"Aug 11, 1996 (23)",France,30.06.2023,£1.80m,Ligue 1
+243,AS Saint-Étienne,Forward,Loïs Diony,"Dec 20, 1992 (26)",France,30.06.2021,£4.50m,Ligue 1
+244,AS Saint-Étienne,Forward,Robert Beric,"Jun 17, 1991 (28)",Slovenia,30.06.2022,£4.50m,Ligue 1
+245,RC Strasbourg Alsace,Goalkeeper,Matz Sels,"Feb 26, 1992 (27)",Belgium,30.06.2022,£6.30m,Ligue 1
+246,RC Strasbourg Alsace,Goalkeeper,Bingourou Kamara,"Oct 21, 1996 (22)",France,30.06.2021,£2.25m,Ligue 1
+247,RC Strasbourg Alsace,Goalkeeper,Eiji Kawashima,"Mar 20, 1983 (36)",Japan,30.06.2021,£225k,Ligue 1
+248,RC Strasbourg Alsace,Goalkeeper,Louis Pelletier,"Feb 3, 2000 (19)",France,30.06.2020,£135k,Ligue 1
+249,RC Strasbourg Alsace,Defender,Alexander Djiku,"Aug 9, 1994 (25)",France,30.06.2023,£7.20m,Ligue 1
+250,RC Strasbourg Alsace,Defender,Stefan Mitrovic,"May 22, 1990 (29)",Serbia,30.06.2022,£3.15m,Ligue 1
+251,RC Strasbourg Alsace,Defender,Lamine Koné,"Feb 1, 1989 (30)",Cote d'Ivoire,30.06.2021,£2.70m,Ligue 1
+252,RC Strasbourg Alsace,Defender,Anthony Caci,"Jul 1, 1997 (22)",France,30.06.2022,£2.70m,Ligue 1
+253,RC Strasbourg Alsace,Defender,Lionel Carole,"Apr 12, 1991 (28)",France,30.06.2021,£2.70m,Ligue 1
+254,RC Strasbourg Alsace,Defender,Abdallah Ndour,"Dec 20, 1993 (25)",Senegal,30.06.2020,£540k,Ligue 1
+255,RC Strasbourg Alsace,Defender,Kenny Lala,"Oct 3, 1991 (27)",France,30.06.2021,£12.60m,Ligue 1
+256,RC Strasbourg Alsace,Defender,Ismaël Aaneba,"May 29, 1999 (20)",France,30.06.2020,£900k,Ligue 1
+257,RC Strasbourg Alsace,Defender,Mohamed Simakan,"May 3, 2000 (19)",France,30.06.2021,-,Ligue 1
+258,RC Strasbourg Alsace,Midfielder,Ibrahima Sissoko,"Oct 27, 1997 (21)",France,30.06.2022,£5.85m,Ligue 1
+259,RC Strasbourg Alsace,Midfielder,Jérémy Grimm,"Mar 27, 1987 (32)",France,30.06.2020,£450k,Ligue 1
+260,RC Strasbourg Alsace,Midfielder,Youssouf Fofana,"Jan 10, 1999 (20)",France,30.06.2021,£4.50m,Ligue 1
+261,RC Strasbourg Alsace,Midfielder,Sanjin Prcic,"Nov 20, 1993 (25)",Bosnia-Herzegovina,30.06.2022,£3.60m,Ligue 1
+262,RC Strasbourg Alsace,Midfielder,Dimitri Liénard,"Feb 13, 1988 (31)",France,30.06.2021,£1.80m,Ligue 1
+263,RC Strasbourg Alsace,Midfielder,Jean-Ricner Bellegarde,"Jun 27, 1998 (21)",Haiti,30.06.2023,£1.35m,Ligue 1
+264,RC Strasbourg Alsace,Midfielder,Moataz Zemzemi,"Aug 7, 1999 (20)",Tunisia,30.06.2021,£225k,Ligue 1
+265,RC Strasbourg Alsace,Midfielder,Adrien Thomasson,"Dec 10, 1993 (25)",France,30.06.2021,£7.20m,Ligue 1
+266,RC Strasbourg Alsace,Midfielder,Benjamin Corgnet,"Apr 6, 1987 (32)",France,30.06.2020,£720k,Ligue 1
+267,RC Strasbourg Alsace,Forward,Lebo Mothiba,"Jan 28, 1996 (23)",South Africa,30.06.2023,£6.30m,Ligue 1
+268,RC Strasbourg Alsace,Forward,Nuno Da Costa,"Feb 10, 1991 (28)",Cape Verde,30.06.2021,£4.50m,Ligue 1
+269,RC Strasbourg Alsace,Forward,Ludovic Ajorque,"Feb 25, 1994 (25)",France,30.06.2022,£3.60m,Ligue 1
+270,RC Strasbourg Alsace,Forward,Kévin Zohi,"Dec 19, 1996 (22)",Mali,30.06.2021,£1.80m,Ligue 1
+271,HSC Montpellier,Goalkeeper,Gerónimo Rulli,"May 20, 1992 (27)",Argentina,30.06.2020,£9.00m,Ligue 1
+272,HSC Montpellier,Goalkeeper,Dimitry Bertaud,"Jun 6, 1998 (21)",France,-,£450k,Ligue 1
+273,HSC Montpellier,Goalkeeper,Matis Carvalho,"Apr 28, 1999 (20)",Portugal,-,£135k,Ligue 1
+274,HSC Montpellier,Defender,Pedro Mendes,"Oct 1, 1990 (28)",Portugal,30.06.2021,£5.40m,Ligue 1
+275,HSC Montpellier,Defender,Nicolas Cozza,"Jan 8, 1999 (20)",France,30.06.2020,£3.60m,Ligue 1
+276,HSC Montpellier,Defender,Daniel Congré,"Apr 5, 1985 (34)",France,30.06.2020,£675k,Ligue 1
+277,HSC Montpellier,Defender,Clément Vidal,"Jun 18, 2000 (19)",France,-,£135k,Ligue 1
+278,HSC Montpellier,Defender,Vitorino Hilton,"Sep 13, 1977 (42)",Brazil,30.06.2020,£90k,Ligue 1
+279,HSC Montpellier,Defender,Ambroise Oyongo,"Jun 22, 1991 (28)",Cameroon,30.06.2022,£3.60m,Ligue 1
+280,HSC Montpellier,Defender,Mihailo Ristic,"Oct 31, 1995 (23)",Serbia,30.06.2022,£720k,Ligue 1
+281,HSC Montpellier,Defender,Arnaud Souquet,"Feb 12, 1992 (27)",France,30.06.2023,£3.15m,Ligue 1
+282,HSC Montpellier,Defender,Mathías Suárez,"Jun 24, 1996 (23)",Uruguay,30.06.2023,£1.35m,Ligue 1
+283,HSC Montpellier,Midfielder,Junior Sambia,"Sep 7, 1996 (23)",France,30.06.2022,£3.60m,Ligue 1
+284,HSC Montpellier,Midfielder,Damien Le Tallec,"Apr 19, 1990 (29)",France,30.06.2022,£3.60m,Ligue 1
+285,HSC Montpellier,Midfielder,Kylian Kaïboué,"Aug 20, 1998 (21)",France,-,£135k,Ligue 1
+286,HSC Montpellier,Midfielder,Téji Savanier,"Dec 22, 1991 (27)",France,30.06.2023,£10.80m,Ligue 1
+287,HSC Montpellier,Midfielder,Jordan Ferri,"Mar 12, 1992 (27)",France,30.06.2024,£3.60m,Ligue 1
+288,HSC Montpellier,Midfielder,Amir Adouyev,"May 11, 1999 (20)",Russia,30.06.2021,£135k,Ligue 1
+289,HSC Montpellier,Midfielder,Joris Chotard,"Sep 24, 2001 (17)",France,30.06.2019,-,Ligue 1
+290,HSC Montpellier,Midfielder,Florent Mollet,"Nov 19, 1991 (27)",France,30.06.2022,£8.10m,Ligue 1
+291,HSC Montpellier,Forward,Keagan Dolly,"Jan 22, 1993 (26)",South Africa,30.06.2021,£1.17m,Ligue 1
+292,HSC Montpellier,Forward,Bilal Boutobba,"Aug 29, 1998 (21)",France,30.06.2020,£450k,Ligue 1
+293,HSC Montpellier,Forward,Souleymane Camara,"Dec 22, 1982 (36)",Senegal,30.06.2020,£225k,Ligue 1
+294,HSC Montpellier,Forward,Andy Delort,"Oct 9, 1991 (27)",Algeria,30.06.2020,£11.25m,Ligue 1
+295,HSC Montpellier,Forward,Gaëtan Laborde,"May 3, 1994 (25)",France,30.06.2023,£9.00m,Ligue 1
+296,HSC Montpellier,Forward,Petar Skuletic,"Jun 29, 1990 (29)",Serbia,-,£900k,Ligue 1
+297,FC Toulouse,Goalkeeper,Baptiste Reynet,"Oct 28, 1990 (28)",France,30.06.2022,£4.50m,Ligue 1
+298,FC Toulouse,Goalkeeper,Mauro Goicoechea,"Mar 27, 1988 (31)",Uruguay,30.06.2021,£720k,Ligue 1
+299,FC Toulouse,Goalkeeper,Florentin Bloch,"Feb 2, 2000 (19)",France,30.06.2022,-,Ligue 1
+300,FC Toulouse,Defender,Gen Shoji,"Dec 11, 1992 (26)",Japan,30.06.2022,£3.15m,Ligue 1
+301,FC Toulouse,Defender,Bafodé Diakité,"Jan 6, 2001 (18)",France,30.06.2023,£1.80m,Ligue 1
+302,FC Toulouse,Defender,Nicolas Isimat-Mirin,"Nov 15, 1991 (27)",France,30.06.2020,£1.13m,Ligue 1
+303,FC Toulouse,Defender,Agustín Rogel,"Oct 17, 1997 (21)",Uruguay,30.06.2022,£900k,Ligue 1
+304,FC Toulouse,Defender,Moussa Diarra,"Nov 10, 2000 (18)",France,30.06.2022,-,Ligue 1
+305,FC Toulouse,Defender,Anthony Rouault,"May 29, 2001 (18)",France,-,-,Ligue 1
+306,FC Toulouse,Defender,Issiaga Sylla,"Jan 1, 1994 (25)",Guinea,30.06.2023,£3.15m,Ligue 1
+307,FC Toulouse,Defender,Mathieu Gonçalves,"Jun 8, 2001 (18)",France,30.06.2021,£135k,Ligue 1
+308,FC Toulouse,Defender,Kelvin Amian,"Feb 8, 1998 (21)",France,30.06.2021,£4.50m,Ligue 1
+309,FC Toulouse,Defender,Steven Moreira,"Aug 13, 1994 (25)",France,30.06.2021,£1.13m,Ligue 1
+310,FC Toulouse,Midfielder,Ibrahim Sangaré,"Dec 2, 1997 (21)",Cote d'Ivoire,30.06.2021,£13.50m,Ligue 1
+311,FC Toulouse,Midfielder,Kalidou Sidibé,"Jan 28, 1999 (20)",France,30.06.2023,£3.15m,Ligue 1
+312,FC Toulouse,Midfielder,William Vainqueur,"Nov 19, 1988 (30)",France,30.06.2020,£1.13m,Ligue 1
+313,FC Toulouse,Midfielder,Jean-Victor Makengo,"Jun 12, 1998 (21)",France,30.06.2020,£3.60m,Ligue 1
+314,FC Toulouse,Midfielder,Quentin Boisgard,"Mar 17, 1997 (22)",France,30.06.2020,£225k,Ligue 1
+315,FC Toulouse,Midfielder,Amine Adli,"May 10, 2000 (19)",France,30.06.2021,-,Ligue 1
+316,FC Toulouse,Midfielder,Kouadio Koné,"May 17, 2001 (18)",France,30.06.2021,-,Ligue 1
+317,FC Toulouse,Forward,Max Gradel,"Nov 30, 1987 (31)",Cote d'Ivoire,30.06.2021,£7.20m,Ligue 1
+318,FC Toulouse,Forward,Adil Taoui,"Aug 10, 2001 (18)",France,30.06.2021,£135k,Ligue 1
+319,FC Toulouse,Forward,Wesley Saïd,"Apr 19, 1995 (24)",France,30.06.2023,£5.40m,Ligue 1
+320,FC Toulouse,Forward,Corentin Jean,"Jul 15, 1995 (24)",France,30.06.2021,£2.25m,Ligue 1
+321,FC Toulouse,Forward,Mathieu Dossevi,"Feb 12, 1988 (31)",Togo,30.06.2020,£2.25m,Ligue 1
+322,FC Toulouse,Forward,Nathan N'Goumou,"Mar 14, 2000 (19)",France,30.06.2022,£270k,Ligue 1
+323,FC Toulouse,Forward,Efthymios Koulouris,"Mar 6, 1996 (23)",Greece,30.06.2023,£4.50m,Ligue 1
+324,FC Toulouse,Forward,Aaron Leya Iseka,"Nov 15, 1997 (21)",Belgium,30.06.2022,£2.70m,Ligue 1
+325,FC Toulouse,Forward,Yaya Sanogo,"Jan 27, 1993 (26)",France,30.06.2020,£2.25m,Ligue 1
+326,FC Toulouse,Forward,Stéphane Zobo,"Aug 2, 2000 (19)",Cameroon,30.06.2021,-,Ligue 1
+327,FC Nantes,Goalkeeper,Alban Lafont,"Jan 23, 1999 (20)",France,30.06.2021,£15.30m,Ligue 1
+328,FC Nantes,Goalkeeper,Alexandre Olliero,"Feb 15, 1996 (23)",France,30.06.2023,£360k,Ligue 1
+329,FC Nantes,Goalkeeper,Denis Petric,"May 24, 1988 (31)",Serbia,30.06.2021,£360k,Ligue 1
+330,FC Nantes,Defender,Nicolas Pallois,"Sep 19, 1987 (31)",France,30.06.2022,£2.25m,Ligue 1
+331,FC Nantes,Defender,Molla Wagué,"Feb 21, 1991 (28)",Mali,30.06.2022,£900k,Ligue 1
+332,FC Nantes,Defender,Thomas Basila,"Apr 30, 1999 (20)",France,30.06.2021,£450k,Ligue 1
+333,FC Nantes,Defender,Josué Homawoo,"Nov 12, 1997 (21)",Togo,30.06.2020,£135k,Ligue 1
+334,FC Nantes,Defender,Charles Traoré,"Jan 1, 1992 (27)",Mali,30.06.2021,£2.70m,Ligue 1
+335,FC Nantes,Defender,Wesley Moustache,"Feb 26, 1999 (20)",France,30.06.2021,£135k,Ligue 1
+336,FC Nantes,Defender,Fábio,"Jul 9, 1990 (29)",Brazil,30.06.2021,£2.25m,Ligue 1
+337,FC Nantes,Defender,Dennis Appiah,"Jun 9, 1992 (27)",France,30.06.2023,£1.35m,Ligue 1
+338,FC Nantes,Midfielder,Abdoulaye Touré,"Mar 3, 1994 (25)",France,30.06.2022,£9.00m,Ligue 1
+339,FC Nantes,Midfielder,Andrei Girotto,"Feb 17, 1992 (27)",Brazil,30.06.2021,£2.70m,Ligue 1
+340,FC Nantes,Midfielder,Batista Mendy,"Jan 12, 2000 (19)",France,30.06.2021,£135k,Ligue 1
+341,FC Nantes,Midfielder,Ludovic Blas,"Dec 31, 1997 (21)",France,30.06.2024,£4.50m,Ligue 1
+342,FC Nantes,Midfielder,Samuel Moutoussamy,"Aug 12, 1996 (23)",France,30.06.2024,£4.50m,Ligue 1
+343,FC Nantes,Midfielder,Rene Krhin,"May 21, 1990 (29)",Slovenia,30.06.2020,£1.80m,Ligue 1
+344,FC Nantes,Midfielder,Mehdi Abeid,"Aug 6, 1992 (27)",Algeria,30.06.2022,£1.58m,Ligue 1
+345,FC Nantes,Midfielder,Kayembe,"Aug 8, 1994 (25)",Belgium,30.06.2021,£450k,Ligue 1
+346,FC Nantes,Midfielder,Cristian Benavente,"May 19, 1994 (25)",Peru,30.06.2020,£4.95m,Ligue 1
+347,FC Nantes,Midfielder,Imran Louza,"May 1, 1999 (20)",France,30.06.2024,£270k,Ligue 1
+348,FC Nantes,Forward,Moses Simon,"Jul 12, 1995 (24)",Nigeria,30.06.2020,£2.70m,Ligue 1
+349,FC Nantes,Forward,Yassine El Ghanassy,"Jul 12, 1990 (29)",Belgium,30.06.2021,£900k,Ligue 1
+350,FC Nantes,Forward,Abdoul Kader Bamba,"May 25, 1994 (25)",France,30.06.2022,-,Ligue 1
+351,FC Nantes,Forward,Marcus Coco,"Jun 24, 1996 (23)",France,30.06.2023,£2.70m,Ligue 1
+352,FC Nantes,Forward,Abdoulaye Dabo,"Mar 4, 2001 (18)",France,30.06.2022,£900k,Ligue 1
+353,FC Nantes,Forward,Kalifa Coulibaly,"Aug 21, 1991 (28)",Mali,30.06.2022,£4.50m,Ligue 1
+354,FC Nantes,Forward,Bridge Ndilu,"Jul 21, 2000 (19)",France,30.06.2024,£360k,Ligue 1
+355,FC Nantes,Forward,Thody Élie Youan,"Apr 7, 1999 (20)",France,30.06.2022,£225k,Ligue 1
+356,Stade Reims,Goalkeeper,Predrag Rajkovic,"Oct 31, 1995 (23)",Serbia,30.06.2023,£3.15m,Ligue 1
+357,Stade Reims,Goalkeeper,Yehvann Diouf,"Jun 11, 1999 (20)",France,30.06.2023,£270k,Ligue 1
+358,Stade Reims,Goalkeeper,Nicolas Lemaître,"Jan 12, 1997 (22)",France,30.06.2022,£225k,Ligue 1
+359,Stade Reims,Defender,Dario Maresic,"Sep 29, 1999 (19)",Austria,30.06.2024,£2.70m,Ligue 1
+360,Stade Reims,Defender,Yunis Abdelhamid,"Sep 28, 1987 (31)",Morocco,30.06.2020,£2.25m,Ligue 1
+361,Stade Reims,Defender,Marshall Munetsi,"Jun 22, 1996 (23)",Zimbabwe,30.06.2023,£495k,Ligue 1
+362,Stade Reims,Defender,Axel Disasi,"Mar 11, 1998 (21)",France,30.06.2021,£360k,Ligue 1
+363,Stade Reims,Defender,Ghislain Konan,"Dec 27, 1995 (23)",Cote d'Ivoire,30.06.2022,£4.50m,Ligue 1
+364,Stade Reims,Defender,Hassane Kamara,"Mar 5, 1994 (25)",France,30.06.2021,£630k,Ligue 1
+365,Stade Reims,Defender,Lenny Vallier,"Apr 24, 1999 (20)",France,-,£270k,Ligue 1
+366,Stade Reims,Defender,Thomas Foket,"Sep 25, 1994 (24)",Belgium,30.06.2023,£5.40m,Ligue 1
+367,Stade Reims,Defender,Sambou Sissoko,"Apr 27, 1999 (20)",France,30.06.2023,£450k,Ligue 1
+368,Stade Reims,Midfielder,Xavier Chavalerin,"Mar 7, 1991 (28)",France,30.06.2022,£3.60m,Ligue 1
+369,Stade Reims,Midfielder,Nolan Mbemba,"Feb 19, 1995 (24)",France,30.06.2021,£675k,Ligue 1
+370,Stade Reims,Midfielder,Alaixys Romao,"Jan 18, 1984 (35)",Togo,30.06.2021,£450k,Ligue 1
+371,Stade Reims,Midfielder,Tristan Dingomé,"Feb 17, 1991 (28)",France,30.06.2021,£2.25m,Ligue 1
+372,Stade Reims,Midfielder,Grégory Berthier,"Nov 11, 1995 (23)",France,30.06.2020,£540k,Ligue 1
+373,Stade Reims,Midfielder,Dereck Kutesa,"Dec 6, 1997 (21)",Switzerland,30.06.2023,£1.58m,Ligue 1
+374,Stade Reims,Midfielder,Mathieu Cafaro,"Mar 25, 1997 (22)",France,30.06.2022,£6.75m,Ligue 1
+375,Stade Reims,Midfielder,Moreto Cassamá,"Feb 16, 1998 (21)",Guinea-Bissau,30.06.2023,£315k,Ligue 1
+376,Stade Reims,Forward,Arbër Zeneli,"Feb 25, 1995 (24)",Kosovo,30.06.2023,£5.40m,Ligue 1
+377,Stade Reims,Forward,Moussa Doumbia,"Aug 15, 1994 (25)",Mali,30.06.2022,£1.80m,Ligue 1
+378,Stade Reims,Forward,Nathanaël Mbuku,"Mar 16, 2002 (17)",France,30.06.2021,-,Ligue 1
+379,Stade Reims,Forward,Rémi Oudin,"Nov 18, 1996 (22)",France,30.06.2021,£9.90m,Ligue 1
+380,Stade Reims,Forward,Anastasios Donis,"Aug 29, 1996 (23)",Greece,30.06.2020,£3.60m,Ligue 1
+381,Stade Reims,Forward,Hyun-jun Suk,"Jun 29, 1991 (28)","Korea, South",30.06.2022,£3.15m,Ligue 1
+382,Stade Reims,Forward,Boulaye Dia,"Nov 16, 1996 (22)",France,30.06.2022,£1.80m,Ligue 1
+383,Stade Reims,Forward,Timothé Nkada,"Jul 20, 1999 (20)",France,30.06.2023,£135k,Ligue 1
+384,Stade Reims,Forward,Virgile Pinson,"Feb 22, 1996 (23)",France,30.06.2021,-,Ligue 1
+385,SC Amiens,Goalkeeper,Régis Gurtner,"Dec 8, 1986 (32)",France,30.06.2022,£1.58m,Ligue 1
+386,SC Amiens,Goalkeeper,Matthieu Dreyer,"Mar 20, 1989 (30)",France,30.06.2020,£360k,Ligue 1
+387,SC Amiens,Goalkeeper,Boris Essele,"Jan 25, 2000 (19)",Cameroon,30.06.2023,-,Ligue 1
+388,SC Amiens,Defender,Prince Gouano,"Dec 24, 1993 (25)",France,30.06.2021,£6.30m,Ligue 1
+389,SC Amiens,Defender,Bakaye Dibassy,"Aug 11, 1989 (30)",Mali,30.06.2021,£2.70m,Ligue 1
+390,SC Amiens,Defender,Jordan Lefort,"Aug 9, 1993 (26)",France,30.06.2021,£2.70m,Ligue 1
+391,SC Amiens,Defender,Arturo Calabresi,"Mar 17, 1996 (23)",Italy,30.06.2020,£1.62m,Ligue 1
+392,SC Amiens,Defender,Aurélien Chedjou,"Jun 20, 1985 (34)",Cameroon,30.06.2021,£360k,Ligue 1
+393,SC Amiens,Defender,Haitam Aleesami,"Jul 31, 1991 (28)",Norway,30.06.2022,£1.35m,Ligue 1
+394,SC Amiens,Defender,Sanasi Sy,"Dec 4, 1999 (19)",France,-,£135k,Ligue 1
+395,SC Amiens,Defender,Christophe Jallet,"Oct 31, 1983 (35)",France,30.06.2020,£450k,Ligue 1
+396,SC Amiens,Defender,Valentin Gendrey,"Jun 21, 2000 (19)",France,30.06.2022,£135k,Ligue 1
+397,SC Amiens,Midfielder,Alexis Blin,"Sep 16, 1996 (22)",France,30.06.2022,£4.50m,Ligue 1
+398,SC Amiens,Midfielder,Thomas Monconduit,"Feb 10, 1991 (28)",France,30.06.2021,£3.15m,Ligue 1
+399,SC Amiens,Midfielder,Mathieu Bodmer,"Nov 22, 1982 (36)",France,30.06.2020,£225k,Ligue 1
+400,SC Amiens,Midfielder,Jonathan Bumbu,"Feb 11, 1999 (20)",France,30.06.2022,-,Ligue 1
+401,SC Amiens,Midfielder,Eddy Gnahoré,"Nov 14, 1993 (25)",France,30.06.2022,£3.60m,Ligue 1
+402,SC Amiens,Midfielder,Bongani Zungu,"Oct 9, 1992 (26)",South Africa,30.06.2021,£2.25m,Ligue 1
+403,SC Amiens,Midfielder,Madih Talal,"Aug 17, 1997 (22)",France,-,£270k,Ligue 1
+404,SC Amiens,Midfielder,Rafal Kurzawa,"Jan 29, 1993 (26)",Poland,30.06.2021,£1.35m,Ligue 1
+405,SC Amiens,Midfielder,Gaël Kakuta,"Jun 21, 1991 (28)",DR Congo,30.06.2022,£1.80m,Ligue 1
+406,SC Amiens,Midfielder,Ulrick Eneme Ella,"May 22, 2001 (18)",France,30.06.2023,£270k,Ligue 1
+407,SC Amiens,Midfielder,Jayson Papeau,"Jun 30, 1996 (23)",France,30.06.2022,£135k,Ligue 1
+408,SC Amiens,Forward,Stiven Mendoza,"Jun 27, 1992 (27)",Colombia,31.12.2021,£2.70m,Ligue 1
+409,SC Amiens,Forward,Chadrac Akolo,"Apr 1, 1995 (24)",DR Congo,30.06.2020,£1.80m,Ligue 1
+410,SC Amiens,Forward,Jack Lahne,"Oct 24, 2001 (17)",Sweden,-,£900k,Ligue 1
+411,SC Amiens,Forward,Abdoulaye Toure,"Oct 14, 2000 (18)",France,-,-,Ligue 1
+412,SC Amiens,Forward,Juan Ferney Otero,"May 26, 1995 (24)",Colombia,30.06.2021,£3.60m,Ligue 1
+413,SC Amiens,Forward,Fousseni Diabaté,"Oct 18, 1995 (23)",Mali,30.06.2020,£2.70m,Ligue 1
+414,SC Amiens,Forward,Quentin Cornette,"Jan 17, 1994 (25)",France,30.06.2020,£270k,Ligue 1
+415,SC Amiens,Forward,Moussa Konaté,"Apr 3, 1993 (26)",Senegal,30.06.2021,£6.30m,Ligue 1
+416,SC Amiens,Forward,Saman Ghoddos,"Sep 6, 1993 (26)",Iran,30.06.2023,£4.50m,Ligue 1
+417,SC Amiens,Forward,Serhou Guirassy,"Mar 12, 1996 (23)",France,30.06.2022,£3.15m,Ligue 1
+418,SC Amiens,Forward,Darell Tokpa,"Jun 2, 2001 (18)",France,30.06.2022,-,Ligue 1
+419,SCO Angers,Goalkeeper,Danijel Petkovic,"May 25, 1993 (26)",Montenegro,30.06.2022,£630k,Ligue 1
+420,SCO Angers,Goalkeeper,Ludovic Butelle,"Apr 3, 1983 (36)",France,30.06.2021,£450k,Ligue 1
+421,SCO Angers,Goalkeeper,Anthony Mandrea,"Dec 25, 1996 (22)",France,30.06.2020,£180k,Ligue 1
+422,SCO Angers,Defender,Romain Thomas,"Jun 12, 1988 (31)",France,30.06.2022,£2.70m,Ligue 1
+423,SCO Angers,Defender,Mateo Pavlovic,"Jun 9, 1990 (29)",Croatia,30.06.2020,£1.58m,Ligue 1
+424,SCO Angers,Defender,Ismaël Traoré,"Aug 18, 1986 (33)",Cote d'Ivoire,30.06.2020,£1.35m,Ligue 1
+425,SCO Angers,Defender,Ibrahim Cissé,"May 2, 1996 (23)",France,30.06.2021,£540k,Ligue 1
+426,SCO Angers,Defender,Théo Pellenard,"Mar 4, 1994 (25)",France,30.06.2020,£1.80m,Ligue 1
+427,SCO Angers,Defender,Rayan Aït Nouri,"Jun 6, 2001 (18)",France,30.06.2021,£450k,Ligue 1
+428,SCO Angers,Defender,Abdoulaye Bamba,"Apr 25, 1990 (29)",Cote d'Ivoire,30.06.2021,£2.70m,Ligue 1
+429,SCO Angers,Defender,Vincent Manceau,"Jul 24, 1989 (30)",France,30.06.2022,£2.25m,Ligue 1
+430,SCO Angers,Defender,Haithem Loucif,"Jul 8, 1996 (23)",Algeria,30.06.2023,£585k,Ligue 1
+431,SCO Angers,Midfielder,Baptiste Santamaría,"Mar 9, 1995 (24)",France,30.06.2022,£5.40m,Ligue 1
+432,SCO Angers,Midfielder,Vincent Pajot,"Aug 19, 1990 (29)",France,30.06.2021,£2.25m,Ligue 1
+433,SCO Angers,Midfielder,Anthony Gomez Mancini,"Apr 6, 2001 (18)",France,-,£135k,Ligue 1
+434,SCO Angers,Midfielder,Antonin Bobichon,"Sep 14, 1995 (24)",France,30.06.2023,£4.50m,Ligue 1
+435,SCO Angers,Midfielder,Thomas Mangani,"Apr 29, 1987 (32)",France,30.06.2020,£1.80m,Ligue 1
+436,SCO Angers,Midfielder,Sada Thioub,"Jun 1, 1995 (24)",Senegal,30.06.2023,£4.95m,Ligue 1
+437,SCO Angers,Midfielder,Angelo Fulgini,"Aug 20, 1996 (23)",France,30.06.2021,£4.50m,Ligue 1
+438,SCO Angers,Midfielder,Pierrick Capelle,"Apr 15, 1987 (32)",France,30.06.2021,£1.80m,Ligue 1
+439,SCO Angers,Midfielder,Mathias Pereira Lage,"Nov 30, 1996 (22)",Portugal,30.06.2022,£1.35m,Ligue 1
+440,SCO Angers,Forward,Casimir Ninga,"May 17, 1993 (26)",Chad,30.06.2023,£2.70m,Ligue 1
+441,SCO Angers,Forward,Farid El Melali,"May 5, 1997 (22)",Algeria,30.06.2023,£720k,Ligue 1
+442,SCO Angers,Forward,Stéphane Bahoken,"May 28, 1992 (27)",Cameroon,30.06.2022,£7.20m,Ligue 1
+443,SCO Angers,Forward,Rachid Alioui,"Jun 18, 1992 (27)",Morocco,30.06.2022,£3.60m,Ligue 1
+444,SCO Angers,Forward,Wilfried Kanga,"Feb 21, 1998 (21)",France,30.06.2020,£1.35m,Ligue 1
+445,Nîmes Olympique,Goalkeeper,Paul Bernardoni,"Apr 18, 1997 (22)",France,30.06.2020,£8.10m,Ligue 1
+446,Nîmes Olympique,Goalkeeper,Lucas Dias,"May 22, 1999 (20)",France,30.06.2022,£135k,Ligue 1
+447,Nîmes Olympique,Defender,Anthony Briancon,"Nov 28, 1994 (24)",France,30.06.2022,£4.50m,Ligue 1
+448,Nîmes Olympique,Defender,Pablo Martinez,"Feb 21, 1989 (30)",France,30.06.2022,£3.15m,Ligue 1
+449,Nîmes Olympique,Defender,Loïck Landre,"May 5, 1992 (27)",France,30.06.2021,£3.15m,Ligue 1
+450,Nîmes Olympique,Defender,Kelyan Guessoum,"Feb 5, 1999 (20)",France,30.06.2022,£135k,Ligue 1
+451,Nîmes Olympique,Defender,Florian Miguel,"Sep 1, 1996 (23)",France,30.06.2021,£1.35m,Ligue 1
+452,Nîmes Olympique,Defender,Théo Sainte-Luce,"Oct 20, 1998 (20)",France,30.06.2022,£135k,Ligue 1
+453,Nîmes Olympique,Defender,Sofiane Alakouch,"Jul 29, 1998 (21)",France,30.06.2021,£4.50m,Ligue 1
+454,Nîmes Olympique,Defender,Gaëtan Paquiez,"Feb 15, 1994 (25)",France,30.06.2022,£900k,Ligue 1
+455,Nîmes Olympique,Defender,Lucas Buades,"Dec 28, 1997 (21)",France,-,£135k,Ligue 1
+456,Nîmes Olympique,Midfielder,Lucas Deaux,"Dec 26, 1988 (30)",France,30.06.2021,£2.25m,Ligue 1
+457,Nîmes Olympique,Midfielder,Lamine Fomba,"Jan 26, 1998 (21)",France,30.06.2023,£2.25m,Ligue 1
+458,Nîmes Olympique,Midfielder,Sidy Sarr,"Jun 5, 1996 (23)",Senegal,30.06.2023,£540k,Ligue 1
+459,Nîmes Olympique,Midfielder,Theo Valls,"Dec 18, 1995 (23)",France,30.06.2020,£2.25m,Ligue 1
+460,Nîmes Olympique,Midfielder,Zinedine Ferhat,"Mar 1, 1993 (26)",Algeria,30.06.2022,£1.80m,Ligue 1
+461,Nîmes Olympique,Midfielder,Romain Philippoteaux,"Mar 2, 1988 (31)",France,30.06.2022,£900k,Ligue 1
+462,Nîmes Olympique,Midfielder,Haris Duljevic,"Nov 16, 1993 (25)",Bosnia-Herzegovina,30.06.2022,£720k,Ligue 1
+463,Nîmes Olympique,Forward,Renaud Ripart,"Mar 14, 1993 (26)",France,30.06.2023,£3.60m,Ligue 1
+464,Nîmes Olympique,Forward,Clément Depres,"Nov 25, 1994 (24)",France,30.06.2022,£1.35m,Ligue 1
+465,Nîmes Olympique,Forward,Vlatko Stojanovski,"Apr 23, 1997 (22)",North Macedonia,30.06.2022,£450k,Ligue 1
+466,Nîmes Olympique,Forward,Kévin Denkey,"Nov 30, 2000 (18)",Togo,30.06.2021,£270k,Ligue 1
+467,Nîmes Olympique,Forward,Sami Ben Amar,"Mar 2, 1998 (21)",Morocco,30.06.2021,£135k,Ligue 1
+468,FCO Dijon,Goalkeeper,Rúnar Alex Rúnarsson,"Feb 18, 1995 (24)",Iceland,30.06.2022,£2.70m,Ligue 1
+469,FCO Dijon,Goalkeeper,Alfred Gomis,"Sep 5, 1993 (26)",Senegal,30.06.2023,£1.80m,Ligue 1
+470,FCO Dijon,Goalkeeper,Lévi Ntumba,"Jan 12, 2001 (18)",France,30.06.2021,£270k,Ligue 1
+471,FCO Dijon,Defender,Bruno Ecuele Manga,"Jul 16, 1988 (31)",Gabon,30.06.2022,£2.70m,Ligue 1
+472,FCO Dijon,Defender,Wesley Lautoa,"Aug 25, 1987 (32)",France,30.06.2020,£1.80m,Ligue 1
+473,FCO Dijon,Defender,Nayef Aguerd,"Mar 30, 1996 (23)",Morocco,30.06.2021,£1.35m,Ligue 1
+474,FCO Dijon,Defender,Senou Coulibaly,"Sep 4, 1994 (25)",France,30.06.2020,£900k,Ligue 1
+475,FCO Dijon,Defender,Théo Barbet,"Mar 6, 2001 (18)",France,30.06.2022,£135k,Ligue 1
+476,FCO Dijon,Defender,Hamza Mendyl,"Oct 21, 1997 (21)",Morocco,30.06.2020,£3.60m,Ligue 1
+477,FCO Dijon,Defender,Ngonda Muzinga,"Dec 31, 1994 (24)",DR Congo,30.06.2021,£270k,Ligue 1
+478,FCO Dijon,Defender,Mickaël Alphonse,"Jul 12, 1989 (30)",Guadeloupe,30.06.2021,£810k,Ligue 1
+479,FCO Dijon,Defender,Fouad Chafik,"Oct 16, 1986 (32)",Morocco,30.06.2020,£720k,Ligue 1
+480,FCO Dijon,Midfielder,Enzo Loiodice,"Nov 27, 2000 (18)",France,30.06.2021,£4.95m,Ligue 1
+481,FCO Dijon,Midfielder,Didier Ndong,"Jun 17, 1994 (25)",Gabon,30.06.2023,£3.60m,Ligue 1
+482,FCO Dijon,Midfielder,Romain Amalfitano,"Aug 27, 1989 (30)",France,30.06.2021,£1.80m,Ligue 1
+483,FCO Dijon,Midfielder,Jordan Marié,"Sep 29, 1991 (27)",France,30.06.2020,£1.35m,Ligue 1
+484,FCO Dijon,Midfielder,Florent Balmont,"Feb 2, 1980 (39)",France,30.06.2020,£225k,Ligue 1
+485,FCO Dijon,Midfielder,Frédéric Sammaritano,"Mar 23, 1986 (33)",France,30.06.2020,£450k,Ligue 1
+486,FCO Dijon,Midfielder,Matheus Pereira,"Feb 25, 1998 (21)",Brazil,30.06.2020,£405k,Ligue 1
+487,FCO Dijon,Midfielder,Bryan Soumaré,"Feb 11, 1999 (20)",France,30.06.2022,£135k,Ligue 1
+488,FCO Dijon,Forward,Mounir Chouiar,"Jan 23, 1999 (20)",France,30.06.2022,£900k,Ligue 1
+489,FCO Dijon,Forward,Mama Baldé,"Nov 6, 1995 (23)",Guinea-Bissau,30.06.2022,£2.25m,Ligue 1
+490,FCO Dijon,Forward,Julio Tavarès,"Nov 19, 1988 (30)",Cape Verde,30.06.2021,£2.70m,Ligue 1
+491,FCO Dijon,Forward,Jhonder Cádiz,"Jul 29, 1995 (24)",Venezuela,30.06.2020,£1.80m,Ligue 1
+492,FCO Dijon,Forward,Stephy Mavididi,"May 31, 1998 (21)",England,30.06.2020,£495k,Ligue 1
+493,FC Metz,Goalkeeper,Alexandre Oukidja,"Jul 19, 1988 (31)",Algeria,30.06.2020,£1.80m,Ligue 1
+494,FC Metz,Goalkeeper,Paul Delecroix,"Oct 14, 1988 (30)",France,30.06.2020,£540k,Ligue 1
+495,FC Metz,Goalkeeper,Guillaume Dietsch,"Apr 17, 2001 (18)",France,30.06.2021,£135k,Ligue 1
+496,FC Metz,Defender,Mamadou Fofana,"Jan 21, 1998 (21)",Mali,30.06.2022,£1.80m,Ligue 1
+497,FC Metz,Defender,Stoppila Sunzu,"Jun 22, 1989 (30)",Zambia,30.06.2020,£1.80m,Ligue 1
+498,FC Metz,Defender,John Boye,"Apr 23, 1987 (32)",Ghana,30.06.2020,£900k,Ligue 1
+499,FC Metz,Defender,Thomas Delaine,"Mar 24, 1992 (27)",France,30.06.2022,£1.35m,Ligue 1
+500,FC Metz,Defender,Manuel Cabit,"Jun 3, 1993 (26)",Martinique,30.06.2022,£720k,Ligue 1
+501,FC Metz,Defender,Matthieu Udol,"Mar 20, 1996 (23)",France,30.06.2020,£360k,Ligue 1
+502,FC Metz,Defender,Fabien Centonze,"Jan 16, 1996 (23)",France,30.06.2024,£1.35m,Ligue 1
+503,FC Metz,Midfielder,Kévin N'Doram,"Jan 22, 1996 (23)",France,30.06.2020,£3.60m,Ligue 1
+504,FC Metz,Midfielder,Habib Maïga,"Jan 1, 1996 (23)",Cote d'Ivoire,30.06.2023,£900k,Ligue 1
+505,FC Metz,Midfielder,Sami Lahssaini,"Sep 18, 1998 (20)",Belgium,30.06.2022,£135k,Ligue 1
+506,FC Metz,Midfielder,Adama Traoré,"Jun 28, 1995 (24)",Mali,30.06.2020,£1.98m,Ligue 1
+507,FC Metz,Midfielder,Victorien Angban,"Sep 29, 1996 (22)",Cote d'Ivoire,-,£1.13m,Ligue 1
+508,FC Metz,Midfielder,Marvin Gakpa,"Nov 1, 1993 (25)",France,30.06.2021,£900k,Ligue 1
+509,FC Metz,Midfielder,Renaud Cohade,"Sep 29, 1984 (34)",France,30.06.2020,£900k,Ligue 1
+510,FC Metz,Midfielder,Papa Ndiaga Yade,"Jan 5, 2000 (19)",Senegal,30.06.2024,-,Ligue 1
+511,FC Metz,Forward,Opa Nguette,"Jul 8, 1994 (25)",Senegal,30.06.2022,£1.80m,Ligue 1
+512,FC Metz,Forward,Adama Traore,"Jun 5, 1995 (24)",Mali,30.06.2022,£270k,Ligue 1
+513,FC Metz,Forward,Farid Boulaya,"Feb 25, 1993 (26)",Algeria,30.06.2022,£1.80m,Ligue 1
+514,FC Metz,Forward,Habib Diallo,"Jun 15, 1995 (24)",Senegal,30.06.2022,£5.40m,Ligue 1
+515,FC Metz,Forward,Ibrahima Niane,"Mar 11, 1999 (20)",Senegal,30.06.2022,£3.15m,Ligue 1
+516,FC Metz,Forward,Thierry Ambrose,"Mar 28, 1997 (22)",France,30.06.2020,£1.80m,Ligue 1
+517,FC Metz,Forward,Amadou Ndiaye,"Jan 2, 2000 (19)",Senegal,30.06.2022,£135k,Ligue 1
+518,Stade Brest 29,Goalkeeper,Gautier Larsonneur,"Feb 23, 1997 (22)",France,30.06.2021,£3.60m,Ligue 1
+519,Stade Brest 29,Goalkeeper,Julien Fabri,"Feb 5, 1994 (25)",France,30.06.2020,£450k,Ligue 1
+520,Stade Brest 29,Goalkeeper,Donovan Léon,"Nov 3, 1992 (26)",French Guiana,30.06.2020,£225k,Ligue 1
+521,Stade Brest 29,Defender,Jean-Kevin Duverne,"Jul 12, 1997 (22)",France,30.06.2023,£1.80m,Ligue 1
+522,Stade Brest 29,Defender,Denys Bain,"Jul 2, 1993 (26)",France,30.06.2022,£1.35m,Ligue 1
+523,Stade Brest 29,Defender,Jean-Charles Castelletto,"Jan 26, 1995 (24)",Cameroon,30.06.2020,£1.35m,Ligue 1
+524,Stade Brest 29,Defender,Brendan Chardonnet,"Dec 22, 1994 (24)",France,30.06.2021,£720k,Ligue 1
+525,Stade Brest 29,Defender,Romain Perraud,"Sep 22, 1997 (21)",France,30.06.2023,£1.35m,Ligue 1
+526,Stade Brest 29,Defender,David Kiki,"Nov 25, 1993 (25)",Benin,30.06.2021,£540k,Ligue 1
+527,Stade Brest 29,Defender,Ludovic Baal,"May 24, 1986 (33)",French Guiana,30.06.2020,£450k,Ligue 1
+528,Stade Brest 29,Defender,Gaëtan Belaud,"Sep 16, 1986 (32)",France,30.06.2020,£810k,Ligue 1
+529,Stade Brest 29,Midfielder,Paul Lasne,"Jan 16, 1989 (30)",France,30.06.2020,£2.25m,Ligue 1
+530,Stade Brest 29,Midfielder,Ibrahima Diallo,"Mar 8, 1999 (20)",France,30.06.2023,£2.25m,Ligue 1
+531,Stade Brest 29,Midfielder,Cristian Battocchio,"Feb 10, 1992 (27)",Italy,30.06.2021,£1.35m,Ligue 1
+532,Stade Brest 29,Midfielder,Haris Belkebla,"Jan 28, 1994 (25)",Algeria,30.06.2022,£900k,Ligue 1
+533,Stade Brest 29,Midfielder,Ferris N'Goma,"Jun 15, 1993 (26)",France,30.06.2021,£630k,Ligue 1
+534,Stade Brest 29,Midfielder,Hugo Magnetti,"May 30, 1998 (21)",France,30.06.2021,£135k,Ligue 1
+535,Stade Brest 29,Midfielder,Hiang'a Mbock,"Dec 28, 1999 (19)",France,30.06.2022,-,Ligue 1
+536,Stade Brest 29,Midfielder,Samuel Grandsir,"Aug 14, 1996 (23)",France,30.06.2020,£2.70m,Ligue 1
+537,Stade Brest 29,Midfielder,Julien Faussurier,"Jan 14, 1987 (32)",France,30.06.2021,£900k,Ligue 1
+538,Stade Brest 29,Midfielder,Yoann Court,"Jan 14, 1990 (29)",France,30.06.2020,£900k,Ligue 1
+539,Stade Brest 29,Midfielder,Mathias Autret,"Mar 1, 1991 (28)",France,30.06.2020,£1.80m,Ligue 1
+540,Stade Brest 29,Forward,Gaëtan Charbonnier,"Dec 27, 1988 (30)",France,30.06.2021,£2.25m,Ligue 1
+541,Stade Brest 29,Forward,Alexandre Mendy,"Mar 20, 1994 (25)",France,30.06.2020,£2.03m,Ligue 1
+542,Stade Brest 29,Forward,Irvin Cardona,"Aug 8, 1997 (22)",France,30.06.2023,£1.35m,Ligue 1
+543,Stade Brest 29,Forward,Kévin Mayi,"Jan 14, 1993 (26)",France,30.06.2020,£630k,Ligue 1
+544,Stade Brest 29,Forward,Derick Osei Yaw,"Sep 10, 1998 (21)",France,30.06.2021,£135k,Ligue 1
