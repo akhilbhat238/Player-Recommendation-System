@@ -1,61 +1,61 @@
-Club,Name
-1. FC Köln,2
-1899 Hoffenheim,2
-AZ,1
-Ajax,4
-Alavés,1
-Arsenal,7
-Aston Villa,3
-Athletic Bilbao,1
-Atlético Madrid,9
-Barcelona,14
-Bayer Leverkusen,2
-Bayern Munich,11
-Bologna,4
-Bordeaux,3
-Borussia Dortmund,7
-Burnley,2
-Celta Vigo,3
-Chelsea,11
-Crystal Palace,2
-Espanyol,2
-Everton,3
-Fiorentina,2
-Hertha BSC,2
-Inter Milan,4
-Juventus,11
-Lazio,2
-Leicester City,8
-Lille,1
-Liverpool,7
-Lyon,2
-Mainz 05,2
-Manchester City,16
-Manchester United,11
-Marseille,4
-Milan,5
-Monaco,8
-Montpellier,1
-Nantes,1
-Nice,1
-PSV Eindhoven,3
-Paris Saint-Germain,12
-RB Leipzig,4
-Real Betis,2
-Rennes,4
-Roma,3
-SPAL,2
-Schalke 04,4
-Sevilla,6
-Southampton,4
-Torino,4
-Tottenham Hotspur,12
-Toulouse,3
-Udinese,3
-Valencia,2
-VfL Wolfsburg,2
-Villarreal,4
-Watford,1
-Werder Bremen,3
-West Ham United,3
-Wolverhampton Wanderers,2
+Club,League,Name
+1. FC Köln,Bundesliga,2
+1899 Hoffenheim,Bundesliga,2
+AZ,Eredivisie,1
+Ajax,Eredivisie,4
+Alavés,La Liga,1
+Arsenal,Premier League,7
+Aston Villa,Premier League,3
+Athletic Bilbao,La Liga,1
+Atlético Madrid,La Liga,9
+Barcelona,La Liga,14
+Bayer Leverkusen,Bundesliga,2
+Bayern Munich,Bundesliga,11
+Bologna,Serie A,4
+Bordeaux,Ligue 1,3
+Borussia Dortmund,Bundesliga,7
+Burnley,Premier League,2
+Celta Vigo,La Liga,3
+Chelsea,Premier League,11
+Crystal Palace,Premier League,2
+Espanyol,La Liga,2
+Everton,Premier League,3
+Fiorentina,Serie A,2
+Hertha BSC,Bundesliga,2
+Inter Milan,Serie A,4
+Juventus,Serie A,11
+Lazio,Serie A,2
+Leicester City,Premier League,8
+Lille,Ligue 1,1
+Liverpool,Premier League,7
+Lyon,Ligue 1,2
+Mainz 05,Bundesliga,2
+Manchester City,Premier League,16
+Manchester United,Premier League,11
+Marseille,Ligue 1,4
+Milan,Serie A,5
+Monaco,Ligue 1,8
+Montpellier,Ligue 1,1
+Nantes,Ligue 1,1
+Nice,Ligue 1,1
+PSV Eindhoven,Eredivisie,3
+Paris Saint-Germain,Ligue 1,12
+RB Leipzig,Bundesliga,4
+Real Betis,La Liga,2
+Rennes,Ligue 1,4
+Roma,Serie A,3
+SPAL,Serie A,2
+Schalke 04,Bundesliga,4
+Sevilla,La Liga,6
+Southampton,Premier League,4
+Torino,Serie A,4
+Tottenham Hotspur,Premier League,12
+Toulouse,Ligue 1,3
+Udinese,Serie A,3
+Valencia,La Liga,2
+VfL Wolfsburg,Bundesliga,2
+Villarreal,La Liga,4
+Watford,Premier League,1
+Werder Bremen,Bundesliga,3
+West Ham United,Premier League,3
+Wolverhampton Wanderers,Premier League,2
