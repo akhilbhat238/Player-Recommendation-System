@@ -1,0 +1,16 @@
+﻿Position,Section,Role
+RW,Forward,Attack
+ST,Forward,Attack
+LW,Forward,Attack
+GK,Goalkeeper,Defend
+CAM,Midfield,Attack
+CB,Defence,Defend
+CM,Midfield,Support
+CDM,Midfield,Defend
+CF,Forward,Attack
+LB,Defence,Defend
+RB,Defence,Defend
+RM,Midfield,Support
+LM,Midfield,Support
+LWB,Defence,Attack
+RWB,Defence,Attack
