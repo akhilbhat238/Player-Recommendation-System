@@ -1,0 +1,120 @@
+1. Correct data for league names
+2. Run clustering again. Follow notebook steps after this. 
+3. Remove clear seperations
+4. Repeat until desired results are obtained
+5. Perform normalization on all columns
+6. Repeat all steps
+
+
+1. Try dendogram directly with t=5 and check if results tally
+assign=fcluster(Z,t=5,criterion='maxclust')
+
+1. Run dataset on K-Means and check
+
+
+1. Club value --> Transfer Market  --> Done
+2. Champions League --> Use extracted DF --> Done
+3. Europa LEague --> Use extracted DF --> Done
+4. World Cup players --> Use extracted DF --> Done
+5. Top 50 players --> Use extracted DF  --> Done
+6. Avg league position --> Use extracted DF --> Done
+7. Cup wins/finals/semi finals--> Wiki? --> Done
+8. Player value sum --> Transfer Market --> Done
+
+Club Value + CL Data + EL Data + World Cup players + Top 50 + Avg League Position + Cups
+
+
+Combined_DF_temp['CL_Range1_Runners'] = Combined_DF_temp['CL_Range1_Runners'] * cl_weight * range1_wt * runner_wt * 1
+Combined_DF_temp['CL_Range1_SF1'] = Combined_DF_temp['CL_Range1_SF1'] * cl_weight * range1_wt * sf_wt * 1
+Combined_DF_temp['CL_Range1_SF2'] = Combined_DF_temp['CL_Range1_SF2'] * cl_weight * range1_wt * sf_wt * 1
+Combined_DF_temp['CL_Range1_Win'] = Combined_DF_temp['CL_Range1_Win'] * cl_weight * range1_wt * winner_wt * 1
+Combined_DF_temp['CL_Range2_Runners'] = Combined_DF_temp['CL_Range2_Runners'] * cl_weight * range2_wt * runner_wt * 1
+Combined_DF_temp['CL_Range2_SF1'] = Combined_DF_temp['CL_Range2_SF1'] * cl_weight * range2_wt * sf_wt * 1
+Combined_DF_temp['CL_Range2_SF2'] = Combined_DF_temp['CL_Range2_SF2'] * cl_weight * range2_wt * sf_wt * 1
+Combined_DF_temp['CL_Range2_Win'] = Combined_DF_temp['CL_Range2_Win'] * cl_weight * range2_wt * winner_wt * 1
+Combined_DF_temp['CL_Range3_Runners'] = Combined_DF_temp['CL_Range3_Runners'] * cl_weight * range3_wt * runner_wt * 1
+Combined_DF_temp['CL_Range3_SF1'] = Combined_DF_temp['CL_Range3_SF1'] * cl_weight * range3_wt * sf_wt * 1
+Combined_DF_temp['CL_Range3_SF2'] = Combined_DF_temp['CL_Range3_SF2'] * cl_weight * range3_wt * sf_wt * 1
+Combined_DF_temp['CL_Range3_Win'] = Combined_DF_temp['CL_Range3_Win'] * cl_weight * range3_wt * winner_wt * 1
+Combined_DF_temp['CL_Range4_Runners'] = Combined_DF_temp['CL_Range4_Runners'] * cl_weight * range4_wt * runner_wt * 1
+Combined_DF_temp['CL_Range4_SF1'] = Combined_DF_temp['CL_Range4_SF1'] * cl_weight * range4_wt * sf_wt * 1
+Combined_DF_temp['CL_Range4_SF2'] = Combined_DF_temp['CL_Range4_SF2'] * cl_weight * range4_wt * sf_wt * 1
+Combined_DF_temp['CL_Range4_Win'] = Combined_DF_temp['CL_Range4_Win'] * cl_weight * range4_wt * winner_wt * 1
+Combined_DF_temp['CL_Range5_Runners'] = Combined_DF_temp['CL_Range5_Runners'] * cl_weight * range5_wt * runner_wt * 1
+Combined_DF_temp['CL_Range5_SF1'] = Combined_DF_temp['CL_Range5_SF1'] * cl_weight * range5_wt * sf_wt * 1
+Combined_DF_temp['CL_Range5_SF2'] = Combined_DF_temp['CL_Range5_SF2'] * cl_weight * range5_wt * sf_wt * 1
+Combined_DF_temp['CL_Range5_Win'] = Combined_DF_temp['CL_Range5_Win'] * cl_weight * range5_wt * winner_wt * 1
+Combined_DF_temp['Deloitte_Club_Count'] = Combined_DF_temp['Deloitte_Club_Count'] * 1 * 1 * 1 * 0.8
+Combined_DF_temp['EL_Range1_Runners'] = Combined_DF_temp['EL_Range1_Runners'] * el_weight * range1_wt * runner_wt * 1
+Combined_DF_temp['EL_Range1_SF1'] = Combined_DF_temp['EL_Range1_SF1'] * el_weight * range1_wt * sf_wt * 1
+Combined_DF_temp['EL_Range1_SF2'] = Combined_DF_temp['EL_Range1_SF2'] * el_weight * range1_wt * sf_wt * 1
+Combined_DF_temp['EL_Range1_Win'] = Combined_DF_temp['EL_Range1_Win'] * el_weight * range1_wt * winner_wt * 1
+Combined_DF_temp['EL_Range2_Runners'] = Combined_DF_temp['EL_Range2_Runners'] * el_weight * range2_wt * runner_wt * 1
+Combined_DF_temp['EL_Range2_SF1'] = Combined_DF_temp['EL_Range2_SF1'] * el_weight * range2_wt * sf_wt * 1
+Combined_DF_temp['EL_Range2_SF2'] = Combined_DF_temp['EL_Range2_SF2'] * el_weight * range2_wt * sf_wt * 1
+Combined_DF_temp['EL_Range2_Win'] = Combined_DF_temp['EL_Range2_Win'] * el_weight * range2_wt * winner_wt * 1
+Combined_DF_temp['EL_Range3_Runners'] = Combined_DF_temp['EL_Range3_Runners'] * el_weight * range3_wt * runner_wt * 1
+Combined_DF_temp['EL_Range3_SF1'] = Combined_DF_temp['EL_Range3_SF1'] * el_weight * range3_wt * sf_wt * 1
+Combined_DF_temp['EL_Range3_SF2'] = Combined_DF_temp['EL_Range3_SF2'] * el_weight * range3_wt * sf_wt * 1
+Combined_DF_temp['EL_Range3_Win'] = Combined_DF_temp['EL_Range3_Win'] * el_weight * range3_wt * winner_wt * 1
+Combined_DF_temp['EL_Range4_Runners'] = Combined_DF_temp['EL_Range4_Runners'] * el_weight * range4_wt * runner_wt * 1
+Combined_DF_temp['EL_Range4_SF1'] = Combined_DF_temp['EL_Range4_SF1'] * el_weight * range4_wt * sf_wt * 1
+Combined_DF_temp['EL_Range4_SF2'] = Combined_DF_temp['EL_Range4_SF2'] * el_weight * range4_wt * sf_wt * 1
+Combined_DF_temp['EL_Range4_Win'] = Combined_DF_temp['EL_Range4_Win'] * el_weight * range4_wt * winner_wt * 1
+Combined_DF_temp['EL_Range5_Runners'] = Combined_DF_temp['EL_Range5_Runners'] * el_weight * range5_wt * runner_wt * 1
+Combined_DF_temp['EL_Range5_SF1'] = Combined_DF_temp['EL_Range5_SF1'] * el_weight * range5_wt * sf_wt * 1
+Combined_DF_temp['EL_Range5_SF2'] = Combined_DF_temp['EL_Range5_SF2'] * el_weight * range5_wt * sf_wt * 1
+Combined_DF_temp['EL_Range5_Win'] = Combined_DF_temp['EL_Range5_Win'] * el_weight * range5_wt * winner_wt * 1
+Combined_DF_temp['Top_Player_Count'] = Combined_DF_temp['Top_Player_Count'] * 1 * 1 * 1 * 1
+Combined_DF_temp['WC_Player_Count'] = Combined_DF_temp['WC_Player_Count'] * 1 * 1 * 1 * 0.6
+
+
+tier2_df['Avg_League_Pos']=tier2_df['Avg_League_Pos'] * 1*1*tier_2_lg
+tier2_df['Total Market Value']=tier2_df['Total Market Value'] * 1*1*tier_2_lg
+tier2_df['Range1_Win_CL']=tier2_df['Range1_Win_CL'] * winner_wt*range1_wt*cl_weight
+tier2_df['Range2_Win_CL']=tier2_df['Range2_Win_CL'] * winner_wt*range2_wt*cl_weight
+tier2_df['Range3_Win_CL']=tier2_df['Range3_Win_CL'] * winner_wt*range3_wt*cl_weight
+tier2_df['Range4_Win_CL']=tier2_df['Range4_Win_CL'] * winner_wt*range4_wt*cl_weight
+tier2_df['Range5_Win_CL']=tier2_df['Range5_Win_CL'] * winner_wt*range5_wt*cl_weight
+tier2_df['Range1_Run_CL']=tier2_df['Range1_Run_CL'] * runner_wt*range1_wt*cl_weight
+tier2_df['Range2_Run_CL']=tier2_df['Range2_Run_CL'] * runner_wt*range2_wt*cl_weight
+tier2_df['Range3_Run_CL']=tier2_df['Range3_Run_CL'] * runner_wt*range3_wt*cl_weight
+tier2_df['Range4_Run_CL']=tier2_df['Range4_Run_CL'] * runner_wt*range4_wt*cl_weight
+tier2_df['Range5_Run_CL']=tier2_df['Range5_Run_CL'] * runner_wt*range5_wt*cl_weight
+tier2_df['Range1_SF_CL']=tier2_df['Range1_SF_CL'] * sf_wt*range1_wt*cl_weight
+tier2_df['Range2_SF_CL']=tier2_df['Range2_SF_CL'] * sf_wt*range2_wt*cl_weight
+tier2_df['Range3_SF_CL']=tier2_df['Range3_SF_CL'] * sf_wt*range3_wt*cl_weight
+tier2_df['Range4_SF_CL']=tier2_df['Range4_SF_CL'] * sf_wt*range4_wt*cl_weight
+tier2_df['Range5_SF_CL']=tier2_df['Range5_SF_CL'] * sf_wt*range5_wt*cl_weight
+tier2_df['Range1_Win_EL']=tier2_df['Range1_Win_EL'] * winner_wt*range1_wt*el_weight
+tier2_df['Range2_Win_EL']=tier2_df['Range2_Win_EL'] * winner_wt*range2_wt*el_weight
+tier2_df['Range3_Win_EL']=tier2_df['Range3_Win_EL'] * winner_wt*range3_wt*el_weight
+tier2_df['Range4_Win_EL']=tier2_df['Range4_Win_EL'] * winner_wt*range4_wt*el_weight
+tier2_df['Range5_Win_EL']=tier2_df['Range5_Win_EL'] * winner_wt*range5_wt*el_weight
+tier2_df['Range1_Run_EL']=tier2_df['Range1_Run_EL'] * runner_wt*range1_wt*el_weight
+tier2_df['Range2_Run_EL']=tier2_df['Range2_Run_EL'] * runner_wt*range2_wt*el_weight
+tier2_df['Range3_Run_EL']=tier2_df['Range3_Run_EL'] * runner_wt*range3_wt*el_weight
+tier2_df['Range4_Run_EL']=tier2_df['Range4_Run_EL'] * runner_wt*range4_wt*el_weight
+tier2_df['Range5_Run_EL']=tier2_df['Range5_Run_EL'] * runner_wt*range5_wt*el_weight
+tier2_df['Range1_SF_EL']=tier2_df['Range1_SF_EL'] * sf_wt*range1_wt*el_weight
+tier2_df['Range2_SF_EL']=tier2_df['Range2_SF_EL'] * sf_wt*range2_wt*el_weight
+tier2_df['Range3_SF_EL']=tier2_df['Range3_SF_EL'] * sf_wt*range3_wt*el_weight
+tier2_df['Range4_SF_EL']=tier2_df['Range4_SF_EL'] * sf_wt*range4_wt*el_weight
+tier2_df['Range5_SF_EL']=tier2_df['Range5_SF_EL'] * sf_wt*range5_wt*el_weight
+tier2_df['WC_Player_Count']=tier2_df['WC_Player_Count'] * 1*1*tier_2_lg
+tier2_df['Player']=tier2_df['Player'] * 1*1*tier_2_lg
+tier2_df['Cup_Wins']=tier2_df['Cup_Wins'] * winner_wt*1*tier_2_lg
+tier2_df['Cup_Runners']=tier2_df['Cup_Runners'] * runner_wt*1*tier_2_lg
+
+
+il_final_df = pd.read_csv('..\\Consolidated Data\\Serie A Final.csv')
+del il_final_df['Unnamed: 0']
+il_final_df.columns = ['Team', 'Avg_League_Pos', 'Total Market Value', 'League', 'Range1_Win_CL',
+       'Range2_Win_CL', 'Range3_Win_CL', 'Range4_Win_CL', 'Range5_Win_CL',
+       'Range1_Run_CL', 'Range2_Run_CL', 'Range3_Run_CL', 'Range4_Run_CL',
+       'Range5_Run_CL', 'Range1_SF_CL', 'Range2_SF_CL', 'Range3_SF_CL',
+       'Range4_SF_CL', 'Range5_SF_CL', 'Range1_Win_EL', 'Range2_Win_EL',
+       'Range3_Win_EL', 'Range4_Win_EL', 'Range5_Win_EL', 'Range1_Run_EL',
+       'Range2_Run_EL', 'Range3_Run_EL', 'Range4_Run_EL', 'Range5_Run_EL',
+       'Range1_SF_EL', 'Range2_SF_EL', 'Range3_SF_EL', 'Range4_SF_EL',
+       'Range5_SF_EL', 'WC_Player_Count', 'Player', 'Cup_Wins', 'Cup_Runners']
